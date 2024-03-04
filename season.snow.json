@@ -26,22 +26,8 @@
           "PrimaryAssetName": "Athena_BattlePassDiscountToken_S08"
         }
       ],
-      "FreeLevelsThatNavigateToBattlePass": [
-        2,
-        6,
-        14,
-        22,
-        30,
-        38,
-        46,
-        54,
-        62
-      ],
-      "FreeLevelsThatAutoOpenTheAboutScreen": [
-        1,
-        14,
-        46
-      ],
+      "FreeLevelsThatNavigateToBattlePass": [2, 6, 14, 22, 30, 38, 46, 54, 62],
+      "FreeLevelsThatAutoOpenTheAboutScreen": [1, 14, 46],
       "SeasonXpScheduleFree": {
         "Levels": [
           {
@@ -2267,7 +2253,7 @@
                   "AssetPathName": "None",
                   "SubPathString": ""
                 },
-                "TemplateId": "HomebaseBannerIcon:brs8level100",
+                "TemplateId": "HomebaseBannerIcon:BRS8Level100",
                 "Quantity": 1,
                 "RewardGiftBox": {
                   "GiftBoxToUse": {
@@ -2464,7 +2450,7 @@
                   "AssetPathName": "None",
                   "SubPathString": ""
                 },
-                "TemplateId": "HomebaseBannerIcon:brs8jollyroger",
+                "TemplateId": "HomebaseBannerIcon:BRS8JollyRoger",
                 "Quantity": 1,
                 "RewardGiftBox": {
                   "GiftBoxToUse": {
@@ -2650,7 +2636,7 @@
                   "AssetPathName": "None",
                   "SubPathString": ""
                 },
-                "TemplateId": "HomebaseBannerIcon:brs8treasurechest",
+                "TemplateId": "HomebaseBannerIcon:BRS8TreasureChest",
                 "Quantity": 1,
                 "RewardGiftBox": {
                   "GiftBoxToUse": {
@@ -3121,7 +3107,7 @@
                   "AssetPathName": "None",
                   "SubPathString": ""
                 },
-                "TemplateId": "HomebaseBannerIcon:brs8pineapple",
+                "TemplateId": "HomebaseBannerIcon:BRS8Pineapple",
                 "Quantity": 1,
                 "RewardGiftBox": {
                   "GiftBoxToUse": {
@@ -3231,7 +3217,7 @@
                   "AssetPathName": "None",
                   "SubPathString": ""
                 },
-                "TemplateId": "HomebaseBannerIcon:brs8jellyfish",
+                "TemplateId": "HomebaseBannerIcon:BRS8Jellyfish",
                 "Quantity": 1,
                 "RewardGiftBox": {
                   "GiftBoxToUse": {
@@ -3693,7 +3679,7 @@
                   "AssetPathName": "None",
                   "SubPathString": ""
                 },
-                "TemplateId": "HomebaseBannerIcon:brs8ziggurat",
+                "TemplateId": "HomebaseBannerIcon:BRS8Ziggurat",
                 "Quantity": 1,
                 "RewardGiftBox": {
                   "GiftBoxToUse": {
@@ -3891,7 +3877,7 @@
                   "AssetPathName": "None",
                   "SubPathString": ""
                 },
-                "TemplateId": "HomebaseBannerIcon:brs8coconuts",
+                "TemplateId": "HomebaseBannerIcon:BRS8Coconuts",
                 "Quantity": 1,
                 "RewardGiftBox": {
                   "GiftBoxToUse": {
@@ -4155,7 +4141,7 @@
                   "AssetPathName": "None",
                   "SubPathString": ""
                 },
-                "TemplateId": "HomebaseBannerIcon:brs8foxhead",
+                "TemplateId": "HomebaseBannerIcon:BRS8Foxhead",
                 "Quantity": 1,
                 "RewardGiftBox": {
                   "GiftBoxToUse": {
@@ -4287,7 +4273,7 @@
                   "AssetPathName": "None",
                   "SubPathString": ""
                 },
-                "TemplateId": "HomebaseBannerIcon:brs8roach",
+                "TemplateId": "HomebaseBannerIcon:BRS8Roach",
                 "Quantity": 1,
                 "RewardGiftBox": {
                   "GiftBoxToUse": {
@@ -4419,7 +4405,7 @@
                   "AssetPathName": "None",
                   "SubPathString": ""
                 },
-                "TemplateId": "HomebaseBannerIcon:brs8whaletail",
+                "TemplateId": "HomebaseBannerIcon:BRS8WhaleTail",
                 "Quantity": 1,
                 "RewardGiftBox": {
                   "GiftBoxToUse": {
@@ -4639,7 +4625,7 @@
                   "AssetPathName": "None",
                   "SubPathString": ""
                 },
-                "TemplateId": "HomebaseBannerIcon:brs8tigerstripes",
+                "TemplateId": "HomebaseBannerIcon:BRS8TigerStripes",
                 "Quantity": 1,
                 "RewardGiftBox": {
                   "GiftBoxToUse": {
@@ -4947,7 +4933,7 @@
                   "AssetPathName": "None",
                   "SubPathString": ""
                 },
-                "TemplateId": "HomebaseBannerIcon:brs8crystalllama",
+                "TemplateId": "HomebaseBannerIcon:BRS8CrystalLlama",
                 "Quantity": 1,
                 "RewardGiftBox": {
                   "GiftBoxToUse": {
