@@ -1,4 +1,1289 @@
 {
+  "BID_415_TechLlama_Retrac": {
+    "grants": [],
+    "item": "BID_415_TechLlama_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "BID_507_DonutPlate_Retrac": {
+    "grants": [],
+    "item": "BID_507_DonutPlate_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "BID_521_WildCat_Retrac": {
+    "grants": [],
+    "item": "BID_521_WildCat_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "BID_702_SkirmishFemale_Retrac": {
+    "grants": [],
+    "item": "BID_702_SkirmishFemale_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "BID_902_HeadbandMale_Retrac": {
+    "grants": [],
+    "item": "BID_902_HeadbandMale_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_434_Athena_Commando_F_StealthHonor_Retrac": {
+    "grants": [],
+    "item": "CID_434_Athena_Commando_F_StealthHonor_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_452_Athena_Commando_F_CyberFu_Retrac": {
+    "grants": [],
+    "item": "CID_452_Athena_Commando_F_CyberFu_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_453_Athena_Commando_F_GlowBro_Retrac": {
+    "grants": [],
+    "item": "CID_453_Athena_Commando_F_GlowBro_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_583_Athena_Commando_F_NoshHunter_Retrac": {
+    "grants": [],
+    "item": "CID_583_Athena_Commando_F_NoshHunter_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_616_Athena_Commando_F_CavalryBandit_Retrac": {
+    "grants": [
+      {
+        "channel": "Material",
+        "value": "Mat1"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat2"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat3"
+      }
+    ],
+    "item": "CID_616_Athena_Commando_F_CavalryBandit_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_619_Athena_Commando_F_TechLlama_Retrac": {
+    "grants": [],
+    "item": "CID_619_Athena_Commando_F_TechLlama_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_660_Athena_Commando_F_BandageNinjaBlue_Retrac": {
+    "grants": [],
+    "item": "CID_660_Athena_Commando_F_BandageNinjaBlue_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_663_Athena_Commando_F_Frogman_Retrac": {
+    "grants": [],
+    "item": "CID_663_Athena_Commando_F_Frogman_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_694_Athena_Commando_M_CatBurglar_Retrac": {
+    "grants": [
+      {
+        "channel": "Material",
+        "value": "Mat1"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat2"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat3"
+      }
+    ],
+    "item": "CID_694_Athena_Commando_M_CatBurglar_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_703_Athena_Commando_M_Cyclone_Retrac": {
+    "grants": [],
+    "item": "CID_703_Athena_Commando_M_Cyclone_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_704_Athena_Commando_F_LollipopTrickster_Retrac": {
+    "grants": [],
+    "item": "CID_704_Athena_Commando_F_LollipopTrickster_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_736_Athena_Commando_F_DonutDish_Retrac": {
+    "grants": [],
+    "item": "CID_736_Athena_Commando_F_DonutDish_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_737_Athena_Commando_F_DonutPlate_Retrac": {
+    "grants": [],
+    "item": "CID_737_Athena_Commando_F_DonutPlate_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_748_Athena_Commando_F_Hitman_Retrac": {
+    "grants": [
+      {
+        "channel": "Material",
+        "value": "Mat1"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat2"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat3"
+      }
+    ],
+    "item": "CID_748_Athena_Commando_F_Hitman_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_749_Athena_Commando_F_GraffitiAssassin_Retrac": {
+    "grants": [
+      {
+        "channel": "Material",
+        "value": "Mat1"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat2"
+      }
+    ],
+    "item": "CID_749_Athena_Commando_F_GraffitiAssassin_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_753_Athena_Commando_F_Hostile_Retrac": {
+    "grants": [],
+    "item": "CID_753_Athena_Commando_F_Hostile_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_757_Athena_Commando_F_WildCat_Retrac": {
+    "grants": [
+      {
+        "channel": "Material",
+        "value": "Mat1"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat2"
+      }
+    ],
+    "item": "CID_757_Athena_Commando_F_WildCat_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_801_Athena_Commando_F_GolfSummer_Retrac": {
+    "grants": [],
+    "item": "CID_801_Athena_Commando_F_GolfSummer_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_812_Athena_Commando_F_RedRidingSummer_Retrac": {
+    "grants": [
+      {
+        "channel": "Material",
+        "value": "Mat1"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat2"
+      }
+    ],
+    "item": "CID_812_Athena_Commando_F_RedRidingSummer_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_842_Athena_Commando_F_HightowerHoneydew_Retrac": {
+    "grants": [
+      {
+        "channel": "Material",
+        "value": "Mat1"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat2"
+      }
+    ],
+    "item": "CID_842_Athena_Commando_F_HightowerHoneydew_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_848_Athena_Commando_F_DarkNinjaPurple_Retrac": {
+    "grants": [],
+    "item": "CID_848_Athena_Commando_F_DarkNinjaPurple_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_899_Athena_Commando_F_Poison_Retrac": {
+    "grants": [
+      {
+        "channel": "Material",
+        "value": "Mat1"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat2"
+      }
+    ],
+    "item": "CID_899_Athena_Commando_F_Poison_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_A_024_Athena_Commando_F_Skirmish_Retrac": {
+    "grants": [],
+    "item": "CID_A_024_Athena_Commando_F_Skirmish_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_A_034_Athena_Commando_F_CatBurglar_Retrac": {
+    "grants": [],
+    "item": "CID_A_034_Athena_Commando_F_CatBurglar_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_A_040_Athena_Commando_F_Temple_Retrac": {
+    "grants": [],
+    "item": "CID_A_040_Athena_Commando_F_Temple_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_A_202_Athena_Commando_F_Division_Retrac": {
+    "grants": [
+      {
+        "channel": "Material",
+        "value": "Mat1"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat2"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat3"
+      }
+    ],
+    "item": "CID_A_202_Athena_Commando_F_Division_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_A_261_Athena_Commando_M_Headband_Retrac": {
+    "grants": [],
+    "item": "CID_A_261_Athena_Commando_M_Headband_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_ClubPengin_Retrac": {
+    "grants": [],
+    "item": "CID_ClubPengin_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_Iza_Retrac": {
+    "grants": [],
+    "item": "CID_Iza_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_JurassicArchaeologySummer_Retrac": {
+    "grants": [],
+    "item": "CID_JurassicArchaeologySummer_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_MineLuke_Retrac": {
+    "grants": [
+      {
+        "channel": "Material",
+        "value": "Mat1"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat2"
+      }
+    ],
+    "item": "CID_MineLuke_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_Obey_Retrac": {
+    "grants": [],
+    "item": "CID_Obey_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_PeterGriffin_Retrac": {
+    "grants": [],
+    "item": "CID_PeterGriffin_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "Character_FearlessFlightHero_Retrac": {
+    "grants": [
+      {
+        "channel": "Parts",
+        "value": "Stage1"
+      },
+      {
+        "channel": "Parts",
+        "value": "Stage2"
+      }
+    ],
+    "item": "Character_FearlessFlightHero_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "Character_RoseDust_Retrac": {
+    "grants": [
+      {
+        "channel": "Parts",
+        "value": "Stage1"
+      },
+      {
+        "channel": "Parts",
+        "value": "Stage2"
+      }
+    ],
+    "item": "Character_RoseDust_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "Character_SkippingClouds_Retrac": {
+    "grants": [],
+    "item": "Character_SkippingClouds_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "Character_StallionAviator_Retrac": {
+    "grants": [
+      {
+        "channel": "Material",
+        "value": "Mat1"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat2"
+      }
+    ],
+    "item": "Character_StallionAviator_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_7Rings_Retrac": {
+    "grants": [],
+    "item": "EID_7Rings_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Adoration_Retrac": {
+    "grants": [],
+    "item": "EID_Adoration_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Affection_Retrac": {
+    "grants": [],
+    "item": "EID_Affection_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Affluent_Retrac": {
+    "grants": [],
+    "item": "EID_Affluent_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Aloha_Retrac": {
+    "grants": [],
+    "item": "EID_Aloha_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_BankNotes_Retrac": {
+    "grants": [],
+    "item": "EID_BankNotes_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Bboomv1_Retrac": {
+    "grants": [],
+    "item": "EID_Bboomv1_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Bboomv2_Retrac": {
+    "grants": [],
+    "item": "EID_Bboomv2_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_BillyBounce_Retrac": {
+    "grants": [],
+    "item": "EID_BillyBounce_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_BlueApparel_Retrac": {
+    "grants": [],
+    "item": "EID_BlueApparel_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Blueberry_Retrac": {
+    "grants": [],
+    "item": "EID_Blueberry_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Bollywood_Retrac": {
+    "grants": [],
+    "item": "EID_Bollywood_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_BoysALiar_Retrac": {
+    "grants": [],
+    "item": "EID_BoysALiar_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Bulletproof_Retrac": {
+    "grants": [],
+    "item": "EID_Bulletproof_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_CallMeMaybe_Retrac": {
+    "grants": [],
+    "item": "EID_CallMeMaybe_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Camouflage_Retrac": {
+    "grants": [],
+    "item": "EID_Camouflage_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Cherish_Retrac": {
+    "grants": [],
+    "item": "EID_Cherish_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_ChickenLeg_Retrac": {
+    "grants": [],
+    "item": "EID_ChickenLeg_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Chilled_Retrac": {
+    "grants": [],
+    "item": "EID_Chilled_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Competitor_Retrac": {
+    "grants": [],
+    "item": "EID_Competitor_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Coping_Retrac": {
+    "grants": [],
+    "item": "EID_Coping_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Darling_Retrac": {
+    "grants": [],
+    "item": "EID_Darling_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Deceiver_Retrac": {
+    "grants": [],
+    "item": "EID_Deceiver_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Delirious_Retrac": {
+    "grants": [],
+    "item": "EID_Delirious_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Destiny_Retrac": {
+    "grants": [],
+    "item": "EID_Destiny_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Devotion_Retrac": {
+    "grants": [],
+    "item": "EID_Devotion_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_DontSneeze_Retrac": {
+    "grants": [],
+    "item": "EID_DontSneeze_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_DownTheDrain_Retrac": {
+    "grants": [],
+    "item": "EID_DownTheDrain_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Downward_8GZUA_Retrac": {
+    "grants": [],
+    "item": "EID_Downward_8GZUA_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_DuDu_Retrac": {
+    "grants": [],
+    "item": "EID_DuDu_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_ElleFrance_Retrac": {
+    "grants": [],
+    "item": "EID_ElleFrance_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Exquisite_Retrac": {
+    "grants": [],
+    "item": "EID_Exquisite_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_GalaxyLevel_Retrac": {
+    "grants": [],
+    "item": "EID_GalaxyLevel_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Goodbye_Upbeat_Retrac": {
+    "grants": [],
+    "item": "EID_Goodbye_Upbeat_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Griddles_Retrac": {
+    "grants": [],
+    "item": "EID_Griddles_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_HeavyRoarDance_Retrac": {
+    "grants": [],
+    "item": "EID_HeavyRoarDance_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_HeyMama_Retrac": {
+    "grants": [],
+    "item": "EID_HeyMama_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Hoist_Retrac": {
+    "grants": [],
+    "item": "EID_Hoist_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_HotPink_Retrac": {
+    "grants": [],
+    "item": "EID_HotPink_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_IndieBucket_Retrac": {
+    "grants": [],
+    "item": "EID_IndieBucket_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_JanuaryBop_Retrac": {
+    "grants": [],
+    "item": "EID_JanuaryBop_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Jockey_Retrac": {
+    "grants": [],
+    "item": "EID_Jockey_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_JumpStyleDance_Retrac": {
+    "grants": [],
+    "item": "EID_JumpStyleDance_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_LasagnaDance_Retrac": {
+    "grants": [],
+    "item": "EID_LasagnaDance_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_LetsBegin_Retrac": {
+    "grants": [],
+    "item": "EID_LetsBegin_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_LilSplit_Retrac": {
+    "grants": [],
+    "item": "EID_LilSplit_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_MagicMan_Retrac": {
+    "grants": [],
+    "item": "EID_MagicMan_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Marvelous_Retrac": {
+    "grants": [],
+    "item": "EID_Marvelous_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_MaskOff_Retrac": {
+    "grants": [],
+    "item": "EID_MaskOff_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Medicinal_Retrac": {
+    "grants": [],
+    "item": "EID_Medicinal_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_MinelukeShuffle_Retrac": {
+    "grants": [],
+    "item": "EID_MinelukeShuffle_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Mood_Retrac": {
+    "grants": [],
+    "item": "EID_Mood_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_MoveYourHands_Retrac": {
+    "grants": [],
+    "item": "EID_MoveYourHands_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_PhutHon_Retrac": {
+    "grants": [],
+    "item": "EID_PhutHon_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Poppyv1_Retrac": {
+    "grants": [],
+    "item": "EID_Poppyv1_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Poppyv2_Retrac": {
+    "grants": [],
+    "item": "EID_Poppyv2_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Promenade_Retrac": {
+    "grants": [],
+    "item": "EID_Promenade_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Prosper_Retrac": {
+    "grants": [],
+    "item": "EID_Prosper_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Punctual_Retrac": {
+    "grants": [],
+    "item": "EID_Punctual_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Reign_Retrac": {
+    "grants": [],
+    "item": "EID_Reign_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_RememberMe_Retrac": {
+    "grants": [],
+    "item": "EID_RememberMe_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Repetition_Retrac": {
+    "grants": [],
+    "item": "EID_Repetition_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_RichScholar_Retrac": {
+    "grants": [],
+    "item": "EID_RichScholar_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Ringer_Retrac": {
+    "grants": [],
+    "item": "EID_Ringer_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_SandwichBop_Retrac": {
+    "grants": [],
+    "item": "EID_SandwichBop_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Saxobeat_Retrac": {
+    "grants": [],
+    "item": "EID_Saxobeat_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Seetinh_Retrac": {
+    "grants": [],
+    "item": "EID_Seetinh_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_ShadowsInMyRoom_Retrac": {
+    "grants": [],
+    "item": "EID_ShadowsInMyRoom_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Shimmy_Retrac": {
+    "grants": [],
+    "item": "EID_Shimmy_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_SkippingClouds_Retrac": {
+    "grants": [],
+    "item": "EID_SkippingClouds_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_SnowKnight_Retrac": {
+    "grants": [],
+    "item": "EID_SnowKnight_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Spectacular_Retrac": {
+    "grants": [],
+    "item": "EID_Spectacular_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_SpeedDial_Retrac": {
+    "grants": [],
+    "item": "EID_SpeedDial_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_StringDance_Retrac": {
+    "grants": [],
+    "item": "EID_StringDance_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_SunMelt_Retrac": {
+    "grants": [],
+    "item": "EID_SunMelt_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_SweetShot_Retrac": {
+    "grants": [],
+    "item": "EID_SweetShot_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Tally_Retrac": {
+    "grants": [],
+    "item": "EID_Tally_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Tonal_Retrac": {
+    "grants": [],
+    "item": "EID_Tonal_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Trajectory_Retrac": {
+    "grants": [],
+    "item": "EID_Trajectory_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_TwistDaytona_Retrac": {
+    "grants": [],
+    "item": "EID_TwistDaytona_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Undead_Retrac": {
+    "grants": [],
+    "item": "EID_Undead_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_VicDance102_Retrac": {
+    "grants": [],
+    "item": "EID_VicDance102_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_VicDance112_Retrac": {
+    "grants": [],
+    "item": "EID_VicDance112_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_VicDance114_Retrac": {
+    "grants": [],
+    "item": "EID_VicDance114_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_VicDance116_Retrac": {
+    "grants": [],
+    "item": "EID_VicDance116_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Vivid_Retrac": {
+    "grants": [],
+    "item": "EID_Vivid_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_VoidRedemption_Retrac": {
+    "grants": [],
+    "item": "EID_VoidRedemption_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Whisk_Retrac": {
+    "grants": [],
+    "item": "EID_Whisk_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_ZebraScramble_Retrac": {
+    "grants": [],
+    "item": "EID_ZebraScramble_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "Emoji_Retrac": {
+    "grants": [],
+    "item": "Emoji_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "MusicPack_Anders_Retrac": {
+    "grants": [],
+    "item": "MusicPack_Anders_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "MusicPack_Bonne_Retrac": {
+    "grants": [],
+    "item": "MusicPack_Bonne_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "MusicPack_FModDiss_Retrac": {
+    "grants": [],
+    "item": "MusicPack_FModDiss_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "MusicPack_Fleece_Retrac": {
+    "grants": [],
+    "item": "MusicPack_Fleece_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "MusicPack_IndieBucket_Retrac": {
+    "grants": [],
+    "item": "MusicPack_IndieBucket_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "MusicPack_Metamorphosis_Retrac": {
+    "grants": [],
+    "item": "MusicPack_Metamorphosis_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "MusicPack_Rich_Retrac": {
+    "grants": [],
+    "item": "MusicPack_Rich_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "MusicPack_Sea_Retrac": {
+    "grants": [],
+    "item": "MusicPack_Sea_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "Pickaxe_BoneWand_Retrac": {
+    "grants": [],
+    "item": "Pickaxe_BoneWand_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "Pickaxe_ID_363_LollipopTricksterFemale_Retrac": {
+    "grants": [],
+    "item": "Pickaxe_ID_363_LollipopTricksterFemale_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "Pickaxe_ID_376_FNCS_Retrac": {
+    "grants": [],
+    "item": "Pickaxe_ID_376_FNCS_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "Pickaxe_ID_599_CavernFemale_Retrac": {
+    "grants": [],
+    "item": "Pickaxe_ID_599_CavernFemale_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
   "VTID_002_CarbideBlue_Stage1": {
     "grants": [
       {
