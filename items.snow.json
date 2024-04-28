@@ -1,5 +1,94 @@
 [
   {
+    "id": "Character_HitmanFNCS_Retrac",
+    "name": "Hitman",
+    "description": "Fashionably floaty.",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_674_Athena_Commando_F_HoodieBandit_Retrac",
+    "name": "Hitman",
+    "description": "Fashionably floaty.",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_Skeleton_Retrac",
+    "name": "Hitman",
+    "description": "Fashionably floaty.",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "BID_457_HoodieBandit_Retrac",
+    "name": "Loons",
+    "description": "Fashionably floaty.",
+    "type": {
+      "backendValue": "AthenaBackpack"
+    }
+  },
+  {
+    "id": "MusicPack_Anders_Retrac",
+    "name": "Loons",
+    "description": "Fashionably floaty.",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Bonne_Retrac",
+    "name": "Loons",
+    "description": "Fashionably floaty.",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Fleece_Retrac",
+    "name": "Loons",
+    "description": "Fashionably floaty.",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Rich_Retrac",
+    "name": "Loons",
+    "description": "Fashionably floaty.",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Sea_Retrac",
+    "name": "Loons",
+    "description": "Fashionably floaty.",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Metamorphosis_Retrac",
+    "name": "Loons",
+    "description": "Fashionably floaty.",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_IndieBucket_Retrac",
+    "name": "Loons",
+    "description": "Fashionably floaty.",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  
+  {
     "id": "BID_415_TechLlama_Retrac",
     "name": "Loons",
     "description": "Fashionably floaty.",
