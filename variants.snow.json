@@ -1,7 +1,40 @@
 {
+  "Character_PhoneCharger_Retrac": {
+    "grants": [
+      {
+        "channel": "Material",
+        "value": "Mat1"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat2"
+      },
+      {
+        "channel": "Parts",
+        "value": "Stage0"
+      },
+      {
+        "channel": "Parts",
+        "value": "Stage1"
+      }
+    ],
+    "item": "Character_PhoneCharger_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
   "BID_415_TechLlama_Retrac": {
     "grants": [],
     "item": "BID_415_TechLlama_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "BID_457_HoodieBandit_Retrac": {
+    "grants": [],
+    "item": "BID_457_HoodieBandit_Retrac",
     "name": "Kaede",
     "gift": false,
     "equip": false,
@@ -34,6 +67,27 @@
   "BID_902_HeadbandMale_Retrac": {
     "grants": [],
     "item": "BID_902_HeadbandMale_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_029_Athena_Commando_F_Halloween": {
+    "grants": [
+      {
+        "channel": "Material",
+        "value": "Mat1"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat2"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat3"
+      }
+    ],
+    "item": "CID_029_Athena_Commando_F_Halloween",
     "name": "Kaede",
     "gift": false,
     "equip": false,
@@ -111,6 +165,23 @@
   "CID_663_Athena_Commando_F_Frogman_Retrac": {
     "grants": [],
     "item": "CID_663_Athena_Commando_F_Frogman_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_674_Athena_Commando_F_HoodieBandit_Retrac": {
+    "grants": [
+      {
+        "channel": "Parts",
+        "value": "Stage1"
+      },
+      {
+        "channel": "Parts",
+        "value": "Stage2"
+      }
+    ],
+    "item": "CID_674_Athena_Commando_F_HoodieBandit_Retrac",
     "name": "Kaede",
     "gift": false,
     "equip": false,
@@ -409,6 +480,14 @@
     "equip": false,
     "unseen": false
   },
+  "CID_Skeleton_Retrac": {
+    "grants": [],
+    "item": "CID_Skeleton_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
   "Character_FearlessFlightHero_Retrac": {
     "grants": [
       {
@@ -421,6 +500,14 @@
       }
     ],
     "item": "Character_FearlessFlightHero_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "Character_HitmanFNCS": {
+    "grants": [],
+    "item": "Character_HitmanFNCS",
     "name": "Kaede",
     "gift": false,
     "equip": false,
@@ -575,6 +662,14 @@
   "EID_Bulletproof_Retrac": {
     "grants": [],
     "item": "EID_Bulletproof_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Cadaver_Retrac": {
+    "grants": [],
+    "item": "EID_Cadaver_Retrac",
     "name": "Kaede",
     "gift": false,
     "equip": false,
@@ -1180,14 +1275,6 @@
     "equip": false,
     "unseen": false
   },
-  "Emoji_Retrac": {
-    "grants": [],
-    "item": "Emoji_Retrac",
-    "name": "Kaede",
-    "gift": false,
-    "equip": false,
-    "unseen": false
-  },
   "MusicPack_Anders_Retrac": {
     "grants": [],
     "item": "MusicPack_Anders_Retrac",
@@ -1255,6 +1342,14 @@
   "Pickaxe_BoneWand_Retrac": {
     "grants": [],
     "item": "Pickaxe_BoneWand_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "Pickaxe_ID_343_HoodieBanditFemale_Retrac": {
+    "grants": [],
+    "item": "Pickaxe_ID_343_HoodieBanditFemale_Retrac",
     "name": "Kaede",
     "gift": false,
     "equip": false,
