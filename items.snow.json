@@ -1,30 +1,14 @@
 [
   {
-    "id": "Character_HitmanFNCS_Retrac",
-    "name": "Hitman",
-    "description": "Fashionably floaty.",
+    "id": "Character_PhoneCharger_Retrac",
+    "name": "GREEN ROOTS BILLIE",
+    "description": "what do you want from me.",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
-    "id": "CID_674_Athena_Commando_F_HoodieBandit_Retrac",
-    "name": "Hitman",
-    "description": "Fashionably floaty.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_Skeleton_Retrac",
-    "name": "Hitman",
-    "description": "Fashionably floaty.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "BID_457_HoodieBandit_Retrac",
+    "id": "BID_415_TechLlama_Retrac",
     "name": "Loons",
     "description": "Fashionably floaty.",
     "type": {
@@ -32,66 +16,9 @@
     }
   },
   {
-    "id": "MusicPack_Anders_Retrac",
-    "name": "Loons",
-    "description": "Fashionably floaty.",
-    "type": {
-      "backendValue": "AthenaMusicPack"
-    }
-  },
-  {
-    "id": "MusicPack_Bonne_Retrac",
-    "name": "Loons",
-    "description": "Fashionably floaty.",
-    "type": {
-      "backendValue": "AthenaMusicPack"
-    }
-  },
-  {
-    "id": "MusicPack_Fleece_Retrac",
-    "name": "Loons",
-    "description": "Fashionably floaty.",
-    "type": {
-      "backendValue": "AthenaMusicPack"
-    }
-  },
-  {
-    "id": "MusicPack_Rich_Retrac",
-    "name": "Loons",
-    "description": "Fashionably floaty.",
-    "type": {
-      "backendValue": "AthenaMusicPack"
-    }
-  },
-  {
-    "id": "MusicPack_Sea_Retrac",
-    "name": "Loons",
-    "description": "Fashionably floaty.",
-    "type": {
-      "backendValue": "AthenaMusicPack"
-    }
-  },
-  {
-    "id": "MusicPack_Metamorphosis_Retrac",
-    "name": "Loons",
-    "description": "Fashionably floaty.",
-    "type": {
-      "backendValue": "AthenaMusicPack"
-    }
-  },
-  {
-    "id": "MusicPack_IndieBucket_Retrac",
-    "name": "Loons",
-    "description": "Fashionably floaty.",
-    "type": {
-      "backendValue": "AthenaMusicPack"
-    }
-  },
-  
-  {
-    "id": "BID_415_TechLlama_Retrac",
-    "name": "Loons",
-    "description": "Fashionably floaty.",
+    "id": "BID_457_HoodieBandit_Retrac",
+    "name": "Roundabout",
+    "description": "Vibrant, vivid, and very round.",
     "type": {
       "backendValue": "AthenaBackpack"
     }
@@ -126,6 +53,14 @@
     "description": "Contains jutsu.",
     "type": {
       "backendValue": "AthenaBackpack"
+    }
+  },
+  {
+    "id": "CID_029_Athena_Commando_F_Halloween",
+    "name": "Ghoul Trooper",
+    "description": "Epic ghoul trooper outfit.",
+    "type": {
+      "backendValue": "AthenaCharacter"
     }
   },
   {
@@ -188,6 +123,14 @@
     "id": "CID_663_Athena_Commando_F_Frogman_Retrac",
     "name": "Clash",
     "description": "Wherever she goes trouble follows.",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_674_Athena_Commando_F_HoodieBandit_Retrac",
+    "name": "Iris",
+    "description": "Keep the competition in your sights.",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -393,9 +336,33 @@
     }
   },
   {
+    "id": "CID_Skeleton_Retrac",
+    "name": "Skeleton",
+    "description": ":skull: Skin by Dreddsy.",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_FearlessFlightHero_Retrac",
     "name": "Spider-Man (Miles Morales)",
     "description": "With great ability comes great accountability.",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_HitmanFNCS",
+    "name": "Champion Siren",
+    "description": "Inescapable challenger with unforgettable grace.",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_PhoneCharger_Retrac",
+    "name": "GREEN ROOTS BILLIE",
+    "description": "what do you want from me.",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -532,6 +499,14 @@
     "id": "EID_Bulletproof_Retrac",
     "name": "Run It Down",
     "description": "Only the best can keep up with you.",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Cadaver_Retrac",
+    "name": "Boney Bounce",
+    "description": "Feel it in your bones.",
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1137,14 +1112,6 @@
     }
   },
   {
-    "id": "Emoji_Retrac",
-    "name": "Elixir Beta",
-    "description": "Thank you for playing elixir beta!",
-    "type": {
-      "backendValue": "AthenaEmoji"
-    }
-  },
-  {
     "id": "MusicPack_Anders_Retrac",
     "name": "Anders",
     "description": "Picaldi-Jeans in Hellblau aus 2004",
@@ -1212,6 +1179,14 @@
     "id": "Pickaxe_BoneWand_Retrac",
     "name": "Skully Sceptre",
     "description": "What a cute little tool for dark magic.",
+    "type": {
+      "backendValue": "AthenaPickaxe"
+    }
+  },
+  {
+    "id": "Pickaxe_ID_343_HoodieBanditFemale_Retrac",
+    "name": "Pop Axe",
+    "description": "Add a nice pop of color.",
     "type": {
       "backendValue": "AthenaPickaxe"
     }
