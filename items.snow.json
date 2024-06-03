@@ -1,48 +1,8 @@
 [
   {
-    "id": "Character_PhoneCharger_Retrac",
-    "name": "GREEN ROOTS BILLIE",
-    "description": "what do you want from me.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "BID_415_TechLlama_Retrac",
-    "name": "Loons",
-    "description": "Fashionably floaty.",
-    "type": {
-      "backendValue": "AthenaBackpack"
-    }
-  },
-  {
-    "id": "BID_457_HoodieBandit_Retrac",
-    "name": "Roundabout",
-    "description": "Vibrant, vivid, and very round.",
-    "type": {
-      "backendValue": "AthenaBackpack"
-    }
-  },
-  {
-    "id": "BID_507_DonutPlate_Retrac",
-    "name": "Shurayuki",
-    "description": "Forged a thousand years ago.",
-    "type": {
-      "backendValue": "AthenaBackpack"
-    }
-  },
-  {
-    "id": "BID_521_WildCat_Retrac",
-    "name": "Sleek Strike",
-    "description": "Sharpen your style.",
-    "type": {
-      "backendValue": "AthenaBackpack"
-    }
-  },
-  {
     "id": "BID_702_SkirmishFemale_Retrac",
     "name": "Super Cab-Masher",
-    "description": "I've got next.",
+    "description": null,
     "type": {
       "backendValue": "AthenaBackpack"
     }
@@ -50,295 +10,55 @@
   {
     "id": "BID_902_HeadbandMale_Retrac",
     "name": "Scroll",
-    "description": "Contains jutsu.",
+    "description": null,
     "type": {
       "backendValue": "AthenaBackpack"
     }
   },
   {
-    "id": "CID_029_Athena_Commando_F_Halloween",
-    "name": "Ghoul Trooper",
-    "description": "Epic ghoul trooper outfit.",
+    "id": "Character_2B_Retrac",
+    "name": "YoRHa No.2 Type B",
+    "description": null,
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
-    "id": "CID_434_Athena_Commando_F_StealthHonor_Retrac",
-    "name": "Wonder",
-    "description": "Inspire wonder.",
+    "id": "Character_BraveBuild_Retrac",
+    "name": "Eminem",
+    "description": null,
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
-    "id": "CID_452_Athena_Commando_F_CyberFu_Retrac",
-    "name": "Focus",
-    "description": "Visualize the future. discord.gg/elixirfn",
+    "id": "Character_CatBurglarSummer_Retrac",
+    "name": "Midsummer Midas",
+    "description": null,
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
-    "id": "CID_453_Athena_Commando_F_GlowBro_Retrac",
-    "name": "NiteBeam",
-    "description": "Beaming with luminous energy.",
+    "id": "Character_DVa_Retrac",
+    "name": "D.VA",
+    "description": null,
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
-    "id": "CID_583_Athena_Commando_F_NoshHunter_Retrac",
-    "name": "Jawbreaker",
-    "description": "She's playing the most delicious game.",
+    "id": "Character_Eternity_Elite_Retrac",
+    "name": "Galaxia",
+    "description": null,
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
-    "id": "CID_616_Athena_Commando_F_CavalryBandit_Retrac",
-    "name": "Hush",
-    "description": "Silence the opposition.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_619_Athena_Commando_F_TechLlama_Retrac",
-    "name": "Brilliant Bomber",
-    "description": "Show your shine.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_660_Athena_Commando_F_BandageNinjaBlue_Retrac",
-    "name": "Indigo Kuno",
-    "description": "The Falcon Clan's finest.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_663_Athena_Commando_F_Frogman_Retrac",
-    "name": "Clash",
-    "description": "Wherever she goes trouble follows.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_674_Athena_Commando_F_HoodieBandit_Retrac",
-    "name": "Iris",
-    "description": "Keep the competition in your sights.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_694_Athena_Commando_M_CatBurglar_Retrac",
-    "name": "Midas",
-    "description": "All that glitters is yours.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_703_Athena_Commando_M_Cyclone_Retrac",
-    "name": "Travis Scott",
-    "description": "La Flame.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_704_Athena_Commando_F_LollipopTrickster_Retrac",
-    "name": "Harley Quinn",
-    "description": "Mind over mayhem.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_736_Athena_Commando_F_DonutDish_Retrac",
-    "name": "Domino",
-    "description": "Make your own luck.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_737_Athena_Commando_F_DonutPlate_Retrac",
-    "name": "Psylocke",
-    "description": "Telekinetically enhanced master martial artist.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_748_Athena_Commando_F_Hitman_Retrac",
-    "name": "Siren",
-    "description": "Unforgettable and inescapable.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_749_Athena_Commando_F_GraffitiAssassin_Retrac",
-    "name": "Yellowjacket",
-    "description": "Venomous and victorious.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_753_Athena_Commando_F_Hostile_Retrac",
-    "name": "Rue",
-    "description": "Her hobbies include revenge, vengeance, and retribution.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_757_Athena_Commando_F_WildCat_Retrac",
-    "name": "WildCat",
-    "description": "Victory without taking a scratch.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_801_Athena_Commando_F_GolfSummer_Retrac",
-    "name": "Par Patroller",
-    "description": "Patience and focus wins the match.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_812_Athena_Commando_F_RedRidingSummer_Retrac",
-    "name": "Summer Fable",
-    "description": "The beach isn't safe... from her.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_842_Athena_Commando_F_HightowerHoneydew_Retrac",
-    "name": "Jennifer Walters",
-    "description": "Brains or brawn... Why not both?",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_848_Athena_Commando_F_DarkNinjaPurple_Retrac",
-    "name": "Dread Fate",
-    "description": "May they dread their encounter with fate.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_899_Athena_Commando_F_Poison_Retrac",
-    "name": "Grimoire",
-    "description": "Soul-reaper of the near future.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_A_024_Athena_Commando_F_Skirmish_Retrac",
-    "name": "Chun-Li",
-    "description": "Interpol officer with a strong sense of justice and even stronger roundhouse kick.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_A_034_Athena_Commando_F_CatBurglar_Retrac",
-    "name": "Marigold",
-    "description": "Break the curse of the Golden Touch.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_A_040_Athena_Commando_F_Temple_Retrac",
-    "name": "Lara Croft",
-    "description": "The extraordinary is in what we do, not who we are.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_A_202_Athena_Commando_F_Division_Retrac",
-    "name": "Kor",
-    "description": "Assassin for hire with some suspicious ties to the IO.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_A_261_Athena_Commando_M_Headband_Retrac",
-    "name": "Naruto Uzumaki",
-    "description": "Believe it!",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_ClubPengin_Retrac",
-    "name": "Penguin",
-    "description": "Be a nice bird, tip the riceberg! Made by boredcrow)",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_Iza_Retrac",
-    "name": "Cyanite Striker",
-    "description": "Striking in style",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_JurassicArchaeologySummer_Retrac",
-    "name": "Scuba Crystal",
-    "description": "Dig up some summer fun.",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_MineLuke_Retrac",
-    "name": "Mineluke",
-    "description": "Directly exported from my WII. Made by boredcrow",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_Obey_Retrac",
-    "name": "Obey",
-    "description": "You Shall Obey",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_PeterGriffin_Retrac",
-    "name": "Peter Griffin",
-    "description": "Gosh, It's Not Like The Internet To Go Crazy About Something Small And Stupid. Made by boredcrow",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "CID_Skeleton_Retrac",
-    "name": "Skeleton",
-    "description": ":skull: Skin by Dreddsy.",
+    "id": "Character_ExcitedCyan_Retrac",
+    "name": "Katalina",
+    "description": null,
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -346,15 +66,71 @@
   {
     "id": "Character_FearlessFlightHero_Retrac",
     "name": "Spider-Man (Miles Morales)",
-    "description": "With great ability comes great accountability.",
+    "description": null,
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
-    "id": "Character_HitmanFNCS",
+    "id": "Character_GalaxyWonder_Retrac",
+    "name": "Galaxy Wonder",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_Genji_Retrac",
+    "name": "GENJI",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_Gloom_Retrac",
+    "name": "Phaedra",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_HitmanFNCS_Retrac",
     "name": "Champion Siren",
-    "description": "Inescapable challenger with unforgettable grace.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_HornettaVine_Retrac",
+    "name": "Oleander",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_Kiriko_Retrac",
+    "name": "Kiriko",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_Luna_Retrac",
+    "name": "Luna Snow",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_Mercy_Retrac",
+    "name": "Mercy",
+    "description": null,
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -362,7 +138,23 @@
   {
     "id": "Character_PhoneCharger_Retrac",
     "name": "GREEN ROOTS BILLIE",
-    "description": "what do you want from me.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_PrairieSkip_Forge_Retrac",
+    "name": "The Machinist",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_ProdigyFire_Retrac",
+    "name": "Joni the Scarlet",
+    "description": null,
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -370,7 +162,15 @@
   {
     "id": "Character_RoseDust_Retrac",
     "name": "Spider-Gwen",
-    "description": "All right, people, let's start at the beginning one last time.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_SilverWolf_Retrac",
+    "name": "Silver Wolf",
+    "description": null,
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -378,7 +178,15 @@
   {
     "id": "Character_SkippingClouds_Retrac",
     "name": "Michael Myers",
-    "description": "The Boogeyman.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_Soldier76_Retrac",
+    "name": "SOLDIER: 76",
+    "description": null,
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -386,7 +194,175 @@
   {
     "id": "Character_StallionAviator_Retrac",
     "name": "Polo Prodigy",
-    "description": "She will never settle for second place.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_Tracer_Retrac",
+    "name": "Tracer",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_Troll_Retrac",
+    "name": "Troll Face",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_VoltaicHuntress_Retrac",
+    "name": "Spirit Hunter Saeko",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_WidePlane_Retrac",
+    "name": "Dagobah Luke",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_Widow_Retrac",
+    "name": "Widowmaker",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_660_Athena_Commando_F_BandageNinjaBlue_Retrac",
+    "name": "Indigo Kuno",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_848_Athena_Commando_F_DarkNinjaPurple_Retrac",
+    "name": "Dread Fate",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_A_024_Athena_Commando_F_Skirmish_Retrac",
+    "name": "Chun-Li",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_A_034_Athena_Commando_F_CatBurglar_Retrac",
+    "name": "Marigold",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_A_040_Athena_Commando_F_Temple_Retrac",
+    "name": "Lara Croft",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_A_127_Athena_Commando_F_MechanicalEngineerSummer_Retrac",
+    "name": "Beach Jules",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_A_202_Athena_Commando_F_Division_Retrac",
+    "name": "Kor",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_A_261_Athena_Commando_M_Headband_Retrac",
+    "name": "Naruto Uzumaki",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_Ayren_Retrac",
+    "name": "Camo Commander",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_ClubPengin_Retrac",
+    "name": "Penguin",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_Iza_Retrac",
+    "name": "Cyanite Striker",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_JurassicArchaeologySummer_Retrac",
+    "name": "Scuba Crystal",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_MineLuke_Retrac",
+    "name": "Mineluke",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_Obey_Retrac",
+    "name": "Obey",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_PeterGriffin_Retrac",
+    "name": "Peter Griffin",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_Skeleton_Retrac",
+    "name": "Skeleton",
+    "description": null,
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -394,7 +370,7 @@
   {
     "id": "EID_7Rings_Retrac",
     "name": "7 Rings",
-    "description": "I want it, I got it",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -402,7 +378,7 @@
   {
     "id": "EID_Adoration_Retrac",
     "name": "Cupid's Arrow",
-    "description": "Feel the love.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -410,7 +386,7 @@
   {
     "id": "EID_Affection_Retrac",
     "name": "Make Some Waves",
-    "description": "Feel the rhythm, elbows first.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -418,7 +394,7 @@
   {
     "id": "EID_Affluent_Retrac",
     "name": "Show Ya",
-    "description": "Get your groove on.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -426,7 +402,23 @@
   {
     "id": "EID_Aloha_Retrac",
     "name": "It's a Vibe",
-    "description": "Then we dance.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_AsianDance_Retrac",
+    "name": "Bust a Move",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_AsianDanceV2_Retrac",
+    "name": "Muñekita",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -434,7 +426,7 @@
   {
     "id": "EID_BankNotes_Retrac",
     "name": "Fast Flex",
-    "description": "Don't let 'em forget it.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -442,7 +434,7 @@
   {
     "id": "EID_Bboomv1_Retrac",
     "name": "BBoom BBoom (Part 1)",
-    "description": "PUBG Emote. kaede",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -450,15 +442,15 @@
   {
     "id": "EID_Bboomv2_Retrac",
     "name": "BBoom BBoom (Part 2)",
-    "description": "PUBG Emote. kaede",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
-    "id": "EID_BillyBounce_Retrac",
-    "name": "Billy Bounce",
-    "description": "You do you.",
+    "id": "EID_BeHereV2_Retrac",
+    "name": "Routine Rythm",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -466,7 +458,7 @@
   {
     "id": "EID_BlueApparel_Retrac",
     "name": "Fast Feet",
-    "description": "Keep it moving.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -474,7 +466,7 @@
   {
     "id": "EID_Blueberry_Retrac",
     "name": "Blueberry Faygo",
-    "description": "Poured up a four, now that blueberry Faygo",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -482,7 +474,15 @@
   {
     "id": "EID_Bollywood_Retrac",
     "name": "Bhangra Boogie",
-    "description": "Celebrate together.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Bopping_Retrac",
+    "name": "Cutesy Bopping",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -490,7 +490,15 @@
   {
     "id": "EID_BoysALiar_Retrac",
     "name": "Boy's a Liar",
-    "description": "SPICE",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_BuffCatComic_Retrac",
+    "name": "Squash & Stretch",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -498,7 +506,7 @@
   {
     "id": "EID_Bulletproof_Retrac",
     "name": "Run It Down",
-    "description": "Only the best can keep up with you.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -506,7 +514,15 @@
   {
     "id": "EID_Cadaver_Retrac",
     "name": "Boney Bounce",
-    "description": "Feel it in your bones.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_CalGirls_Retrac",
+    "name": "California Gurls",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -514,7 +530,7 @@
   {
     "id": "EID_CallMeMaybe_Retrac",
     "name": "Call Me Maybe",
-    "description": "Where you think you're going, baby?",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -522,7 +538,15 @@
   {
     "id": "EID_Camouflage_Retrac",
     "name": "Dancin' Domino",
-    "description": "Break it down when you take 'em down.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_ChaCha_Retrac",
+    "name": "Cha Cha",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -530,7 +554,7 @@
   {
     "id": "EID_Cherish_Retrac",
     "name": "Bounce Wit' It",
-    "description": "Do it to it!",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -538,7 +562,7 @@
   {
     "id": "EID_ChickenLeg_Retrac",
     "name": "Snare Solo",
-    "description": "Who needs a hi-hat when you've got fancy footwork like this?",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -546,7 +570,7 @@
   {
     "id": "EID_Chilled_Retrac",
     "name": "Drippin' Flavor",
-    "description": "Mmm!",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -554,7 +578,15 @@
   {
     "id": "EID_Competitor_Retrac",
     "name": "Night Out",
-    "description": "Go out and play.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Comrade_Retrac",
+    "name": "Rushin' Around",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -562,7 +594,55 @@
   {
     "id": "EID_Coping_Retrac",
     "name": "Copines",
-    "description": "Squad up with your best friends.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Cottontail_Retrac",
+    "name": "Celebrate Me",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Dance165_Retrac",
+    "name": "Champ's Clap",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Dance166_Retrac",
+    "name": "Bam Bam",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Dance167_Kiss_Retrac",
+    "name": "Moonlight",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Dance167_Retrac",
+    "name": "RASH BeiXi Encore",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_DanceSplash_Retrac",
+    "name": "Dance Splash",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -570,7 +650,7 @@
   {
     "id": "EID_Darling_Retrac",
     "name": "Boo'd Up Groove",
-    "description": "Take your shot.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -578,7 +658,7 @@
   {
     "id": "EID_Deceiver_Retrac",
     "name": "Boy's a Liar",
-    "description": "Trust.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -586,7 +666,7 @@
   {
     "id": "EID_Delirious_Retrac",
     "name": "Reaper's Showtime",
-    "description": "Tap 'em out in style.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -594,7 +674,7 @@
   {
     "id": "EID_Destiny_Retrac",
     "name": "Go With the Flow",
-    "description": "Joy is inevitable.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -602,7 +682,7 @@
   {
     "id": "EID_Devotion_Retrac",
     "name": "Without You",
-    "description": "Put no one above you.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -610,7 +690,15 @@
   {
     "id": "EID_DontSneeze_Retrac",
     "name": "Smeeze",
-    "description": "Hop to it.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_DoubleTake_Retrac",
+    "name": "Made You Look",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -618,7 +706,7 @@
   {
     "id": "EID_DownTheDrain_Retrac",
     "name": "Down the Drain",
-    "description": "PUBG Emote. kaede",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -626,7 +714,23 @@
   {
     "id": "EID_Downward_8GZUA_Retrac",
     "name": "Stuck",
-    "description": "Keep rising. Never back down.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Drain_Retrac",
+    "name": "Down the Drain",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Drill_Retrac",
+    "name": "Toe Tapper",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -634,7 +738,7 @@
   {
     "id": "EID_DuDu_Retrac",
     "name": "Du-Du Du-Du",
-    "description": "PUBG Emote. kaede",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -642,7 +746,7 @@
   {
     "id": "EID_ElleFrance_Retrac",
     "name": "Elle est bonne sa mère",
-    "description": "0xkaede",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -650,7 +754,71 @@
   {
     "id": "EID_Exquisite_Retrac",
     "name": "Carefree",
-    "description": "A new era of you.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Factual_Retrac",
+    "name": "Challenge",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Fame_Retrac",
+    "name": "Fabulous Fame",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Fantasy_Retrac",
+    "name": "Ambitious",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Feral_Retrac",
+    "name": "Savage",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Flexx_Retrac",
+    "name": "Lights out",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Forever_Retrac",
+    "name": "Forever",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Free_Retrac",
+    "name": "Freestyle",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Funkinox_Retrac",
+    "name": "Funkinox",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -658,7 +826,15 @@
   {
     "id": "EID_GalaxyLevel_Retrac",
     "name": "Click Click Flash",
-    "description": "The timeline needs to see your triumph.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Get_Retrac",
+    "name": "Get it",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -666,7 +842,7 @@
   {
     "id": "EID_Goodbye_Upbeat_Retrac",
     "name": "Jubi Slide",
-    "description": "Keep it smooth.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -674,7 +850,15 @@
   {
     "id": "EID_Griddles_Retrac",
     "name": "Get Griddy",
-    "description": "Keep your eye on the end zone.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Hana_Retrac",
+    "name": "Hana",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -682,7 +866,7 @@
   {
     "id": "EID_HeavyRoarDance_Retrac",
     "name": "Real Slim Shady",
-    "description": "Be the Realest.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -690,7 +874,7 @@
   {
     "id": "EID_HeyMama_Retrac",
     "name": "Hey Mama",
-    "description": "PUBG Emote. kaede",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -698,15 +882,15 @@
   {
     "id": "EID_Hoist_Retrac",
     "name": "Jump Rope Jig",
-    "description": "Don't skip a beat.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
-    "id": "EID_HotPink_Retrac",
-    "name": "Say So",
-    "description": "Roll with the changes.",
+    "id": "EID_Hugo_Retrac",
+    "name": "Prince Hugo",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -714,15 +898,15 @@
   {
     "id": "EID_IndieBucket_Retrac",
     "name": "BeatzBunny",
-    "description": "A game of dexterity and adorability.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
-    "id": "EID_JanuaryBop_Retrac",
-    "name": "Jabba Switchway",
-    "description": "I'm a little bit different. They get it.",
+    "id": "EID_Intertwine_Retrac",
+    "name": "Culture Festival Dance",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -730,23 +914,23 @@
   {
     "id": "EID_Jockey_Retrac",
     "name": "Start it Up",
-    "description": "Get this thing rolling.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
-    "id": "EID_JumpStyleDance_Retrac",
-    "name": "Springy",
-    "description": "Always bounce back.",
+    "id": "EID_KoiDance_Retrac",
+    "name": "Gasolina",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
-    "id": "EID_LasagnaDance_Retrac",
-    "name": "Lazer Blast",
-    "description": "Major moves.",
+    "id": "EID_LegDance_Retrac",
+    "name": "Cutsey can can",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -754,7 +938,7 @@
   {
     "id": "EID_LetsBegin_Retrac",
     "name": "Don't Start Now",
-    "description": "I'm better on the other side.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -762,15 +946,23 @@
   {
     "id": "EID_LilSplit_Retrac",
     "name": "Do the 'Split",
-    "description": "Song of the summer.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
-    "id": "EID_MagicMan_Retrac",
-    "name": "Verve",
-    "description": "It's all about the energy.",
+    "id": "EID_Macaroon_Retrac",
+    "name": "The Macarena",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Malleable_Retrac",
+    "name": "Wind Up",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -778,7 +970,7 @@
   {
     "id": "EID_Marvelous_Retrac",
     "name": "Walkin' Pretty",
-    "description": "Pretty good, huh?",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -786,7 +978,15 @@
   {
     "id": "EID_MaskOff_Retrac",
     "name": "Mask Off",
-    "description": "Percocets, molly, Percocets",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Meander_Retrac",
+    "name": "Snapshot Swagger",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -794,7 +994,15 @@
   {
     "id": "EID_Medicinal_Retrac",
     "name": "No Cure",
-    "description": "There's no cure for greatness.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Metronome_Retrac",
+    "name": "To the Beat",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -802,7 +1010,7 @@
   {
     "id": "EID_MinelukeShuffle_Retrac",
     "name": "Mineluke Shuffle",
-    "description": "Directly exported from my WII.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -810,7 +1018,7 @@
   {
     "id": "EID_Mood_Retrac",
     "name": "Mood",
-    "description": "Baby, I ain't playing by your rules",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -818,7 +1026,15 @@
   {
     "id": "EID_MoveYourHands_Retrac",
     "name": "Move Your Hands",
-    "description": "Jenna Ortega never been happier.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Outburst_Retrac",
+    "name": "Lo-fi Headbang",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -826,7 +1042,15 @@
   {
     "id": "EID_PhutHon_Retrac",
     "name": "Phut Hon",
-    "description": "PUBG Emote. kaede",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_PizzaParty_Retrac",
+    "name": "Pitcycle",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -834,7 +1058,7 @@
   {
     "id": "EID_Poppyv1_Retrac",
     "name": "Poppy (Part 1)",
-    "description": "PUBG Emote. kaede",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -842,7 +1066,15 @@
   {
     "id": "EID_Poppyv2_Retrac",
     "name": "Poppy (Part 2)",
-    "description": "PUBG Emote. kaede",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Positions_Retrac",
+    "name": "Positions",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -850,7 +1082,7 @@
   {
     "id": "EID_Promenade_Retrac",
     "name": "Bust a Move",
-    "description": "It's not gonna bust itself.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -858,7 +1090,7 @@
   {
     "id": "EID_Prosper_Retrac",
     "name": "Perfect Score",
-    "description": "The universal sign of perfection.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -866,7 +1098,7 @@
   {
     "id": "EID_Punctual_Retrac",
     "name": "Pump Me Up",
-    "description": "Bring out the fab-u-lous.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -874,7 +1106,15 @@
   {
     "id": "EID_Reign_Retrac",
     "name": "You're a Winner",
-    "description": "Victory was inevitable.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_RelayStick_Carmine_Retrac",
+    "name": "Rebellious",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -882,7 +1122,7 @@
   {
     "id": "EID_RememberMe_Retrac",
     "name": "Forget me not",
-    "description": "Always unforgettable.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -890,7 +1130,7 @@
   {
     "id": "EID_Repetition_Retrac",
     "name": "Social Climber",
-    "description": "Take on the world's jazziest ladders.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -898,7 +1138,7 @@
   {
     "id": "EID_RichScholar_Retrac",
     "name": "Rich Scholar",
-    "description": "Top Shotta, Don Dada",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -906,7 +1146,15 @@
   {
     "id": "EID_Ringer_Retrac",
     "name": "Back On 74",
-    "description": "Put a little wiggle in your strut.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Roll_Retrac",
+    "name": "Roll 'N Rock",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -914,7 +1162,7 @@
   {
     "id": "EID_SandwichBop_Retrac",
     "name": "Go Mufasa",
-    "description": "I did it legit-ly.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -922,7 +1170,15 @@
   {
     "id": "EID_Saxobeat_Retrac",
     "name": "Mr. Saxobeat",
-    "description": "You make me dance, bring me up, bring me down",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_See_Retrac",
+    "name": "See Tính",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -930,7 +1186,7 @@
   {
     "id": "EID_Seetinh_Retrac",
     "name": "See Tinh",
-    "description": "PUBG Emote. kaede",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -938,7 +1194,7 @@
   {
     "id": "EID_ShadowsInMyRoom_Retrac",
     "name": "Shadows in my room",
-    "description": "You found another one, but I am the better one.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -946,7 +1202,23 @@
   {
     "id": "EID_Shimmy_Retrac",
     "name": "Starlit",
-    "description": "Bust a move by moonlight.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_SickGirls_Retrac",
+    "name": "Love Sick Girls",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Skeemote_Retrac",
+    "name": "Slalom Style",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -954,7 +1226,7 @@
   {
     "id": "EID_SkippingClouds_Retrac",
     "name": "Live From Haddonfield",
-    "description": "The night HE came to rock!",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -962,7 +1234,15 @@
   {
     "id": "EID_SnowKnight_Retrac",
     "name": "Flashback Breakdown",
-    "description": "You remember this, right?",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_SongOfLove_Retrac",
+    "name": "Theme Song Of Love",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -970,7 +1250,7 @@
   {
     "id": "EID_Spectacular_Retrac",
     "name": "GOATed",
-    "description": "Of all time!",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -978,15 +1258,31 @@
   {
     "id": "EID_SpeedDial_Retrac",
     "name": "Popular Vibe",
-    "description": "Get famous.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
-    "id": "EID_StringDance_Retrac",
-    "name": "Party Hips",
-    "description": "Some strings attached.",
+    "id": "EID_Spin_Retrac",
+    "name": "Victory Spin",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Stumble_Retrac",
+    "name": "Smooth Slide",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Sturdy_Retrac",
+    "name": "Sturdy",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -994,7 +1290,7 @@
   {
     "id": "EID_SunMelt_Retrac",
     "name": "Bizcochito",
-    "description": "You've got everythin' that you need.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1002,7 +1298,7 @@
   {
     "id": "EID_SweetShot_Retrac",
     "name": "Sweet Shot",
-    "description": "Bursting with joy.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1010,7 +1306,15 @@
   {
     "id": "EID_Tally_Retrac",
     "name": "Steady",
-    "description": "Gimmie the love.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Toca_Retrac",
+    "name": "Toca Toca",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1018,7 +1322,7 @@
   {
     "id": "EID_Tonal_Retrac",
     "name": "Dance Monkey",
-    "description": "A slow, shy shimmy for the battlefield.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1026,15 +1330,15 @@
   {
     "id": "EID_Trajectory_Retrac",
     "name": "The Squabble",
-    "description": "Time for a face-off.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
-    "id": "EID_TwistDaytona_Retrac",
-    "name": "Rollie",
-    "description": "Dab of ranch not included.",
+    "id": "EID_TwistIt_Retrac",
+    "name": "Twist It",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1042,7 +1346,7 @@
   {
     "id": "EID_Undead_Retrac",
     "name": "Evil Plan",
-    "description": "Show them you're ready to go.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1050,7 +1354,7 @@
   {
     "id": "EID_VicDance102_Retrac",
     "name": "Victory Dance 102",
-    "description": "PUBG Emote. kaede",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1058,7 +1362,7 @@
   {
     "id": "EID_VicDance112_Retrac",
     "name": "Victory Dance 112",
-    "description": "PUBG Emote. kaede",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1066,7 +1370,7 @@
   {
     "id": "EID_VicDance114_Retrac",
     "name": "Victory Dance 114",
-    "description": "PUBG Emote. kaede",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1074,7 +1378,7 @@
   {
     "id": "EID_VicDance116_Retrac",
     "name": "Victory Dance 116",
-    "description": "PUBG Emote. kaede",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1082,7 +1386,7 @@
   {
     "id": "EID_Vivid_Retrac",
     "name": "In Da Party",
-    "description": "En el ghetto hay party, todo el mundo, everybody.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1090,7 +1394,7 @@
   {
     "id": "EID_VoidRedemption_Retrac",
     "name": "I'm a Mystery",
-    "description": "You don't know me.",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1098,7 +1402,15 @@
   {
     "id": "EID_Whisk_Retrac",
     "name": "Classy",
-    "description": "Show 'em what your time is worth.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Wormy_Retrac",
+    "name": "Wormy",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1106,15 +1418,55 @@
   {
     "id": "EID_ZebraScramble_Retrac",
     "name": "Surfin' Bird",
-    "description": "Oh, have you not heard?",
+    "description": null,
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
+    "id": "MusicPack_181_SilentTempo_Retrac",
+    "name": "Seize the Future",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_AfterDark_Retrac",
+    "name": "After Dark",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_AncientDreams_Retrac",
+    "name": "Ancient Dreams in a Modern Land",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
     "id": "MusicPack_Anders_Retrac",
     "name": "Anders",
-    "description": "Picaldi-Jeans in Hellblau aus 2004",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_BabyDoll_Retrac",
+    "name": "BabyDoll Speed",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Bleed_Retrac",
+    "name": "Bleed (Runaway)",
+    "description": null,
     "type": {
       "backendValue": "AthenaMusicPack"
     }
@@ -1122,15 +1474,71 @@
   {
     "id": "MusicPack_Bonne_Retrac",
     "name": "Elle est bonne sa mère",
-    "description": "Press play and elle est bonne sa mère",
+    "description": null,
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
-    "id": "MusicPack_FModDiss_Retrac",
-    "name": "FMod DissTrack",
-    "description": "Shotty's not playing around anymore! Those servers BETTER go up! Oh wait... FMod is gone...",
+    "id": "MusicPack_CureForMe_Retrac",
+    "name": "Cure For Me",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_DeadInside_Retrac",
+    "name": "Dead Inside",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Doja_Retrac",
+    "name": "Doja",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Drake_001_Retrac",
+    "name": "Girls Want Girls",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Escape_Retrac",
+    "name": "Escape",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Etoiles_Retrac",
+    "name": "Au delà des étoiles",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Fave_Retrac",
+    "name": "Urus",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Faygo_Retrac",
+    "name": "Blueberry Faygo",
+    "description": null,
     "type": {
       "backendValue": "AthenaMusicPack"
     }
@@ -1138,7 +1546,39 @@
   {
     "id": "MusicPack_Fleece_Retrac",
     "name": "Balanci Fleece",
-    "description": "I'm feeling 200 degrees",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_FModDiss_Retrac",
+    "name": "FMod DissTrack",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Funkinox_Retrac",
+    "name": "Funkinox",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_HearMe_Retrac",
+    "name": "Hear Me",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_HellsParadise_Retrac",
+    "name": "Work (Hell's Paradise)",
+    "description": null,
     "type": {
       "backendValue": "AthenaMusicPack"
     }
@@ -1146,7 +1586,63 @@
   {
     "id": "MusicPack_IndieBucket_Retrac",
     "name": "Race to the Horizon",
-    "description": "Press play and keep up the lucky streak.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_JustWannaRock_Retrac",
+    "name": "Just Wanna Rock",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_KillBill_Retrac",
+    "name": "Kill Bill",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Liar_Retrac",
+    "name": "Boy’s a liar Pt. 2",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Mad_Retrac",
+    "name": "Home To Another One",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_MelodyEN_Retrac",
+    "name": "Melody (EN)",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_MelodyFR_Retrac",
+    "name": "Melody (FR)",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_MelodyGer_Retrac",
+    "name": "Melody (GER)",
+    "description": null,
     "type": {
       "backendValue": "AthenaMusicPack"
     }
@@ -1154,15 +1650,95 @@
   {
     "id": "MusicPack_Metamorphosis_Retrac",
     "name": "Metamorphosis (Sped Up)",
-    "description": "Press play and Metamorphosis.",
+    "description": null,
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
-    "id": "MusicPack_Rich_Retrac",
+    "id": "MusicPack_OG_Retrac",
+    "name": "OG (Classic)",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_OGLogin_Retrac",
+    "name": "OG (Login)",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_OGSTW_Retrac",
+    "name": "OG (STW)",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_OnePieceIntro_Retrac",
+    "name": "Overtaken ",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_PokemonIntro_Retrac",
+    "name": "Pokémon Intro Season 1 (French)",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_PokemonIntroV2_Retrac",
+    "name": "Pokémon Season 1: Indigo League",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_RapBattle_Retrac",
+    "name": "The Fortnite Rap Battle",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_RapBattleFrench_Retrac",
+    "name": "Désaccordé",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Rema_Retrac",
+    "name": "Charm",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Resonance_Retrac",
+    "name": "Resonance",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Rich_Retrac_Retrac",
     "name": "Rich Scholar",
-    "description": "I'm a rich scholar, got the city shook",
+    "description": null,
     "type": {
       "backendValue": "AthenaMusicPack"
     }
@@ -1170,7 +1746,47 @@
   {
     "id": "MusicPack_Sea_Retrac",
     "name": "Sea Of Problems",
-    "description": "Press play and dive into the Sea of Problems.",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_SpiderMan_Retrac",
+    "name": "Spider-Man 2099 (Miguel O'Hara)",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Suva_Retrac",
+    "name": "Suavemente",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Torikago_Retrac",
+    "name": "Torikago",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_VampireHunters_Retrac",
+    "name": "High Stakes Club",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Zelda_Retrac",
+    "name": "Gerudo Valley",
+    "description": null,
     "type": {
       "backendValue": "AthenaMusicPack"
     }
@@ -1178,31 +1794,15 @@
   {
     "id": "Pickaxe_BoneWand_Retrac",
     "name": "Skully Sceptre",
-    "description": "What a cute little tool for dark magic.",
+    "description": null,
     "type": {
       "backendValue": "AthenaPickaxe"
     }
   },
   {
-    "id": "Pickaxe_ID_343_HoodieBanditFemale_Retrac",
-    "name": "Pop Axe",
-    "description": "Add a nice pop of color.",
-    "type": {
-      "backendValue": "AthenaPickaxe"
-    }
-  },
-  {
-    "id": "Pickaxe_ID_363_LollipopTricksterFemale_Retrac",
-    "name": "Harley Hitter",
-    "description": "Come out swinging.",
-    "type": {
-      "backendValue": "AthenaPickaxe"
-    }
-  },
-  {
-    "id": "Pickaxe_ID_376_FNCS_Retrac",
-    "name": "The Axe of Champions",
-    "description": "Current FNCS Champion exclusive.",
+    "id": "Pickaxe_ID_508_HistorianMale_6BQSW_Retrac",
+    "name": "Leviathan Axe",
+    "description": null,
     "type": {
       "backendValue": "AthenaPickaxe"
     }
@@ -1210,7 +1810,7 @@
   {
     "id": "Pickaxe_ID_599_CavernFemale_Retrac",
     "name": "Catwoman's Grappling Claw",
-    "description": "Pickaxing Purrrfection.",
+    "description": null,
     "type": {
       "backendValue": "AthenaPickaxe"
     }
