@@ -112,6 +112,14 @@
     }
   },
   {
+    "id": "Character_Husk_Retrac",
+    "name": "Husk",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_Kiriko_Retrac",
     "name": "Kiriko",
     "description": null,
@@ -200,6 +208,14 @@
     }
   },
   {
+    "id": "Character_TollBridge_Retrac",
+    "name": "The Employee",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_Tracer_Retrac",
     "name": "Tracer",
     "description": null,
@@ -224,6 +240,14 @@
     }
   },
   {
+    "id": "Character_VonLycaon_Retrac",
+    "name": "Von Lycaon",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_WidePlane_Retrac",
     "name": "Dagobah Luke",
     "description": null,
@@ -242,6 +266,14 @@
   {
     "id": "CID_660_Athena_Commando_F_BandageNinjaBlue_Retrac",
     "name": "Indigo Kuno",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_732_Athena_Commando_F_Stars_Retrac",
+    "name": "Iso",
     "description": null,
     "type": {
       "backendValue": "AthenaCharacter"
@@ -312,8 +344,24 @@
     }
   },
   {
+    "id": "CID_BrightIon_Retrac",
+    "name": "Comet",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "CID_ClubPengin_Retrac",
     "name": "Penguin",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_IceRetreat_Retrac",
+    "name": "Summitseeker Evie",
     "description": null,
     "type": {
       "backendValue": "AthenaCharacter"
@@ -450,6 +498,14 @@
   {
     "id": "EID_BeHereV2_Retrac",
     "name": "Routine Rythm",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Bewilder_Retrac",
+    "name": "Point and Strut",
     "description": null,
     "type": {
       "backendValue": "AthenaDance"
@@ -960,6 +1016,14 @@
     }
   },
   {
+    "id": "EID_MagicBomb_Retrac",
+    "name": "The Magic Bomb",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
     "id": "EID_Malleable_Retrac",
     "name": "Wind Up",
     "description": null,
@@ -1184,14 +1248,6 @@
     }
   },
   {
-    "id": "EID_Seetinh_Retrac",
-    "name": "See Tinh",
-    "description": null,
-    "type": {
-      "backendValue": "AthenaDance"
-    }
-  },
-  {
     "id": "EID_ShadowsInMyRoom_Retrac",
     "name": "Shadows in my room",
     "description": null,
@@ -1320,6 +1376,14 @@
     }
   },
   {
+    "id": "EID_TollBridge_Retrac",
+    "name": "Company Jig",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
     "id": "EID_Tonal_Retrac",
     "name": "Dance Monkey",
     "description": null,
@@ -1394,6 +1458,14 @@
   {
     "id": "EID_VoidRedemption_Retrac",
     "name": "I'm a Mystery",
+    "description": null,
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_WeaveHarbor_Retrac",
+    "name": "You Think You're The King?",
     "description": null,
     "type": {
       "backendValue": "AthenaDance"
