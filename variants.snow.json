@@ -180,6 +180,14 @@
     "equip": false,
     "unseen": false
   },
+  "Character_Husk_Retrac": {
+    "grants": [],
+    "item": "Character_Husk_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
   "Character_Kiriko_Retrac": {
     "grants": [],
     "item": "Character_Kiriko_Retrac",
@@ -333,6 +341,14 @@
     "equip": false,
     "unseen": false
   },
+  "Character_TollBridge_Retrac": {
+    "grants": [],
+    "item": "Character_TollBridge_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
   "Character_Tracer_Retrac": {
     "grants": [],
     "item": "Character_Tracer_Retrac",
@@ -382,6 +398,14 @@
     "equip": false,
     "unseen": false
   },
+  "Character_VonLycaon_Retrac": {
+    "grants": [],
+    "item": "Character_VonLycaon_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
   "Character_WidePlane_Retrac": {
     "grants": [
       {
@@ -410,6 +434,14 @@
   "CID_660_Athena_Commando_F_BandageNinjaBlue_Retrac": {
     "grants": [],
     "item": "CID_660_Athena_Commando_F_BandageNinjaBlue_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_732_Athena_Commando_F_Stars_Retrac": {
+    "grants": [],
+    "item": "CID_732_Athena_Commando_F_Stars_Retrac",
     "name": "Kaede",
     "gift": false,
     "equip": false,
@@ -492,9 +524,34 @@
     "equip": false,
     "unseen": false
   },
+  "CID_BrightIon_Retrac": {
+    "grants": [],
+    "item": "CID_BrightIon_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
   "CID_ClubPengin_Retrac": {
     "grants": [],
     "item": "CID_ClubPengin_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "CID_IceRetreat_Retrac": {
+    "grants": [
+      {
+        "channel": "Material",
+        "value": "Mat1"
+      },
+      {
+        "channel": "Material",
+        "value": "Mat2"
+      }
+    ],
+    "item": "CID_IceRetreat_Retrac",
     "name": "Kaede",
     "gift": false,
     "equip": false,
@@ -640,6 +697,14 @@
   "EID_BeHereV2_Retrac": {
     "grants": [],
     "item": "EID_BeHereV2_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_Bewilder_Retrac": {
+    "grants": [],
+    "item": "EID_Bewilder_Retrac",
     "name": "Kaede",
     "gift": false,
     "equip": false,
@@ -1149,6 +1214,14 @@
     "equip": false,
     "unseen": false
   },
+  "EID_MagicBomb_Retrac": {
+    "grants": [],
+    "item": "EID_MagicBomb_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
   "EID_Malleable_Retrac": {
     "grants": [],
     "item": "EID_Malleable_Retrac",
@@ -1373,14 +1446,6 @@
     "equip": false,
     "unseen": false
   },
-  "EID_Seetinh_Retrac": {
-    "grants": [],
-    "item": "EID_Seetinh_Retrac",
-    "name": "Kaede",
-    "gift": false,
-    "equip": false,
-    "unseen": false
-  },
   "EID_ShadowsInMyRoom_Retrac": {
     "grants": [],
     "item": "EID_ShadowsInMyRoom_Retrac",
@@ -1509,6 +1574,19 @@
     "equip": false,
     "unseen": false
   },
+  "EID_TollBridge_Retrac": {
+    "grants": [
+      {
+        "channel": "None",
+        "value": "None"
+      }
+    ],
+    "item": "EID_TollBridge_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
   "EID_Tonal_Retrac": {
     "grants": [],
     "item": "EID_Tonal_Retrac",
@@ -1584,6 +1662,14 @@
   "EID_VoidRedemption_Retrac": {
     "grants": [],
     "item": "EID_VoidRedemption_Retrac",
+    "name": "Kaede",
+    "gift": false,
+    "equip": false,
+    "unseen": false
+  },
+  "EID_WeaveHarbor_Retrac": {
+    "grants": [],
+    "item": "EID_WeaveHarbor_Retrac",
     "name": "Kaede",
     "gift": false,
     "equip": false,
