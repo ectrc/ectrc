@@ -28,15 +28,15 @@
     }
   },
   {
-    "id": "Character_BandageNinjaFNCS_Retrac",
-    "name": "Champion Kuno",
+    "id": "Character_AgedChasm_Retrac",
+    "name": "Scorpius Operative",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
-    "id": "Character_BandageNinjaFNCS_Retrac1",
-    "name": "Character  Bandage Ninja F N C S  Retrac1",
+    "id": "Character_BandageNinjaFNCS_Retrac",
+    "name": "Champion Kuno",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -56,6 +56,13 @@
     }
   },
   {
+    "id": "Character_BluntWhimsy_Retrac",
+    "name": "Ayla Winn",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_BrightDisk_Retrac",
     "name": "Heroic Hope",
     "type": {
@@ -65,6 +72,13 @@
   {
     "id": "Character_CatBurglarSummer_Retrac",
     "name": "Character  Cat Burglar Summer",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_CatGirl_Retrac",
+    "name": "Character  Cat Girl",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -91,8 +105,15 @@
     }
   },
   {
-    "id": "Character_DecaSphere",
+    "id": "Character_DecaSphere_Retrac",
     "name": "10-Ball",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_DemonDarling_Retrac",
+    "name": "Character  Demon Darling",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -140,7 +161,7 @@
     }
   },
   {
-    "id": "Character_DyedDuelist",
+    "id": "Character_DyedDuelist_Retrac",
     "name": "Aniyah",
     "type": {
       "backendValue": "AthenaCharacter"
@@ -161,6 +182,13 @@
     }
   },
   {
+    "id": "Character_Eve_Retrac",
+    "name": "Character  Eve",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_ExcitedCyan_Retrac",
     "name": "Katalina",
     "type": {
@@ -175,7 +203,7 @@
     }
   },
   {
-    "id": "Character_FelineWarrior",
+    "id": "Character_FelineWarrior_Retrac",
     "name": "Curious",
     "type": {
       "backendValue": "AthenaCharacter"
@@ -196,8 +224,15 @@
     }
   },
   {
-    "id": "Character_Foray",
+    "id": "Character_Foray_Retrac",
     "name": "Character  Foray",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_Foray_Retracc",
+    "name": "Character  Foray  Retracc",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -231,7 +266,7 @@
     }
   },
   {
-    "id": "Character_GnocchiTea",
+    "id": "Character_GnocchiTea_Retrac",
     "name": "Lara Croft (2000s)",
     "type": {
       "backendValue": "AthenaCharacter"
@@ -245,7 +280,7 @@
     }
   },
   {
-    "id": "Character_Hacker",
+    "id": "Character_Hacker_Retrac",
     "name": "The Administrator",
     "type": {
       "backendValue": "AthenaCharacter"
@@ -287,8 +322,22 @@
     }
   },
   {
-    "id": "Character_IronBlaze",
+    "id": "Character_IceButcher_Retrac",
+    "name": "Character  Ice Butcher",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_IronBlaze_Retrac",
     "name": "Padmé Amidala",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_IronBlaze_Retracc",
+    "name": "Character  Iron Blaze  Retracc",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -329,6 +378,13 @@
     }
   },
   {
+    "id": "Character_LabGeek_Retrac",
+    "name": "Character  Lab Geek",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_LacedCrimp",
     "name": "Juliet",
     "type": {
@@ -350,15 +406,8 @@
     }
   },
   {
-    "id": "Character_LucidAzalea",
+    "id": "Character_LucidAzalea_Retrac",
     "name": "Pincera",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
-    "id": "Character_LucidAzaleaCharacter_LucidAzalea",
-    "name": "Character  Lucid Azalea Character  Lucid Azalea",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -406,6 +455,20 @@
     }
   },
   {
+    "id": "Character_MistRavenPeck_Retrac",
+    "name": "Morgan Myst",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_MoralKoreLine",
+    "name": "Mercenary Kor",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_NutmegMayo_Retrac",
     "name": "Mrs. Incredible",
     "type": {
@@ -436,6 +499,13 @@
   {
     "id": "Character_PocketScrunchie",
     "name": "Nemia",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_PonyShore_Retrac",
+    "name": "Champion Loserfruit",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -492,6 +562,13 @@
   {
     "id": "Character_Soldier76_Retrac",
     "name": "Character  Soldier76",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_SpatialTravelWatt_Retrac",
+    "name": "Lightrider",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -597,6 +674,13 @@
   {
     "id": "Character_VampireHunter_Galaxy",
     "name": "Andromeda",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_VelociTeeth_Retrac",
+    "name": "Saura",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -805,13 +889,6 @@
     }
   },
   {
-    "id": "fortnite",
-    "name": "fortnite",
-    "type": {
-      "backendValue": "AthenaCharacter"
-    }
-  },
-  {
     "id": "EID_7Rings_Retrac",
     "name": "E I D 7 Rings",
     "type": {
@@ -835,6 +912,13 @@
   {
     "id": "EID_Affluent_Retrac",
     "name": "Show Ya",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_AlienNation_Retrac",
+    "name": "Touch",
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -996,6 +1080,13 @@
   {
     "id": "EID_BoysALiar_Retrac",
     "name": "E I D  Boys A Liar",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_BrokenSpot_Retrac",
+    "name": "KEHLANI",
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1414,6 +1505,13 @@
     }
   },
   {
+    "id": "EID_Fugitive_Retrac",
+    "name": "On the Run",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
     "id": "EID_Funkinox_Retrac",
     "name": "E I D  Funkinox",
     "type": {
@@ -1450,7 +1548,7 @@
   },
   {
     "id": "EID_Gracious",
-    "name": "HUMBLE.",
+    "name": "HUMBLE",
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1535,6 +1633,20 @@
   {
     "id": "EID_IcedOut_Retrac",
     "name": "all red",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_IceSculpture_Retrac",
+    "name": "JT Coming",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Incantation_Retrac",
+    "name": "Houdini",
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -1995,6 +2107,13 @@
     }
   },
   {
+    "id": "EID_Seagull_Retrac",
+    "name": "It's ok I'm ok",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
     "id": "EID_Seetinh_Retrac",
     "name": "E I D  Seetinh",
     "type": {
@@ -2317,13 +2436,6 @@
     }
   },
   {
-    "id": "NewDataAsset",
-    "name": "New Data Asset",
-    "type": {
-      "backendValue": "AthenaDance"
-    }
-  },
-  {
     "id": "Glider_AuraCop_Retrac",
     "name": "Bullet Rider",
     "type": {
@@ -2356,6 +2468,13 @@
     "name": "The Rezzbrella",
     "type": {
       "backendValue": "AthenaGlider"
+    }
+  },
+  {
+    "id": "MusicPack_125_S19_FNCS_Retrac",
+    "name": "Infinite Hype",
+    "type": {
+      "backendValue": "AthenaMusicPack"
     }
   },
   {
@@ -2620,6 +2739,13 @@
   {
     "id": "MusicPack_KillBill_Retrac",
     "name": "Music Pack  Kill Bill",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Lexaprodoesntwork_Retrac",
+    "name": "Music Pack  Lexaprodoesntwork",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
