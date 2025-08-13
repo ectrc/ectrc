@@ -1,3038 +1,3213 @@
 [
   {
     "id": "BID_702_SkirmishFemale_Retrac",
-    "name": "B I D 702  Skirmish Female",
+    "name": "BID 702 SkirmishFemale",
     "type": {
       "backendValue": "AthenaBackpack"
     }
   },
   {
     "id": "BID_902_HeadbandMale_Retrac",
-    "name": "Scroll",
+    "name": "BID 902 HeadbandMale",
     "type": {
       "backendValue": "AthenaBackpack"
     }
   },
   {
     "id": "BID_DeadBodyBag_Retrac",
-    "name": "B I D  Dead Body Bag",
+    "name": "BID DeadBodyBag",
     "type": {
       "backendValue": "AthenaBackpack"
     }
   },
   {
     "id": "Character_2B_Retrac",
-    "name": "Character 2 B",
+    "name": "Character 2B",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_AgedChasm_Retrac",
-    "name": "Scorpius Operative",
+    "name": "Character AgedChasm",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_BandageNinjaFNCS_Retrac",
-    "name": "Champion Kuno",
+    "name": "Character BandageNinjaFNCS",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_BerryTartRiver_Retrac",
-    "name": "Ice Spice",
+    "name": "Character BerryTartRiver",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_BikeMold_Retrac",
-    "name": "Iron Man Mk 45",
+    "name": "Character BikeMold",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_BluntWhimsy_Retrac",
-    "name": "Ayla Winn",
+    "name": "Character BluntWhimsy",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_BrightDisk_Retrac",
-    "name": "Heroic Hope",
+    "name": "Character BrightDisk",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_CatBurglarSummer_Retrac",
-    "name": "Character  Cat Burglar Summer",
+    "name": "Character CatBurglarSummer",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_CatGirl_Retrac",
-    "name": "Character  Cat Girl",
+    "name": "Character CatGirl",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_CraftGlue_Retrac",
-    "name": "Himiko Toga",
+    "name": "Character CraftGlue",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_CyberDelivery_Retrac",
-    "name": "Nyangelica",
+    "name": "Character CyberDelivery",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_DarkVogue_Retrac",
-    "name": "Dark Ruby",
+    "name": "Character DarkVogue",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_DecaSphere_Retrac",
-    "name": "10-Ball",
+    "name": "Character DecaSphere",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_DemonDarling_Retrac",
-    "name": "Character  Demon Darling",
+    "name": "Character DemonDarling",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_DimeBlanketGrace",
-    "name": "Tour-Ready Sabrina Carpenter",
+    "name": "Character DimeBlanketGrace",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_DimeBlanketGrace_Retrac",
-    "name": "Tour-Ready Sabrina Carpenter",
+    "name": "Character DimeBlanketGrace",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_DimeBlanketKnot",
-    "name": "Sabrina Carpenter",
+    "name": "Character DimeBlanketKnot",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_DimeBlanketKnot_Retrac",
-    "name": "Sabrina Carpenter",
+    "name": "Character DimeBlanketKnot",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_DoughDisk_Retrac",
-    "name": "She-Venom",
+    "name": "Character DoughDisk",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_DVa_Retrac",
-    "name": "Character  D Va",
+    "name": "Character DVa",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_DyedDuelist_Retrac",
-    "name": "Aniyah",
+    "name": "Character DyedDuelist",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_EggnogFaucet_Retrac",
+    "name": "Character EggnogFaucet",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_ElegantHeist_Retrac",
-    "name": "Venus Hart",
+    "name": "Character ElegantHeist",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Eternity_Elite_Retrac",
-    "name": "Character  Eternity  Elite",
+    "name": "Character Eternity Elite",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Eve_Retrac",
-    "name": "Character  Eve",
+    "name": "Character Eve",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_ExcitedCyan_Retrac",
-    "name": "Katalina",
+    "name": "Character ExcitedCyan",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_FearlessFlightHero_Retrac",
-    "name": "Spider-Man (Miles Morales)",
+    "name": "Character FearlessFlightHero",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_FelineWarrior_Retrac",
-    "name": "Curious",
+    "name": "Character FelineWarrior",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_FemaleIkonic_Retrac",
-    "name": "Character  Female Ikonic",
+    "name": "Character FemaleIkonic",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_FlameBride_Retrac",
-    "name": "The Widow",
+    "name": "Character FlameBride",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Foray_Retrac",
-    "name": "Character  Foray",
+    "name": "Character Foray",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Foray_Retracc",
-    "name": "Character  Foray  Retracc",
+    "name": "Character Foray c",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_FumeFleeceJig_Retrac",
+    "name": "Character FumeFleeceJig",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_FumeFleeceWag_Retrac",
+    "name": "Character FumeFleeceWag",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_GalaxyWonder_Retrac",
-    "name": "Character  Galaxy Wonder",
+    "name": "Character GalaxyWonder",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_GarlicWhisk_Retrac",
-    "name": "Kitana (MK3)",
+    "name": "Character GarlicWhisk",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Genji_Retrac",
-    "name": "Character  Genji",
+    "name": "Character Genji",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Gloom_Retrac",
-    "name": "Character  Gloom",
+    "name": "Character Gloom",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_GnocchiTea_Retrac",
-    "name": "Lara Croft (2000s)",
+    "name": "Character GnocchiTea",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_GoodMood_Retrac",
-    "name": "Reverie",
+    "name": "Character GoodMood",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Hacker_Retrac",
-    "name": "The Administrator",
+    "name": "Character Hacker",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_HighBeam_Retrac",
-    "name": "Ciri",
+    "name": "Character HighBeam",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_HitmanFNCS_Retrac",
-    "name": "Champion Siren",
+    "name": "Character HitmanFNCS",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Hitman_Dark_Retrac",
-    "name": "Spycatcher Siren",
+    "name": "Character Hitman Dark",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_HornettaVine_Retrac",
-    "name": "Oleander",
+    "name": "Character HornettaVine",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Husk_Retrac",
-    "name": "Character  Husk",
+    "name": "Character Husk",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_IceButcher_Retrac",
-    "name": "Character  Ice Butcher",
+    "name": "Character IceButcher",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_IronBlaze_Retrac",
-    "name": "Padmé Amidala",
+    "name": "Character IronBlaze",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_IronBlaze_Retracc",
-    "name": "Character  Iron Blaze  Retracc",
+    "name": "Character IronBlaze c",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_JadedHare_Retrac",
-    "name": "Lapin",
+    "name": "Character JadedHare",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_JadeTowelHope",
-    "name": "Neko Hatsune Miku",
+    "name": "Character JadeTowelHope",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_KelpLinenCalcium_Retrac",
-    "name": "Juice WRLD",
+    "name": "Character KelpLinenCalcium",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Kirara_Retrac",
-    "name": "Character  Kirara",
+    "name": "Character Kirara",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Kiriko_Retrac",
-    "name": "Character  Kiriko",
+    "name": "Character Kiriko",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_LabGeek_Retrac",
-    "name": "Character  Lab Geek",
+    "name": "Character LabGeek",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_LacedCrimp",
-    "name": "Juliet",
+    "name": "Character LacedCrimp",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_LadyShinobi_Retrac",
-    "name": "Sarah",
+    "name": "Character LadyShinobi",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_LiftingRays_Retrac",
+    "name": "Character LiftingRays",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Lilac_Retrac",
-    "name": "Dahlia",
+    "name": "Character Lilac",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_LucidAzalea_Retrac",
-    "name": "Pincera",
+    "name": "Character LucidAzalea",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Luna_Retrac",
-    "name": "Character  Luna",
+    "name": "Character Luna",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Manny_Retrac",
-    "name": "Character  Manny",
+    "name": "Character Manny",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_MeekCrow_Retrac",
-    "name": "Moon Punk Ione",
+    "name": "Character MeekCrow",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Mercy_Retrac",
-    "name": "Character  Mercy",
+    "name": "Character Mercy",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_MirageHike_Retrac",
-    "name": "Serenade",
+    "name": "Character MirageHike",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_MissusMind_Suit_Goop_Retrac",
-    "name": "Character  Missus Mind  Suit  Goop",
+    "name": "Character MissusMind Suit Goop",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_MistRavenPeck_Retrac",
-    "name": "Morgan Myst",
+    "name": "Character MistRavenPeck",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_MoralKoreLine",
-    "name": "Mercenary Kor",
+    "name": "Character MoralKoreLine",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_NutmegMayo_Retrac",
-    "name": "Mrs. Incredible",
+    "name": "Character NutmegMayo",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_PatronPoppet_Retrac",
-    "name": "Lexa Hexbringer",
+    "name": "Character PatronPoppet",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_PhoneCharger_Retrac",
-    "name": "Green Roots Billie",
+    "name": "Character PhoneCharger",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_PillowMill_Mastery_Retrac",
-    "name": "Gwenpool",
+    "name": "Character PillowMill Mastery",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_PocketScrunchie",
-    "name": "Nemia",
+    "name": "Character PocketScrunchie",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_PonyShore_Retrac",
-    "name": "Champion Loserfruit",
+    "name": "Character PonyShore",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_PrairieSkip_Forge_Retrac",
-    "name": "The Machinist",
+    "name": "Character PrairieSkip Forge",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_ProdigyFire_Retrac",
-    "name": "Joni the Scarlet",
+    "name": "Character ProdigyFire",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_RedOasisPomegranate",
-    "name": "FFC Sparkplug",
+    "name": "Character RedOasisPomegranate",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_RoseDust_Retrac",
-    "name": "Spider-Gwen",
+    "name": "Character RoseDust",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_ScareyBeary_Retrac",
-    "name": "Raven Team Leader",
+    "name": "Character ScareyBeary",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_SilverWolf_Retrac",
-    "name": "Character  Silver Wolf",
+    "name": "Character SilverWolf",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_SkippingClouds_Retrac",
-    "name": "Michael Myers",
+    "name": "Character SkippingClouds",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Soldier76_Retrac",
-    "name": "Character  Soldier76",
+    "name": "Character Soldier76",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_SpatialTravelWatt_Retrac",
-    "name": "Lightrider",
+    "name": "Character SpatialTravelWatt",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_SpeedDialBattle",
-    "name": "The Weeknd Combat",
+    "name": "Character SpeedDialBattle",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_SpeedDial_Retrac",
-    "name": "The Weeknd",
+    "name": "Character SpeedDial",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_StallionAviator_Retrac",
-    "name": "Polo Prodigy",
+    "name": "Character StallionAviator",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_SunbeamQuest_Retrac",
-    "name": "Kimiko Five-Tails",
+    "name": "Character SunbeamQuest",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_SweetLetter_Retrac",
-    "name": "Black Cat",
+    "name": "Character SweetLetter",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_TealMink_Pelt",
-    "name": "Keisha Cross",
+    "name": "Character TealMink Pelt",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_TigerRootFame_Retrac",
-    "name": "Desert Dawn Lyric",
+    "name": "Character TigerRootFame",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_TimberStakeClub_Retrac",
+    "name": "Character TimberStakeClub",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_TimelessCarti",
-    "name": "Character  Timeless Carti",
+    "name": "Character TimelessCarti",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_TollBridge_Retrac",
-    "name": "The Employee",
+    "name": "Character TollBridge",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Tracer_Retrac",
-    "name": "Character  Tracer",
+    "name": "Character Tracer",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Troll_Retrac",
-    "name": "Character  Troll",
+    "name": "Character Troll",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_TuckBeetle_Retrac",
-    "name": "Platinum Billie Eilish",
+    "name": "Character TuckBeetle",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_TwilightSpotShine",
-    "name": "Sparx",
+    "name": "Character TwilightSpotShine",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_VampCarti_Retrac",
-    "name": "Character  Vamp Carti",
+    "name": "Character VampCarti",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_VampireHunter_Galaxy",
-    "name": "Andromeda",
+    "name": "Character VampireHunter Galaxy",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_VelociTeeth_Retrac",
-    "name": "Saura",
+    "name": "Character VelociTeeth",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_VoltaicHuntress_Retrac",
-    "name": "Spirit Hunter Saeko",
+    "name": "Character VoltaicHuntress",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_VonLycaon_Retrac",
-    "name": "Character  Von Lycaon",
+    "name": "Character VonLycaon",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_WidePlane_Retrac",
-    "name": "Dagobah Luke",
+    "name": "Character WidePlane",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "Character_Widow_Retrac",
-    "name": "Character  Widow",
+    "name": "Character Widow",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_660_Athena_Commando_F_BandageNinjaBlue_Retrac",
-    "name": "Indigo Kuno",
+    "name": "CID 660 Athena Commando F BandageNinjaBlue",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_732_Athena_Commando_F_Stars_Retrac",
-    "name": "Iso",
+    "name": "CID 732 Athena Commando F Stars",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_Ayren_Retrac",
-    "name": "C I D  Ayren",
+    "name": "CID Ayren",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_A_024_Athena_Commando_F_Skirmish_Retrac",
-    "name": "C I D  A 024  Athena  Commando  F  Skirmish",
+    "name": "CID A 024 Athena Commando F Skirmish",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_A_034_Athena_Commando_F_CatBurglar_Retrac",
-    "name": "Marigold",
+    "name": "CID A 034 Athena Commando F CatBurglar",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_A_040_Athena_Commando_F_Temple_Retrac",
-    "name": "Lara Croft",
+    "name": "CID A 040 Athena Commando F Temple",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_A_047_Athena_Commando_F_Windwalker_Retrac",
-    "name": "Windwalker Echo",
+    "name": "CID A 047 Athena Commando F Windwalker",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_A_127_Athena_Commando_F_MechanicalEngineerSummer_Retrac",
-    "name": "Beach Jules",
+    "name": "CID A 127 Athena Commando F MechanicalEngineerSummer",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_A_162_Athena_Commando_F_Quarrel_E5D63_Retrac",
-    "name": "Cammy",
+    "name": "CID A 162 Athena Commando F Quarrel E5D63",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_A_202_Athena_Commando_F_Division_Retrac",
-    "name": "Kor",
+    "name": "CID A 202 Athena Commando F Division",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_A_215_Athena_Commando_F_SunriseCastle_48TIZ_Retrac",
-    "name": "Chani",
+    "name": "CID A 215 Athena Commando F SunriseCastle 48TIZ",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_A_256_Athena_Commando_F_UproarBraids_8IOZW_Retrac",
-    "name": "Arcane Jinx",
+    "name": "CID A 256 Athena Commando F UproarBraids 8IOZW",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_A_261_Athena_Commando_M_Headband_Retrac",
-    "name": "Naruto Uzumaki",
+    "name": "CID A 261 Athena Commando M Headband",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_A_381_Athena_Commando_F_CactusRocker_3HTBV_Retrac",
-    "name": "Lyric",
+    "name": "CID A 381 Athena Commando F CactusRocker 3HTBV",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_A_453_Athena_Commando_F_FuzzyBearSummer",
-    "name": "Syd",
+    "name": "CID A 453 Athena Commando F FuzzyBearSummer",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_BrightIon_Retrac",
-    "name": "C I D  Bright Ion",
+    "name": "CID BrightIon",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_ClubPengin_Retrac",
-    "name": "C I D  Club Pengin",
+    "name": "CID ClubPengin",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_IceRetreat_Retrac",
-    "name": "C I D  Ice Retreat",
+    "name": "CID IceRetreat",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_Iza_Retrac",
-    "name": "C I D  Iza",
+    "name": "CID Iza",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_Jett_Retrac",
+    "name": "CID Jett",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_JurassicArchaeologySummer_Retrac",
-    "name": "C I D  Jurassic Archaeology Summer",
+    "name": "CID JurassicArchaeologySummer",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_MineLuke_Retrac",
-    "name": "C I D  Mine Luke",
+    "name": "CID MineLuke",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_Naruto_Retrac",
-    "name": "C I D  Naruto",
+    "name": "CID Naruto",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_Obey_Retrac",
-    "name": "C I D  Obey",
+    "name": "CID Obey",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_PeterGriffin_Retrac",
-    "name": "C I D  Peter Griffin",
+    "name": "CID PeterGriffin",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_Reyna_Retrac",
+    "name": "CID Reyna",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "CID_Skeleton_Retrac",
-    "name": "C I D  Skeleton",
+    "name": "CID Skeleton",
     "type": {
       "backendValue": "AthenaCharacter"
     }
   },
   {
     "id": "EID_7Rings_Retrac",
-    "name": "E I D 7 Rings",
+    "name": "EID 7Rings",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Adoration_Retrac",
-    "name": "Cupid's Arrow",
+    "name": "EID Adoration",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Affection_Retrac",
-    "name": "Make Some Waves",
+    "name": "EID Affection",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Affluent_Retrac",
-    "name": "Show Ya",
+    "name": "EID Affluent",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_AlienNation_Retrac",
-    "name": "Touch",
+    "name": "EID AlienNation",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Aloha_Retrac",
-    "name": "E I D  Aloha",
+    "name": "EID Aloha",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Apollo_Retrac",
-    "name": "Skyward",
+    "name": "EID Apollo",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_ArmyBunny_Retrac",
-    "name": "Outlaw",
+    "name": "EID ArmyBunny",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_AsianDanceV2_Retrac",
-    "name": "E I D  Asian Dance V2",
+    "name": "EID AsianDanceV2",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_AsianDance_Retrac",
-    "name": "E I D  Asian Dance",
+    "name": "EID AsianDance",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Asteroid_Retrac",
-    "name": "Deep Explorer",
+    "name": "EID Asteroid",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_BankNotes_Retrac",
-    "name": "Fast Flex",
+    "name": "EID BankNotes",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_BarrelRoll_Retrac",
-    "name": "Swag Surfin'",
+    "name": "EID BarrelRoll",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Bboomv1_Retrac",
-    "name": "E I D  Bboomv1",
+    "name": "EID Bboomv1",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Bboomv2_Retrac",
-    "name": "E I D  Bboomv2",
+    "name": "EID Bboomv2",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_BeHereV2_Retrac",
-    "name": "E I D  Be Here V2",
+    "name": "EID BeHereV2",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_BerryTartRiver_Retrac",
-    "name": "Oh Shhh",
+    "name": "EID BerryTartRiver",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_BerryTart_Retrac",
-    "name": "In Ha Mood",
+    "name": "EID BerryTart",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Bewilder_Retrac",
-    "name": "Point and Strut",
+    "name": "EID Bewilder",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Blacklight",
-    "name": "Smitten",
+    "name": "EID Blacklight",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Bling_Retrac",
-    "name": "bb belt",
+    "name": "EID Bling",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_BlueApparel_Retrac",
-    "name": "Fast Feet",
+    "name": "EID BlueApparel",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Blueberry_Retrac",
-    "name": "E I D  Blueberry",
+    "name": "EID Blueberry",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_BluePhoto_JSG4D_Retrac",
-    "name": "Build Up",
+    "name": "EID BluePhoto JSG4D",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Bollywood_Retrac",
-    "name": "Bhangra Boogie",
+    "name": "EID Bollywood",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Boomer_Retrac",
-    "name": "E I D  Boomer",
+    "name": "EID Boomer",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Bopping_Retrac",
-    "name": "E I D  Bopping",
+    "name": "EID Bopping",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_BoysALiar_Retrac",
-    "name": "E I D  Boys A Liar",
+    "name": "EID BoysALiar",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_BrokenSpot_Retrac",
-    "name": "KEHLANI",
+    "name": "EID BrokenSpot",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_BuffCatComic_Retrac",
-    "name": "E I D  Buff Cat Comic",
+    "name": "EID BuffCatComic",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Bulletproof_Retrac",
-    "name": "Run It Down",
+    "name": "EID Bulletproof",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Cadaver_Retrac",
-    "name": "Boney Bounce",
+    "name": "EID Cadaver",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Caddie_Retrac",
-    "name": "Chase Me Down",
+    "name": "EID Caddie",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Caffeine_Retrac",
-    "name": "Caffeinated",
+    "name": "EID Caffeine",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_CalGirls_Retrac",
-    "name": "E I D  Cal Girls",
+    "name": "EID CalGirls",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_CallMeMaybe_Retrac",
-    "name": "E I D  Call Me Maybe",
+    "name": "EID CallMeMaybe",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Camouflage_Retrac",
-    "name": "Dancin' Domino",
+    "name": "EID Camouflage",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Canine_Retrac",
-    "name": "Shimmy Wiggle",
+    "name": "EID Canine",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_CarCrash_Retrac",
+    "name": "EID CarCrash",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_CelebrationDance_Retrac",
-    "name": "Bring it around",
+    "name": "EID CelebrationDance",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_ChaCha_Retrac",
-    "name": "E I D  Cha Cha",
+    "name": "EID ChaCha",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Cherish_Retrac",
-    "name": "Bounce Wit' It",
+    "name": "EID Cherish",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_ChickenLeg_Retrac",
-    "name": "E I D  Chicken Leg",
+    "name": "EID ChickenLeg",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Chilled_Retrac",
-    "name": "Drippin' Flavor",
+    "name": "EID Chilled",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Chorus_Retrac",
-    "name": "Line Dancin'",
+    "name": "EID Chorus",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_ClayPlug_Retrac",
-    "name": "Rap Monster",
+    "name": "EID ClayPlug",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Clippers_Retrac",
-    "name": "Royals",
+    "name": "EID Clippers",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Competitor_Retrac",
-    "name": "Night Out",
+    "name": "EID Competitor",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Comrade_Retrac",
-    "name": "E I D  Comrade",
+    "name": "EID Comrade",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Coping_Retrac",
-    "name": "Copines",
+    "name": "EID Coping",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Coronation",
-    "name": "Firework",
+    "name": "EID Coronation",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Cottontail_Retrac",
-    "name": "Celebrate Me",
+    "name": "EID Cottontail",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Crosswalk",
-    "name": "Fly to Tokyo",
+    "name": "EID Crosswalk",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_CyberIce_Retrac",
+    "name": "EID CyberIce",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Dance165_Retrac",
-    "name": "E I D  Dance165",
+    "name": "EID Dance165",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Dance166_Retrac",
-    "name": "E I D  Dance166",
+    "name": "EID Dance166",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Dance167_Kiss_Retrac",
-    "name": "E I D  Dance167  Kiss",
+    "name": "EID Dance167 Kiss",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Dance167_Retrac",
-    "name": "E I D  Dance167",
+    "name": "EID Dance167",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_DanceSplash_Retrac",
-    "name": "E I D  Dance Splash",
+    "name": "EID DanceSplash",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Darling_Retrac",
-    "name": "Boo'd Up Groove",
+    "name": "EID Darling",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Deceiver_Retrac",
-    "name": "Boy's a Liar",
+    "name": "EID Deceiver",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Delirious_Retrac",
-    "name": "Reaper's Showtime",
+    "name": "EID Delirious",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Depart_Retrac",
-    "name": "Heel Click Breakdown",
+    "name": "EID Depart",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Destiny_Retrac",
-    "name": "Go With the Flow",
+    "name": "EID Destiny",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Devotion_Retrac",
-    "name": "Without You",
+    "name": "EID Devotion",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Dignified_Retrac",
-    "name": "What You Want",
+    "name": "EID Dignified",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_DimeBlanketGrace_Retrac",
-    "name": "Please Please Please",
+    "name": "EID DimeBlanketGrace",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_DimeBlanket_Retrac",
-    "name": "Taste",
+    "name": "EID DimeBlanket",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Dimension_Retrac",
-    "name": "Dimensional",
+    "name": "EID Dimension",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Disband_Retrac",
-    "name": "Independence",
+    "name": "EID Disband",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Distraught_Retrac",
-    "name": "No Tears",
+    "name": "EID Distraught",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_DontSneeze_Retrac",
-    "name": "Smeeze",
+    "name": "EID DontSneeze",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_DoubleTake_Retrac",
-    "name": "Made You Look",
+    "name": "EID DoubleTake",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Downward_8GZUA_Retrac",
-    "name": "Stuck",
+    "name": "EID Downward 8GZUA",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Drain_Retrac",
-    "name": "E I D  Drain",
+    "name": "EID Drain",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Drill_Retrac",
-    "name": "E I D  Drill",
+    "name": "EID Drill",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_DuDu_Retrac",
-    "name": "E I D  Du Du",
+    "name": "EID DuDu",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_ElegantLilyCharm_Retrac",
-    "name": "Cairo",
+    "name": "EID ElegantLilyCharm",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_ElegantLily_Retrac",
-    "name": "Oki Doki",
+    "name": "EID ElegantLily",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_ElleFrance_Retrac",
-    "name": "E I D  Elle France",
+    "name": "EID ElleFrance",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Enrapture",
-    "name": "Take it Slow",
+    "name": "EID Enrapture",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Exquisite_Retrac",
-    "name": "Carefree",
+    "name": "EID Exquisite",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Factual_Retrac",
-    "name": "Challenge",
+    "name": "EID Factual",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Fame_Retrac",
-    "name": "E I D  Fame",
+    "name": "EID Fame",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Fantasy_Retrac",
-    "name": "Ambitious",
+    "name": "EID Fantasy",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_FatCats",
-    "name": "Roar",
+    "name": "EID FatCats",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Feral_Retrac",
-    "name": "Savage",
+    "name": "EID Feral",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Flexx_Retrac",
-    "name": "E I D  Flexx",
+    "name": "EID Flexx",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Forever_Retrac",
-    "name": "E I D  Forever",
+    "name": "EID Forever",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Free_Retrac",
-    "name": "E I D  Free",
+    "name": "EID Free",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Fugitive_Retrac",
-    "name": "On the Run",
+    "name": "EID Fugitive",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Funkinox_Retrac",
-    "name": "E I D  Funkinox",
+    "name": "EID Funkinox",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_GalaxyLevel_Retrac",
-    "name": "Click Click Flash",
+    "name": "EID GalaxyLevel",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Get_Retrac",
-    "name": "E I D  Get",
+    "name": "EID Get",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_GoldCat_Retrac",
-    "name": "Purr-demonium",
+    "name": "EID GoldCat",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Goodbye_Upbeat_Retrac",
-    "name": "Jubi Slide",
+    "name": "EID Goodbye Upbeat",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Gracious",
-    "name": "HUMBLE",
+    "name": "EID Gracious",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_GreatEscape_Retrac",
+    "name": "EID GreatEscape",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Griddles_Retrac",
-    "name": "Get Griddy",
+    "name": "EID Griddles",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Hana_Retrac",
-    "name": "E I D  Hana",
+    "name": "EID Hana",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Harmony_Follower_Retrac",
-    "name": "null",
+    "name": "EID Harmony Follower",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Harmony_Retrac",
-    "name": "Feel It",
+    "name": "EID Harmony",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Harmony_Sync_Retrac",
-    "name": "null",
+    "name": "EID Harmony Sync",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_HeavyRoarDance_Retrac",
-    "name": "Real Slim Shady",
+    "name": "EID HeavyRoarDance",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Helium_Retrac",
-    "name": "Still Into You",
+    "name": "EID Helium",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_HeyMama_Retrac",
-    "name": "E I D  Hey Mama",
+    "name": "EID HeyMama",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_HighLife_Retrac",
+    "name": "EID HighLife",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Historian_2TEF8_Retrac",
-    "name": "Freezing Burst",
+    "name": "EID Historian 2TEF8",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Hoist_Retrac",
-    "name": "Jump Rope Jig",
+    "name": "EID Hoist",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Hugo_Retrac",
-    "name": "E I D  Hugo",
+    "name": "EID Hugo",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_IcedOut_Retrac",
-    "name": "all red",
+    "name": "EID IcedOut",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_IceSculpture_Retrac",
-    "name": "JT Coming",
+    "name": "EID IceSculpture",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Incantation_Retrac",
-    "name": "Houdini",
+    "name": "EID Incantation",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_IndieBucket_Retrac",
-    "name": "BeatzBunny",
+    "name": "EID IndieBucket",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Innocent_Retrac",
-    "name": "Criminals",
+    "name": "EID Innocent",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Inspect_Retrac",
-    "name": "It's True",
+    "name": "EID Inspect",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_IntensityScrapped_Retrac",
-    "name": "E I D  Intensity Scrapped",
+    "name": "EID IntensityScrapped",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Intertwine_Retrac",
-    "name": "Culture Festival Dance",
+    "name": "EID Intertwine",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_JadeTowel_Gloss",
-    "name": "Miku Miku Beam",
+    "name": "EID JadeTowel Gloss",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_JadeTowel_Retrac",
-    "name": "Miku Live",
+    "name": "EID JadeTowel",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_JanuaryBop_Retrac",
-    "name": "Jabba Switchway",
+    "name": "EID JanuaryBop",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Jockey_Retrac",
-    "name": "Start it Up",
+    "name": "EID Jockey",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Kelplinen_Calcium_Retrac",
-    "name": "Empty Out Your Pockets",
+    "name": "EID Kelplinen Calcium",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Kelplinen_Retrac",
-    "name": "Lucid Dreams",
+    "name": "EID Kelplinen",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Knockout_Retrac",
-    "name": "Bouncy",
+    "name": "EID Knockout",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_KoiDance_Retrac",
-    "name": "E I D  Koi Dance",
+    "name": "EID KoiDance",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_LegDance_Retrac",
-    "name": "E I D  Leg Dance",
+    "name": "EID LegDance",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_LetsBegin_Retrac",
-    "name": "Don't Start Now",
+    "name": "EID LetsBegin",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_LilSplit_Retrac",
-    "name": "Do the 'Split",
+    "name": "EID LilSplit",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Limelight_Retrac",
-    "name": "Blah Blah Blah",
+    "name": "EID Limelight",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_LowRider",
-    "name": "Nuthin But A G Thang",
+    "name": "EID LowRider",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Macaroon_Retrac",
-    "name": "E I D  Macaroon",
+    "name": "EID Macaroon",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Macintosh_Retrac",
-    "name": "Bratty",
+    "name": "EID Macintosh",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_MagicBomb_Retrac",
-    "name": "E I D  Magic Bomb",
+    "name": "EID MagicBomb",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Malleable_Retrac",
-    "name": "Wind Up",
+    "name": "EID Malleable",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Marvelous_Retrac",
-    "name": "Walkin' Pretty",
+    "name": "EID Marvelous",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_MaskOff_Retrac",
-    "name": "E I D  Mask Off",
+    "name": "EID MaskOff",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Masquerade_Retrac",
+    "name": "EID Masquerade",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Meander_Retrac",
-    "name": "Snapshot Swagger",
+    "name": "EID Meander",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Medicinal_Retrac",
-    "name": "No Cure",
+    "name": "EID Medicinal",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Meditation_Retrac",
-    "name": "Mantra",
+    "name": "EID Meditation",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Melody_Retrac",
-    "name": "Mine",
+    "name": "EID Melody",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Memory_Retrac",
-    "name": "Moongazer",
+    "name": "EID Memory",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Mesmerize_Retrac",
-    "name": "Entranced",
+    "name": "EID Mesmerize",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Metronome_Retrac",
-    "name": "To the Beat",
+    "name": "EID Metronome",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_MinelukeShuffle_Retrac",
-    "name": "E I D  Mineluke Shuffle",
+    "name": "EID MinelukeShuffle",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_MissusMind_Retrac",
-    "name": "Rhythm of Chaos",
+    "name": "EID MissusMind",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Mood_Retrac",
-    "name": "E I D  Mood",
+    "name": "EID Mood",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_MoveYourHands_Retrac",
-    "name": "E I D  Move Your Hands",
+    "name": "EID MoveYourHands",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_NeonDream_Retrac",
+    "name": "EID NeonDream",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_NerdStomp_Retrac",
-    "name": "GEEK TIMË",
+    "name": "EID NerdStomp",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Outburst_Retrac",
-    "name": "Lo-fi Headbang",
+    "name": "EID Outburst",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Oxytocin_Retrac",
-    "name": "XO (Only If You Say Yes)",
+    "name": "EID Oxytocin",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_PaintedFaces_Retrac",
+    "name": "EID PaintedFaces",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Panoramic_Retrac",
-    "name": "360",
+    "name": "EID Panoramic",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_PastelGlaze",
-    "name": "All I Want For Christmas Is You",
+    "name": "EID PastelGlaze",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_PhutHon_Retrac",
-    "name": "E I D  Phut Hon",
+    "name": "EID PhutHon",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_PillowMill_Retrac",
-    "name": "Gwen-Step",
+    "name": "EID PillowMill",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_PizzaParty_Retrac",
-    "name": "Pitcycle",
+    "name": "EID PizzaParty",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Polarity_Retrac",
-    "name": "Attraction",
+    "name": "EID Polarity",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Poppyv1_Retrac",
-    "name": "E I D  Poppyv1",
+    "name": "EID Poppyv1",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Poppyv2_Retrac",
-    "name": "E I D  Poppyv2",
+    "name": "EID Poppyv2",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Positions_Retrac",
-    "name": "E I D  Positions",
+    "name": "EID Positions",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Princess_Retrac",
-    "name": "Feelin' Royal",
+    "name": "EID Princess",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Promenade_Retrac",
-    "name": "Bust a Move",
+    "name": "EID Promenade",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Prosper_Retrac",
-    "name": "Perfect Score",
+    "name": "EID Prosper",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Punctual_Retrac",
-    "name": "Pump Me Up",
+    "name": "EID Punctual",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Reign_Retrac",
-    "name": "You're a Winner",
+    "name": "EID Reign",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_RelayStick_Carmine_Retrac",
-    "name": "Rebellious",
+    "name": "EID RelayStick Carmine",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_RememberMe_Retrac",
-    "name": "Forget me not",
+    "name": "EID RememberMe",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Repetition_Retrac",
-    "name": "Social Climber",
+    "name": "EID Repetition",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Reveal_Retrac",
-    "name": "Mask Off",
+    "name": "EID Reveal",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Reverie_Follower_Retrac",
-    "name": "null",
+    "name": "EID Reverie Follower",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Reverie_Retrac",
-    "name": "Groove Destroyer",
+    "name": "EID Reverie",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Reverie_Sync_Retrac",
-    "name": "null",
+    "name": "EID Reverie Sync",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_RichScholar_Retrac",
-    "name": "E I D  Rich Scholar",
+    "name": "EID RichScholar",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Ringer_Retrac",
-    "name": "Back On 74",
+    "name": "EID Ringer",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Roll_Retrac",
-    "name": "E I D  Roll",
+    "name": "EID Roll",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_SandwichBop_Retrac",
-    "name": "Go Mufasa",
+    "name": "EID SandwichBop",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Saxobeat_Retrac",
-    "name": "E I D  Saxobeat",
+    "name": "EID Saxobeat",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Scrolls",
-    "name": "Starting Prance",
+    "name": "EID Scrolls",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Seagull_Retrac",
-    "name": "It's ok I'm ok",
+    "name": "EID Seagull",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Seetinh_Retrac",
-    "name": "E I D  Seetinh",
+    "name": "EID Seetinh",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_See_Retrac",
-    "name": "E I D  See",
+    "name": "EID See",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Shades",
-    "name": "close to you",
+    "name": "EID Shades",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_ShadowsInMyRoom_Retrac",
-    "name": "E I D  Shadows In My Room",
+    "name": "EID ShadowsInMyRoom",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Shimmy_Retrac",
-    "name": "Starlit",
+    "name": "EID Shimmy",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_ShinyTiger_Retrac",
-    "name": "Ratatata",
+    "name": "EID ShinyTiger",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_SickGirls_Retrac",
-    "name": "E I D  Sick Girls",
+    "name": "EID SickGirls",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Skeemote_Retrac",
-    "name": "E I D  Skeemote",
+    "name": "EID Skeemote",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_SkippingClouds_Retrac",
-    "name": "Live From Haddonfield",
+    "name": "EID SkippingClouds",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_SnowKnight_Retrac",
-    "name": "Flashback Breakdown",
+    "name": "EID SnowKnight",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Soar",
-    "name": "Soar Above",
+    "name": "EID Soar",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_SongOfLove_Retrac",
-    "name": "E I D  Song Of Love",
+    "name": "EID SongOfLove",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Spectacular_Retrac",
-    "name": "GOATed",
+    "name": "EID Spectacular",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_SpeedDial_Retrac",
-    "name": "Popular Vibe",
+    "name": "EID SpeedDial",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Spin_Retrac",
-    "name": "E I D  Spin",
+    "name": "EID Spin",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Streamline",
-    "name": "Smooth Operator",
+    "name": "EID Streamline",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Studs_Retrac",
-    "name": "APT.",
+    "name": "EID Studs",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Stumble_Retrac",
-    "name": "Smooth Slide",
+    "name": "EID Stumble",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Sturdy_Retrac",
-    "name": "E I D  Sturdy",
+    "name": "EID Sturdy",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Sublime_Retrac",
-    "name": "Looking Good",
+    "name": "EID Sublime",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_SunMelt_Retrac",
-    "name": "Bizcochito",
+    "name": "EID SunMelt",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Supernova_Retrac",
-    "name": "The Viper",
+    "name": "EID Supernova",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_SweetShot_Retrac",
-    "name": "E I D  Sweet Shot",
+    "name": "EID SweetShot",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_SynthRose_Retrac",
+    "name": "EID SynthRose",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Tailor",
-    "name": "Touching The Sky",
+    "name": "EID Tailor",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Tally_Retrac",
-    "name": "Steady",
+    "name": "EID Tally",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Telescope",
-    "name": "Stargazing",
+    "name": "EID Telescope",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_TimesTicking_Retrac",
-    "name": "Timeless",
+    "name": "EID TimesTicking",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Toca_Retrac",
-    "name": "E I D  Toca",
+    "name": "EID Toca",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_TollBridge_Retrac",
-    "name": "Company Jig",
+    "name": "EID TollBridge",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Tonal_Retrac",
-    "name": "E I D  Tonal",
+    "name": "EID Tonal",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Trajectory_Retrac",
-    "name": "The Squabble",
+    "name": "EID Trajectory",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_TwistIt_Retrac",
-    "name": "E I D  Twist It",
+    "name": "EID TwistIt",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Undead_Retrac",
-    "name": "Evil Plan",
+    "name": "EID Undead",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Vacant_Retrac",
-    "name": "I'm Out",
+    "name": "EID Vacant",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Vegas_Retrac",
-    "name": "Let's Get It Started",
+    "name": "EID Vegas",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_VicDance102_Retrac",
-    "name": "E I D  Vic Dance102",
+    "name": "EID VicDance102",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_VicDance112_Retrac",
-    "name": "E I D  Vic Dance112",
+    "name": "EID VicDance112",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_VicDance114_Retrac",
-    "name": "E I D  Vic Dance114",
+    "name": "EID VicDance114",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_VicDance116_Retrac",
-    "name": "E I D  Vic Dance116",
+    "name": "EID VicDance116",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Vitality_Retrac",
-    "name": "New Woman",
+    "name": "EID Vitality",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Vivid_Retrac",
-    "name": "E I D  Vivid",
+    "name": "EID Vivid",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_VoidRedemption_Retrac",
-    "name": "I'm a Mystery",
+    "name": "EID VoidRedemption",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_WeaveHarbor_Retrac",
-    "name": "You Think You're The King?",
+    "name": "EID WeaveHarbor",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Whisk_Retrac",
-    "name": "Classy",
+    "name": "EID Whisk",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_WildThings_Retrac",
+    "name": "EID WildThings",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_Wormy_Retrac",
-    "name": "E I D  Wormy",
+    "name": "EID Wormy",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "EID_ZebraScramble_Retrac",
-    "name": "Surfin' Bird",
+    "name": "EID ZebraScramble",
     "type": {
       "backendValue": "AthenaDance"
     }
   },
   {
     "id": "Glider_AuraCop_Retrac",
-    "name": "Bullet Rider",
+    "name": "Glider AuraCop",
     "type": {
       "backendValue": "AthenaGlider"
     }
   },
   {
     "id": "Glider_GeniusBlob_Retrac",
-    "name": "Meeseeks Manifest",
+    "name": "Glider GeniusBlob",
     "type": {
       "backendValue": "AthenaGlider"
     }
   },
   {
     "id": "Glider_ID_314_SpaceChimpMale_Retrac",
-    "name": "Rocket Science",
+    "name": "Glider ID 314 SpaceChimpMale",
     "type": {
       "backendValue": "AthenaGlider"
     }
   },
   {
     "id": "Glider_ID_349_GimmickMale_MC92O_Retrac",
-    "name": "Suit Surfer",
+    "name": "Glider ID 349 GimmickMale MC92O",
     "type": {
       "backendValue": "AthenaGlider"
     }
   },
   {
     "id": "Umbrella_BlastBerry_Season_30_Retrac",
-    "name": "The Rezzbrella",
+    "name": "Umbrella BlastBerry Season 30",
     "type": {
       "backendValue": "AthenaGlider"
     }
   },
   {
+    "id": "MusicPack_084_BuffCatComic_5JC9Y_Retrac",
+    "name": "MusicPack 084 BuffCatComic 5JC9Y",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_096_CineAlienRemix_Retrac",
+    "name": "MusicPack 096 CineAlienRemix",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
     "id": "MusicPack_125_S19_FNCS_Retrac",
-    "name": "Infinite Hype",
+    "name": "MusicPack 125 S19 FNCS",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_12StoutStreet-RxPapi_Retrac",
-    "name": "Music Pack 12 Stout Street- Rx Papi",
+    "name": "MusicPack 12StoutStreet-RxPapi",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_181_SilentTempo_Retrac",
-    "name": "Seize the Future",
+    "name": "MusicPack 181 SilentTempo",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_193_VoidRedemption_Retrac",
+    "name": "MusicPack 193 VoidRedemption",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_196_S28DefaultTrack_Retrac",
+    "name": "MusicPack 196 S28DefaultTrack",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_2024freestyle_Retrac",
-    "name": "Music Pack 2024freestyle",
+    "name": "MusicPack 2024freestyle",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_AfterDark_Retrac",
-    "name": "Music Pack  After Dark",
+    "name": "MusicPack AfterDark",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_AncientDreams_Retrac",
-    "name": "Music Pack  Ancient Dreams",
+    "name": "MusicPack AncientDreams",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Anders_Retrac",
-    "name": "Music Pack  Anders",
+    "name": "MusicPack Anders",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_BabyDoll_Retrac",
-    "name": "Music Pack  Baby Doll",
+    "name": "MusicPack BabyDoll",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Back2da_Retrac",
-    "name": "Music Pack  Back2da",
+    "name": "MusicPack Back2da",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_benihana_Retrac",
-    "name": "Music Pack benihana",
+    "name": "MusicPack benihana",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_Beuh_Magique_Retrac",
+    "name": "MusicPack Beuh Magique",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Bleed_Retrac",
-    "name": "Music Pack  Bleed",
+    "name": "MusicPack Bleed",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Bonne_Retrac",
-    "name": "Music Pack  Bonne",
+    "name": "MusicPack Bonne",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_byebye_Retrac",
-    "name": "Music Pack byebye",
+    "name": "MusicPack byebye",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_CureForMe_Retrac",
-    "name": "Music Pack  Cure For Me",
+    "name": "MusicPack CureForMe",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_DeadInside_Retrac",
-    "name": "Music Pack  Dead Inside",
+    "name": "MusicPack DeadInside",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Deeply_Retrac",
-    "name": "Music Pack  Deeply",
+    "name": "MusicPack Deeply",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Dexter_Retrac",
-    "name": "Music Pack  Dexter",
+    "name": "MusicPack Dexter",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Doja_Retrac",
-    "name": "Music Pack  Doja",
+    "name": "MusicPack Doja",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Drake_001_Retrac",
-    "name": "Music Pack  Drake 001",
+    "name": "MusicPack Drake 001",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Escape_Retrac",
-    "name": "Music Pack  Escape",
+    "name": "MusicPack Escape",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Etoiles_Retrac",
-    "name": "Music Pack  Etoiles",
+    "name": "MusicPack Etoiles",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Fave_Retrac",
-    "name": "Music Pack  Fave",
+    "name": "MusicPack Fave",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Faygo_Retrac",
-    "name": "Music Pack  Faygo",
+    "name": "MusicPack Faygo",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_finalver2b_Retrac",
-    "name": "Music Pack finalver2b",
+    "name": "MusicPack finalver2b",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_finnagoot_Retrac",
-    "name": "Music Pack finnagoot",
+    "name": "MusicPack finnagoot",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Fleece_Retrac",
-    "name": "Music Pack  Fleece",
+    "name": "MusicPack Fleece",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_FModDiss_Retrac",
-    "name": "Music Pack  F Mod Diss",
+    "name": "MusicPack FModDiss",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_FN_Retrac",
-    "name": "Music Pack  F N",
+    "name": "MusicPack FN",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Fritos_Retrac",
-    "name": "Music Pack  Fritos",
+    "name": "MusicPack Fritos",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Funkinox_Retrac",
-    "name": "Music Pack  Funkinox",
+    "name": "MusicPack Funkinox",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_HearMe_Retrac",
-    "name": "Music Pack  Hear Me",
+    "name": "MusicPack HearMe",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_HellsParadise_Retrac",
-    "name": "Music Pack  Hells Paradise",
+    "name": "MusicPack HellsParadise",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_homecoming_Retrac",
-    "name": "Music Pack homecoming",
+    "name": "MusicPack homecoming",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_ieathumans_Retrac",
-    "name": "Music Pack ieathumans",
+    "name": "MusicPack ieathumans",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_IndieBucket_Retrac",
-    "name": "Music Pack  Indie Bucket",
+    "name": "MusicPack IndieBucket",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_IReallywanttostayatyourhouse_Retrac",
+    "name": "MusicPack IReallywanttostayatyourhouse",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_JTToMyUzi_Retrac",
-    "name": "Music Pack  J T To My Uzi",
+    "name": "MusicPack JTToMyUzi",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_JustWannaRock_Retrac",
-    "name": "Music Pack  Just Wanna Rock",
+    "name": "MusicPack JustWannaRock",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Keepitgoin_Retrac",
-    "name": "Music Pack  Keepitgoin",
+    "name": "MusicPack Keepitgoin",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_KillBill_Retrac",
-    "name": "Music Pack  Kill Bill",
+    "name": "MusicPack KillBill",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_KinoPackOfCigs_Retrac",
+    "name": "MusicPack KinoPackOfCigs",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Lexaprodoesntwork_Retrac",
-    "name": "Music Pack  Lexaprodoesntwork",
+    "name": "MusicPack Lexaprodoesntwork",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Liar_Retrac",
-    "name": "Music Pack  Liar",
+    "name": "MusicPack Liar",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_listen_Retrac",
-    "name": "Music Pack listen",
+    "name": "MusicPack listen",
+    "type": {
+      "backendValue": "AthenaMusicPack"
+    }
+  },
+  {
+    "id": "MusicPack_LostSoul_Retrac",
+    "name": "MusicPack LostSoul",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_lovehate_Retrac",
-    "name": "Music Pack lovehate",
+    "name": "MusicPack lovehate",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Mad_Retrac",
-    "name": "Music Pack  Mad",
+    "name": "MusicPack Mad",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_MelodyEN_Retrac",
-    "name": "Music Pack  Melody E N",
+    "name": "MusicPack MelodyEN",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_MelodyFR_Retrac",
-    "name": "Music Pack  Melody F R",
+    "name": "MusicPack MelodyFR",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_MelodyGer_Retrac",
-    "name": "Music Pack  Melody Ger",
+    "name": "MusicPack MelodyGer",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Metamorphosis_Retrac",
-    "name": "Music Pack  Metamorphosis",
+    "name": "MusicPack Metamorphosis",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_OGLogin_Retrac",
-    "name": "Music Pack  O G Login",
+    "name": "MusicPack OGLogin",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_OGSTW_Retrac",
-    "name": "Music Pack  O G S T W",
+    "name": "MusicPack OGSTW",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_OG_Retrac",
-    "name": "Music Pack  O G",
+    "name": "MusicPack OG",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_OnePieceIntro_Retrac",
-    "name": "Music Pack  One Piece Intro",
+    "name": "MusicPack OnePieceIntro",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Pizzatime_Retrac",
-    "name": "Music Pack  Pizzatime",
+    "name": "MusicPack Pizzatime",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_PokemonIntroV2_Retrac",
-    "name": "Music Pack  Pokemon Intro V2",
+    "name": "MusicPack PokemonIntroV2",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_PokemonIntro_Retrac",
-    "name": "Music Pack  Pokemon Intro",
+    "name": "MusicPack PokemonIntro",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_poseforthepic_Retrac",
-    "name": "Music Pack poseforthepic",
+    "name": "MusicPack poseforthepic",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_pushstartpt2_Retrac",
-    "name": "Music Pack pushstartpt2",
+    "name": "MusicPack pushstartpt2",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_RapBattleFrench_Retrac",
-    "name": "Music Pack  Rap Battle French",
+    "name": "MusicPack RapBattleFrench",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_RapBattle_Retrac",
-    "name": "Music Pack  Rap Battle",
+    "name": "MusicPack RapBattle",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Rema_Retrac",
-    "name": "Music Pack  Rema",
+    "name": "MusicPack Rema",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Resonance_Retrac",
-    "name": "Music Pack  Resonance",
+    "name": "MusicPack Resonance",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Rich_Retrac_Retrac",
-    "name": "Music Pack  Rich  Retrac",
+    "name": "MusicPack Rich  Retrac",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_ruinedimage_Retrac",
-    "name": "Music Pack ruinedimage",
+    "name": "MusicPack ruinedimage",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Sea_Retrac",
-    "name": "Music Pack  Sea",
+    "name": "MusicPack Sea",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_seemeagain_Retrac",
-    "name": "Music Pack seemeagain",
+    "name": "MusicPack seemeagain",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_shinenpeace_Retrac",
-    "name": "Music Pack shinenpeace",
+    "name": "MusicPack shinenpeace",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Softer_Retrac",
-    "name": "Music Pack  Softer",
+    "name": "MusicPack Softer",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_SpiderMan_Retrac",
-    "name": "Music Pack  Spider Man",
+    "name": "MusicPack SpiderMan",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Summersixteen_Retrac",
-    "name": "Music Pack  Summersixteen",
+    "name": "MusicPack Summersixteen",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Suva_Retrac",
-    "name": "Music Pack  Suva",
+    "name": "MusicPack Suva",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_throughyourteeth_Retrac",
-    "name": "Music Pack throughyourteeth",
+    "name": "MusicPack throughyourteeth",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Torikago_Retrac",
-    "name": "Music Pack  Torikago",
+    "name": "MusicPack Torikago",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_VampireHunters_Retrac",
-    "name": "Music Pack  Vampire Hunters",
+    "name": "MusicPack VampireHunters",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_vogue_Retrac",
-    "name": "Music Pack vogue",
+    "name": "MusicPack vogue",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_WeMajor_Retrac",
-    "name": "Music Pack  We Major",
+    "name": "MusicPack WeMajor",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_WhereWeLeftOffRealme_Retrac",
-    "name": "Music Pack  Where We Left Off Realme",
+    "name": "MusicPack WhereWeLeftOffRealme",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "MusicPack_Zelda_Retrac",
-    "name": "Music Pack  Zelda",
+    "name": "MusicPack Zelda",
     "type": {
       "backendValue": "AthenaMusicPack"
     }
   },
   {
     "id": "Pickaxe_BoneWand_Retrac",
-    "name": "Skully Sceptre",
+    "name": "Pickaxe BoneWand",
+    "type": {
+      "backendValue": "AthenaPickaxe"
+    }
+  },
+  {
+    "id": "Pickaxe_FNCS_03",
+    "name": "Pickaxe FNCS 03",
     "type": {
       "backendValue": "AthenaPickaxe"
     }
   },
   {
     "id": "Pickaxe_ID_508_HistorianMale_6BQSW_Retrac",
-    "name": "Leviathan Axe",
+    "name": "Pickaxe ID 508 HistorianMale 6BQSW",
     "type": {
       "backendValue": "AthenaPickaxe"
     }
   },
   {
     "id": "Pickaxe_ID_599_CavernFemale_Retrac",
-    "name": "Catwoman's Grappling Claw",
+    "name": "Pickaxe ID 599 CavernFemale",
     "type": {
       "backendValue": "AthenaPickaxe"
     }
   },
   {
     "id": "Pickaxe_ID_804_FNCSS20Male_Retrac",
-    "name": "The Axe of Champions 2.0",
+    "name": "Pickaxe ID 804 FNCSS20Male",
     "type": {
       "backendValue": "AthenaPickaxe"
     }
