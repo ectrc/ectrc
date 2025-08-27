@@ -280,6 +280,13 @@
     }
   },
   {
+    "id": "Character_GildedBrick_Retrac",
+    "name": "Dorian",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_Gloom_Retrac",
     "name": "Character  Gloom",
     "type": {
@@ -366,6 +373,13 @@
   {
     "id": "Character_IronBlaze_Retracc",
     "name": "Character  Iron Blaze  Retracc",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_IvyStub_Retrac",
+    "name": "Terrible Tornado",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -476,6 +490,13 @@
     }
   },
   {
+    "id": "Character_Michael_Retrac",
+    "name": "Character  Michael",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_MirageHike_Retrac",
     "name": "Serenade",
     "type": {
@@ -567,6 +588,13 @@
     }
   },
   {
+    "id": "Character_PunkDevilSummerFNCS_Retrac",
+    "name": "Champion Surf Witch",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_RedOasisPomegranate",
     "name": "FFC Sparkplug",
     "type": {
@@ -653,6 +681,13 @@
   {
     "id": "Character_SwoopClaspPry_Retrac",
     "name": "Onyx Winter",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_TaskForce_Retrac",
+    "name": "O.X.R. Agent Shay",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -784,8 +819,8 @@
     }
   },
   {
-    "id": "CID_993_Athena_Commando_M_TyphoonRobot_2YRGV_Retrac",
-    "name": "T-800",
+    "id": "CID_993_Athena_Commando_M_TyphoonRobot_2YRGV_Retrac_",
+    "name": "C I D 993  Athena  Commando  M  Typhoon Robot 2 Y R G V  Retrac",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -1493,6 +1528,13 @@
   {
     "id": "EID_Downward_8GZUA_Retrac",
     "name": "Stuck",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_DragRace_Retrac",
+    "name": "Summer",
     "type": {
       "backendValue": "AthenaDance"
     }
