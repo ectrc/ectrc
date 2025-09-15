@@ -63,6 +63,13 @@
     }
   },
   {
+    "id": "Character_Bocchi_Retrac",
+    "name": "Character  Bocchi",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_BrightDisk_Retrac",
     "name": "Heroic Hope",
     "type": {
@@ -281,7 +288,7 @@
   },
   {
     "id": "Character_GildedBrick_Retrac",
-    "name": "Dorian",
+    "name": "Character  Gilded Brick",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -303,6 +310,13 @@
   {
     "id": "Character_GoodMood_Retrac",
     "name": "Reverie",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_GroovyReader_Retrac",
+    "name": "Eleven",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -399,6 +413,13 @@
     }
   },
   {
+    "id": "Character_JoeGoldberg_Retrac",
+    "name": "Character  Joe Goldberg",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_KelpLinenCalcium_Retrac",
     "name": "Juice WRLD",
     "type": {
@@ -483,6 +504,13 @@
     }
   },
   {
+    "id": "Character_MelodyUrchin_Retrac",
+    "name": "Festival Phaedra",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_Mercy_Retrac",
     "name": "Character  Mercy",
     "type": {
@@ -546,8 +574,22 @@
     }
   },
   {
+    "id": "Character_PawJasmineSword_Retrac",
+    "name": "Eva",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_PhoneCharger_Retrac",
     "name": "Green Roots Billie",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_PigeonChart_Retrac",
+    "name": "Ryomen Sukuna",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -791,6 +833,20 @@
     }
   },
   {
+    "id": "Character_WaywardRebelFNCS_Retrac",
+    "name": "Champion PJ",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_WaywardRebel_Retrac",
+    "name": "PJ",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
     "id": "Character_WidePlane_Retrac",
     "name": "Dagobah Luke",
     "type": {
@@ -800,6 +856,13 @@
   {
     "id": "Character_Widow_Retrac",
     "name": "Character  Widow",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "Character_WormChalk_Retrac",
+    "name": "Mahito",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -828,6 +891,13 @@
   {
     "id": "CID_Ayren_Retrac",
     "name": "C I D  Ayren",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_A_022_Athena_Commando_F_Crush_Retrac",
+    "name": "Lovely",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -926,6 +996,13 @@
   {
     "id": "CID_A_453_Athena_Commando_F_FuzzyBearSummer",
     "name": "Syd",
+    "type": {
+      "backendValue": "AthenaCharacter"
+    }
+  },
+  {
+    "id": "CID_A_477_Athena_Commando_F_Handlebar_Retrac",
+    "name": "Veronika",
     "type": {
       "backendValue": "AthenaCharacter"
     }
@@ -1584,6 +1661,13 @@
   {
     "id": "EID_ElleFrance_Retrac",
     "name": "E I D  Elle France",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_Embrace_Retrac",
+    "name": "TiK ToK",
     "type": {
       "backendValue": "AthenaDance"
     }
@@ -2389,6 +2473,13 @@
   {
     "id": "EID_SongOfLove_Retrac",
     "name": "E I D  Song Of Love",
+    "type": {
+      "backendValue": "AthenaDance"
+    }
+  },
+  {
+    "id": "EID_SpaceWalk_Retrac",
+    "name": "like JENNIE",
     "type": {
       "backendValue": "AthenaDance"
     }
