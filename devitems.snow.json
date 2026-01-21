@@ -1,45 +1,5 @@
 [
 	{
-		"id": "Pickaxe_ID_804_FNCSS20Male_Retrac",
-		"name": "The Axe of Champions 2.0",
-		"description": "Seek victory in every drop.",
-		"type":
-		{
-			"backendValue": "AthenaPickaxe",
-			"displayValue": ""
-		},
-		"rarity":
-		{
-			"backendValue": "EFortRarity::Transcendent",
-			"displayValue": "Transcendent"
-		},
-		"set":
-		{
-			"backendValue": "",
-			"displayValue": ""
-		}
-	},
-	{
-		"id": "Pickaxe_FNCSChampion_Retrac",
-		"name": "The Axe of Champions 3.0",
-		"description": "Victory lies within you.",
-		"type":
-		{
-			"backendValue": "AthenaPickaxe",
-			"displayValue": ""
-		},
-		"rarity":
-		{
-			"backendValue": "EFortRarity::Transcendent",
-			"displayValue": "Transcendent"
-		},
-		"set":
-		{
-			"backendValue": "",
-			"displayValue": ""
-		}
-	},
-	{
 		"id": "BID_702_SkirmishFemale_Retrac",
 		"name": "Super Cab-Masher",
 		"description": "I've got next.",
@@ -420,6 +380,26 @@
 		}
 	},
 	{
+		"id": "Character_CoolSuitable_Retrac",
+		"name": "Freediver",
+		"description": "Fortnite x O2 phones",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_CraftGlue_Retrac",
 		"name": "Himiko Toga",
 		"description": "Life is too hard. I just wanna make it easier to live in this world!",
@@ -720,6 +700,26 @@
 		}
 	},
 	{
+		"id": "Character_Evelyn_Retrac",
+		"name": "Evelyn",
+		"description": "",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_Eve_Retrac",
 		"name": "Eve",
 		"description": "",
@@ -880,6 +880,26 @@
 		}
 	},
 	{
+		"id": "Character_FloraBrisk_Retrac",
+		"name": "Santa 'Brina",
+		"description": "Santa doesn't know you like she does.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_FluteLamp_Retracc",
 		"name": "",
 		"description": "",
@@ -912,6 +932,26 @@
 		{
 			"backendValue": "EFortRarity::Transcendent",
 			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_FrigidPoppet_Retrac",
+		"name": "",
+		"description": "",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Common",
+			"displayValue": "Common"
 		},
 		"set":
 		{
@@ -1520,6 +1560,26 @@
 		}
 	},
 	{
+		"id": "Character_LadyBoyle_Retrac",
+		"name": "Lady Boyle",
+		"description": "Oh, but this is perfect, I love it! What happens next? Are you gonna tie me up?",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_LadyShinobi_Retrac",
 		"name": "Sarah",
 		"description": "Save the world with grace and power.",
@@ -1652,6 +1712,26 @@
 		{
 			"backendValue": "EFortRarity::Common",
 			"displayValue": "Common"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_MarchTreatCup_Retrac",
+		"name": "KizunaAI",
+		"description": "Pioneering VTuber.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
 		},
 		"set":
 		{
@@ -1903,6 +1983,26 @@
 		"id": "Character_OvenDrastic_Retrac",
 		"name": "LIGHTNING Master Jay",
 		"description": "A ninja of electric taste.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_PartyConstructor",
+		"name": "Party Constructor",
+		"description": "Save the world test import",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -2183,6 +2283,26 @@
 		"id": "Character_QuailWink_Retrac",
 		"name": "",
 		"description": "",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_QuicheLorraineLime_Retrac",
+		"name": "Iconic Kim Kardashian",
+		"description": "Mogul. Mom. Icon.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -2483,6 +2603,46 @@
 		"id": "Character_StallionAviator_Retrac",
 		"name": "Polo Prodigy",
 		"description": "She will never settle for second place.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_SummitReedGrit_Retrac",
+		"name": "Playboi Carti",
+		"description": "Sorry to keep you waitiing.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_SummitReedMolt_Retrac",
+		"name": "King Vamp Carti",
+		"description": "Bow to the king vamp.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -3041,8 +3201,8 @@
 	},
 	{
 		"id": "Character_ZeroTwo_Retrac",
-		"name": "Lexa Hexbringer",
-		"description": "The witching hour has arrived.",
+		"name": "Zero Two",
+		"description": "A human-Klaxosaur hybrid with unmatched piloting skills. The battlefield is her garden, and her thorns are sharp. Dare to become her partner?",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -3723,66 +3883,6 @@
 		"id": "CID_Skeleton_Retrac",
 		"name": "Skeleton",
 		"description": ":skull: Skin by Dreddsy.",
-		"type":
-		{
-			"backendValue": "AthenaCharacter",
-			"displayValue": ""
-		},
-		"rarity":
-		{
-			"backendValue": "EFortRarity::Transcendent",
-			"displayValue": "Transcendent"
-		},
-		"set":
-		{
-			"backendValue": "",
-			"displayValue": ""
-		}
-	},
-	{
-		"id": "Character_CoolSuitable_Retrac",
-		"name": "Freediver",
-		"description": "Fortnite x O2 phones",
-		"type":
-		{
-			"backendValue": "AthenaCharacter",
-			"displayValue": ""
-		},
-		"rarity":
-		{
-			"backendValue": "EFortRarity::Transcendent",
-			"displayValue": "Transcendent"
-		},
-		"set":
-		{
-			"backendValue": "",
-			"displayValue": ""
-		}
-	},
-	{
-		"id": "Character_QuicheLorraineLime_Retrac",
-		"name": "Iconic Kim Kardashian",
-		"description": "Mogul. Mom. Icon.",
-		"type":
-		{
-			"backendValue": "AthenaCharacter",
-			"displayValue": ""
-		},
-		"rarity":
-		{
-			"backendValue": "EFortRarity::Transcendent",
-			"displayValue": "Transcendent"
-		},
-		"set":
-		{
-			"backendValue": "",
-			"displayValue": ""
-		}
-	},
-	{
-		"id": "Character_SummitReedGrit_Retrac",
-		"name": "Playboi Carti",
-		"description": "Sorry to keep you waitiing.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -4680,6 +4780,26 @@
 		}
 	},
 	{
+		"id": "EID_ChaosTheory_Retrac",
+		"name": "Assumptions",
+		"description": "Put your hips into it.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Common",
+			"displayValue": "Common"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "EID_Cherish_Retrac",
 		"name": "Bounce Wit' It",
 		"description": "Do it to it!",
@@ -4863,6 +4983,26 @@
 		"id": "EID_Coping_Retrac",
 		"name": "Copines",
 		"description": "Squad up with your best friends.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_CopyThat_Retrac",
+		"name": "Lighter",
+		"description": "You can light the way.",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -5760,6 +5900,26 @@
 		}
 	},
 	{
+		"id": "EID_FlossYawn_Retrac",
+		"name": "Snow Mix",
+		"description": "It's piling up!",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "EID_Forever_Retrac",
 		"name": "Forever",
 		"description": "discord.gg/retrac",
@@ -6203,6 +6363,26 @@
 		"id": "EID_Hoist_Retrac",
 		"name": "Jump Rope Jig",
 		"description": "Don't skip a beat.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_HotFashion_Retrac",
+		"name": "Haute Couture",
+		"description": "J'adore.",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -6723,6 +6903,26 @@
 		"id": "EID_Malleable_Retrac",
 		"name": "Wind Up",
 		"description": "Loosen up that elbow and get hoppin'. ",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_MarchTreatCup_Retrac",
+		"name": "Hello, Morning",
+		"description": "Send love to the world.",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -10720,6 +10920,26 @@
 		}
 	},
 	{
+		"id": "MusicPack_WiiChannel_Retrac",
+		"name": "Wii Channel",
+		"description": "Directly exported from my WII",
+		"type":
+		{
+			"backendValue": "AthenaMusicPack",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Common",
+			"displayValue": "Common"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "MusicPack_Zelda_Retrac",
 		"name": "Gerudo Valley",
 		"description": "Press play and listen.",
@@ -10780,6 +11000,26 @@
 		}
 	},
 	{
+		"id": "Pickaxe_FNCSChampion_Retrac",
+		"name": "The Axe of Champions 3.0",
+		"description": "Victory lies within you.",
+		"type":
+		{
+			"backendValue": "AthenaPickaxe",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Pickaxe_FNCS_03",
 		"name": "The Axe of Champions 4.0",
 		"description": "Seek victory in every drop.",
@@ -10823,6 +11063,26 @@
 		"id": "Pickaxe_ID_599_CavernFemale_Retrac",
 		"name": "Catwoman's Grappling Claw",
 		"description": "Pickaxing Purrrfection.",
+		"type":
+		{
+			"backendValue": "AthenaPickaxe",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Pickaxe_ID_804_FNCSS20Male_Retrac",
+		"name": "The Axe of Champions 2.0",
+		"description": "Seek victory in every drop.",
 		"type":
 		{
 			"backendValue": "AthenaPickaxe",
