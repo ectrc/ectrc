@@ -120,6 +120,26 @@
 		}
 	},
 	{
+		"id": "Character_BackAbsorb_Retrac",
+		"name": "",
+		"description": "",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Common",
+			"displayValue": "Common"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_BandageNinjaFNCS_Retrac",
 		"name": "Champion Kuno",
 		"description": "Master the competition.",
@@ -880,6 +900,26 @@
 		}
 	},
 	{
+		"id": "Character_FlintTwirl_Retrac",
+		"name": "Hoshimachi Suisei",
+		"description": "A shooting star that appeared from diamonds in the rough.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_FloraBrisk_Retrac",
 		"name": "Santa 'Brina",
 		"description": "Santa doesn't know you like she does.",
@@ -900,9 +940,69 @@
 		}
 	},
 	{
+		"id": "Character_FlossYawn_Retrac",
+		"name": "",
+		"description": "",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Common",
+			"displayValue": "Common"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_FluteLamp_Retracc",
 		"name": "",
 		"description": "",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_FondAim_Retrac",
+		"name": "Esme",
+		"description": "The spark of something special.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_FondBreak_Retrac",
+		"name": "Ennui",
+		"description": "The echo of something lost.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -1243,6 +1343,26 @@
 		"id": "Character_Hitman_Dark_Retrac",
 		"name": "Spycatcher Siren",
 		"description": "Every operation needs a mastermind.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_HonorBraceJoust_Retrac",
+		"name": "IShowSpeed",
+		"description": "Siuuuuuuu!",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -2000,6 +2120,26 @@
 		}
 	},
 	{
+		"id": "Character_PaddleHarp_Gap_Retrac",
+		"name": "Luna Snow",
+		"description": "Cryokinetic hero and KPop idol.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_PartyConstructor",
 		"name": "Party Constructor",
 		"description": "Save the world test import",
@@ -2320,6 +2460,26 @@
 		}
 	},
 	{
+		"id": "Character_QuirkLuster_Retrac",
+		"name": "Cha Hae-In",
+		"description": "Absolutely radiant.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_RedOasisPomegranate_Retrac",
 		"name": "FFC Sparkplug",
 		"description": "Charge up.",
@@ -2332,6 +2492,26 @@
 		{
 			"backendValue": "EFortRarity::Transcendent",
 			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_RinkHat_Trick_Retrac",
+		"name": "",
+		"description": "",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Common",
+			"displayValue": "Common"
 		},
 		"set":
 		{
@@ -2603,6 +2783,26 @@
 		"id": "Character_StallionAviator_Retrac",
 		"name": "Polo Prodigy",
 		"description": "She will never settle for second place.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_SteedShimmer_Shire_Retrac",
+		"name": "Dasha",
+		"description": "Rules are made to be broken.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -2980,6 +3180,26 @@
 		}
 	},
 	{
+		"id": "Character_TweakSmirk_Retrac",
+		"name": "Stellaron Hunter Kafka",
+		"description": "Wanted level: highest.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_TwilightSpotShine_Retrac",
 		"name": "Sparx",
 		"description": "A fashionable and Clixy take on an OG classic.",
@@ -3183,6 +3403,26 @@
 		"id": "Character_WormChalk_Retrac",
 		"name": "Mahito",
 		"description": "A cursed spirit of human origin.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_YokeQuick_Retrac",
+		"name": "Vincent Vega",
+		"description": "Play with matches, you get burned.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -3420,6 +3660,26 @@
 		}
 	},
 	{
+		"id": "CID_A_153_Athena_Commando_F_BuffCatFan_TS2DR_Retrac",
+		"name": "Summer Skye",
+		"description": "Combat master, cat protector, and lover of all things kawaii.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "CID_A_162_Athena_Commando_F_Quarrel_E5D63_Retrac",
 		"name": "Cammy",
 		"description": "For those who I wish to protect...I will fight you!",
@@ -3503,6 +3763,26 @@
 		"id": "CID_A_215_Athena_Commando_F_SunriseCastle_48TIZ_Retrac",
 		"name": "Chani",
 		"description": "A powerful Fremen warrior and skilled survivalist.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_232_Athena_Commando_F_CritterStreak_YILHR_Retrac",
+		"name": "Frankenstein's Bride",
+		"description": "Reanimated and reimagined.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -3920,6 +4200,26 @@
 		}
 	},
 	{
+		"id": "EID_AbstractMirror",
+		"name": "!",
+		"description": "Found you!",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Common",
+			"displayValue": "Common"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "EID_Adoration_Retrac",
 		"name": "Cupid's Arrow",
 		"description": "Feel the love.",
@@ -4103,6 +4403,26 @@
 		"id": "EID_Asteroid_Retrac",
 		"name": "Deep Explorer",
 		"description": "Roll into regions unknown.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_AweSnap_Retrac",
+		"name": "earthquake",
+		"description": "You think you're gonna?",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -5083,6 +5403,26 @@
 		"id": "EID_CyberIce_Retrac",
 		"name": "Swing My Way",
 		"description": "Always get your way.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_DailyDose",
+		"name": "There She Goes",
+		"description": "Go off. Again.",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -6740,6 +7080,26 @@
 		}
 	},
 	{
+		"id": "EID_LeapFrog_Retrac",
+		"name": "Jump",
+		"description": "3, 2, 1...",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "EID_LegDance_Retrac",
 		"name": "Cutsey can can",
 		"description": "discord.gg/retrac",
@@ -6763,6 +7123,26 @@
 		"id": "EID_LetsBegin_Retrac",
 		"name": "Don't Start Now",
 		"description": "I'm better on the other side.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_LevitateSnow_Retrac",
+		"name": "COMË N GO",
+		"description": "Needs immediate attention.",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -7900,6 +8280,26 @@
 		}
 	},
 	{
+		"id": "EID_SantaClara_Retrac",
+		"name": "São Paulo",
+		"description": "You'll never get enough.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "EID_Saxobeat_Retrac",
 		"name": "Mr. Saxobeat",
 		"description": "You make me dance, bring me up, bring me down",
@@ -8263,6 +8663,26 @@
 		"id": "EID_Spin_Retrac",
 		"name": "Victory Spin",
 		"description": "discord.gg/retrac",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_StopLight_Retrac",
+		"name": "GO!",
+		"description": "Get going.",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -8732,6 +9152,26 @@
 		{
 			"backendValue": "EFortRarity::Transcendent",
 			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_TwistFire_I2VTA",
+		"name": "Wake Up",
+		"description": "Okay okay okay! ",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Common",
+			"displayValue": "Common"
 		},
 		"set":
 		{
