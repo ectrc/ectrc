@@ -1,5 +1,65 @@
 [
 	{
+		"id": "Character_BikeMold_Retrac",
+		"name": "Iron Man Mk 45",
+		"description": "The Avengers' benefactor and creator of a gamma powered Battle Bus.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_CozyMechanic_Hen_Retrac",
+		"name": "Elite Jules",
+		"description": "An Elite engineer and inventor.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_CoolSuitable_Retrac",
+		"name": "Freediver",
+		"description": "Fortnite x O2 phones",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "BID_702_SkirmishFemale_Retrac",
 		"name": "Super Cab-Masher",
 		"description": "I've got next.",
@@ -120,6 +180,26 @@
 		}
 	},
 	{
+		"id": "Character_AuroraOwl_Retrac",
+		"name": "Iron Man (MCU)",
+		"description": "Tony Stark's Mark 3 Armor. He is Iron Man.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_BackAbsorb_Retrac",
 		"name": "",
 		"description": "",
@@ -183,26 +263,6 @@
 		"id": "Character_BerryTartRiver_Retrac",
 		"name": "Ice Spice",
 		"description": "Rap's rising princess.",
-		"type":
-		{
-			"backendValue": "AthenaCharacter",
-			"displayValue": ""
-		},
-		"rarity":
-		{
-			"backendValue": "EFortRarity::Transcendent",
-			"displayValue": "Transcendent"
-		},
-		"set":
-		{
-			"backendValue": "",
-			"displayValue": ""
-		}
-	},
-	{
-		"id": "Character_BikeMold_Retrac",
-		"name": "Iron Man Mk 45",
-		"description": "The Avengers' benefactor and creator of a gamma powered Battle Bus.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -400,26 +460,6 @@
 		}
 	},
 	{
-		"id": "Character_CoolSuitable_Retrac",
-		"name": "Freediver",
-		"description": "Fortnite x O2 phones",
-		"type":
-		{
-			"backendValue": "AthenaCharacter",
-			"displayValue": ""
-		},
-		"rarity":
-		{
-			"backendValue": "EFortRarity::Transcendent",
-			"displayValue": "Transcendent"
-		},
-		"set":
-		{
-			"backendValue": "",
-			"displayValue": ""
-		}
-	},
-	{
 		"id": "Character_CraftGlue_Retrac",
 		"name": "Himiko Toga",
 		"description": "Life is too hard. I just wanna make it easier to live in this world!",
@@ -583,6 +623,26 @@
 		"id": "Character_DoughDisk_Retrac",
 		"name": "She-Venom",
 		"description": "A new symbiote that proves to be an ally for Venom and Eddie.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_DrapeUltra_Retrac",
+		"name": "Magik",
+		"description": "Sorceress, mutant, and the ruler of Limbo.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -1203,6 +1263,26 @@
 		"id": "Character_GnocchiTea_Retrac",
 		"name": "Lara Croft (2000s)",
 		"description": "A globetrotting archaeologist with a penchant for dangerous adventures.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_GongFiddle_Retrac",
+		"name": "Grace Ashcroft",
+		"description": "An intelligence analyst caught in a nightmare.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -2523,6 +2603,26 @@
 		"id": "Character_RoseDust_Retrac",
 		"name": "Spider-Gwen",
 		"description": "All right, people, let's start at the beginning one last time.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_RoseJewel_Retrac",
+		"name": "Sanni",
+		"description": "The wild rose of The Garden.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -4200,7 +4300,7 @@
 		}
 	},
 	{
-		"id": "EID_AbstractMirror",
+		"id": "EID_AbstractMirror_Retrac",
 		"name": "!",
 		"description": "Found you!",
 		"type":
@@ -5110,8 +5210,8 @@
 		},
 		"rarity":
 		{
-			"backendValue": "EFortRarity::Common",
-			"displayValue": "Common"
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
 		},
 		"set":
 		{
@@ -6712,6 +6812,26 @@
 		{
 			"backendValue": "EFortRarity::Transcendent",
 			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_HoppingJump_Retrac",
+		"name": "Hopping Dick",
+		"description": "Hopping Dick Dick Dick!",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Common",
+			"displayValue": "Common"
 		},
 		"set":
 		{
@@ -9170,8 +9290,8 @@
 		},
 		"rarity":
 		{
-			"backendValue": "EFortRarity::Common",
-			"displayValue": "Common"
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
 		},
 		"set":
 		{
