@@ -320,6 +320,26 @@
 		}
 	},
 	{
+		"id": "Glider_CasinoReaper_Retrac",
+		"name": "Dealer's Deck",
+		"description": "Hit 'em from the drop.",
+		"type":
+		{
+			"backendValue": "AthenaGlider",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Glider_Dazzle_Retrac",
 		"name": "Needle Dropper",
 		"description": "All the way to Number One.",
@@ -512,6 +532,26 @@
 		{
 			"backendValue": "EFortRarity::Transcendent",
 			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_001_Athena_Commando_F_Default",
+		"name": "Recruit",
+		"description": "Standard issue combatant outfit. ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Common",
+			"displayValue": "Common"
 		},
 		"set":
 		{
@@ -780,26 +820,6 @@
 		}
 	},
 	{
-		"id": "EID_BananaDance_Retrac",
-		"name": "",
-		"description": "",
-		"type":
-		{
-			"backendValue": "AthenaDance",
-			"displayValue": ""
-		},
-		"rarity":
-		{
-			"backendValue": "EFortRarity::Uncommon",
-			"displayValue": "Uncommon"
-		},
-		"set":
-		{
-			"backendValue": "",
-			"displayValue": ""
-		}
-	},
-	{
 		"id": "EID_BankNotes_Retrac",
 		"name": "Fast Flex",
 		"description": "Don't let 'em forget it.",
@@ -943,6 +963,46 @@
 		"id": "EID_BeHereV2_Retrac",
 		"name": "Routine Rythm",
 		"description": "discord.gg/retrac",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_BentBaton",
+		"name": "",
+		"description": "",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Uncommon",
+			"displayValue": "Uncommon"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_BentBaton_Retrac",
+		"name": "Storm Beast Snap",
+		"description": "Bring out the beast.",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -1303,6 +1363,26 @@
 		"id": "EID_Bulletproof_Retrac",
 		"name": "Run It Down",
 		"description": "Only the best can keep up with you.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_Bullseye_Retrac",
+		"name": "On Target",
+		"description": "Let 'em know you're right on target.",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -2220,6 +2300,26 @@
 		}
 	},
 	{
+		"id": "EID_DiscoRace_Retrac",
+		"name": "Pop Muzik",
+		"description": "Wanna talk about it?",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "EID_Distraught_Retrac",
 		"name": "No Tears",
 		"description": "Keep up the act.",
@@ -2400,6 +2500,26 @@
 		}
 	},
 	{
+		"id": "EID_EarPsych_Retrac",
+		"name": "Nightrave",
+		"description": "Let it all burn out.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "EID_Egocentric_Retrac",
 		"name": "Look at Me",
 		"description": "X marks the 'me'.",
@@ -2412,6 +2532,26 @@
 		{
 			"backendValue": "EFortRarity::Mythic",
 			"displayValue": "Mythic"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_EightUp_Retrac",
+		"name": "I'm So ATL",
+		"description": "You're just peachy.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
 		},
 		"set":
 		{
@@ -2723,6 +2863,26 @@
 		"id": "EID_FiestaFlame_Retrac",
 		"name": "Passinho do Jamal",
 		"description": "Do a little stepping.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_FivePoints_Retrac",
+		"name": "FaSHioN",
+		"description": "Call it whatever you want.",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -3200,6 +3360,26 @@
 		}
 	},
 	{
+		"id": "EID_HeartBeats_Retrac",
+		"name": "Love Me Not",
+		"description": "Make 'em miss you.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "EID_HeavyRoarDance_Retrac",
 		"name": "Real Slim Shady",
 		"description": "Be the Realest.",
@@ -3323,6 +3503,26 @@
 		"id": "EID_Hoist_Retrac",
 		"name": "Jump Rope Jig",
 		"description": "Don't skip a beat.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_HoopDreams_Retrac",
+		"name": "Down",
+		"description": "Keep it low.",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -3800,6 +4000,26 @@
 		}
 	},
 	{
+		"id": "EID_Lexa_Retrac",
+		"name": "Hunter Protocol",
+		"description": "Set mechafusion levels to maximum.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "EID_LilSplit_Retrac",
 		"name": "Do the 'Split",
 		"description": "Song of the summer.",
@@ -3840,6 +4060,46 @@
 		}
 	},
 	{
+		"id": "EID_LivelySugar_Retrac",
+		"name": "Merc Step",
+		"description": "Own it.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_LocalTalent_Retrac",
+		"name": "Listen Up",
+		"description": "The beat goes on...",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "EID_LocalZilla_Retrac",
 		"name": "Chef's Special",
 		"description": "Dinner and a show.\r\n",
@@ -3852,6 +4112,26 @@
 		{
 			"backendValue": "EFortRarity::Mythic",
 			"displayValue": "Mythic"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_LongWeekend_Retrac",
+		"name": "Moving Like Berney",
+		"description": "Keep it relaxed.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
 		},
 		"set":
 		{
@@ -3892,6 +4172,26 @@
 		{
 			"backendValue": "EFortRarity::Mythic",
 			"displayValue": "Mythic"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_LovelyCurse_Retrac",
+		"name": "Lover Girl",
+		"description": "The star of every party in your mind.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
 		},
 		"set":
 		{
@@ -4023,6 +4323,26 @@
 		"id": "EID_Marvelous_Retrac",
 		"name": "Walkin' Pretty",
 		"description": "Pretty good, huh?",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_MashedPotato_Retrac",
+		"name": "Mashed Potato",
+		"description": "Gravy not included.",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -4263,6 +4583,26 @@
 		"id": "EID_MissusMind_Retrac",
 		"name": "Rhythm of Chaos",
 		"description": "Let your master plan flow through you.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_MobbedUp_Retrac",
+		"name": "Lush Life",
+		"description": "Living for the summer.",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -5180,6 +5520,26 @@
 		}
 	},
 	{
+		"id": "EID_SadEyes_Retrac",
+		"name": "BIG FEELING",
+		"description": "Let the haters feel it.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "EID_SandwichBop_Retrac",
 		"name": "Go Mufasa",
 		"description": "I did it legit-ly.",
@@ -5680,9 +6040,49 @@
 		}
 	},
 	{
+		"id": "EID_SprintLuckSlaw_Retrac",
+		"name": "Fame is a Gun",
+		"description": "Taste the glamor.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "EID_StopLight_Retrac",
 		"name": "GO!",
 		"description": "Get going.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_StopTraffic_Retrac",
+		"name": "Omote",
+		"description": "Keep it heavy.",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -6100,26 +6500,6 @@
 		}
 	},
 	{
-		"id": "EID_TangyRadishMagma_Retrac",
-		"name": "",
-		"description": "",
-		"type":
-		{
-			"backendValue": "AthenaDance",
-			"displayValue": ""
-		},
-		"rarity":
-		{
-			"backendValue": "EFortRarity::Uncommon",
-			"displayValue": "Uncommon"
-		},
-		"set":
-		{
-			"backendValue": "",
-			"displayValue": ""
-		}
-	},
-	{
 		"id": "EID_TeenSpirit_Retrac",
 		"name": "Song 2",
 		"description": "Let it out.",
@@ -6280,6 +6660,46 @@
 		}
 	},
 	{
+		"id": "EID_TrueLore_Retrac",
+		"name": "It's Me",
+		"description": "Be a little biased.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_TuffTrio_Retrac",
+		"name": "Move (Adapted)",
+		"description": "You know you like these moves.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "EID_TwinTwirl_Retrac",
 		"name": "X",
 		"description": "Not yours.",
@@ -6363,6 +6783,26 @@
 		"id": "EID_Vacant_Retrac",
 		"name": "I'm Out",
 		"description": "Can't lock this down.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_VagueHex_Retrac",
+		"name": "Music Box Mannequin",
+		"description": "Poised and ready to play...",
 		"type":
 		{
 			"backendValue": "AthenaDance",
@@ -6680,6 +7120,26 @@
 		}
 	},
 	{
+		"id": "Emoji_S18_ZombieElastic_FingerWalk_Retrac",
+		"name": "Emoticon",
+		"description": "",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Uncommon",
+			"displayValue": "Uncommon"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Emoticon_PrawnTwine_Retrac",
 		"name": "Bugs' No",
 		"description": "Express yourself on the battlefield.",
@@ -6780,6 +7240,26 @@
 		}
 	},
 	{
+		"id": "Spray_VoidRedemption_Portrait_Retrac",
+		"name": "Hope's Look",
+		"description": "Leave your mark.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Spray_WeaveHarbor_Retrac",
 		"name": "King Eh 30",
 		"description": "Leave your mark.",
@@ -6820,6 +7300,46 @@
 		}
 	},
 	{
+		"id": "LoadingScreen_FeelUnionKeyArt_Retrac",
+		"name": "Headstones and an Ironmouse",
+		"description": "Time for a little anarchy.",
+		"type":
+		{
+			"backendValue": "AthenaLoadingScreen",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "LoadingScreen_MistTycoonKeyArt_Retrac",
+		"name": "Rooftop Madison",
+		"description": "She does as she pleases.",
+		"type":
+		{
+			"backendValue": "AthenaLoadingScreen",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "LoadingScreen_SafflowerKeyArt_Retrac",
 		"name": "BORN IN CHAOS",
 		"description": "Unleash the power of the Stick of Truth!",
@@ -6832,6 +7352,66 @@
 		{
 			"backendValue": "EFortRarity::Transcendent",
 			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Lobby_Season8",
+		"name": "Season 8",
+		"description": "The Season 8 lobby: a pirate cove under the volcano.",
+		"type":
+		{
+			"backendValue": "AthenaCallingCard",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Epic",
+			"displayValue": "Epic"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Lobby_SLC",
+		"name": "Retrac",
+		"description": "The power plant lobby.",
+		"type":
+		{
+			"backendValue": "AthenaCallingCard",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Epic",
+			"displayValue": "Epic"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Lobby_SLC_Halloween",
+		"name": "Retracmares",
+		"description": "The power plant lobby, after dark.",
+		"type":
+		{
+			"backendValue": "AthenaCallingCard",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Epic",
+			"displayValue": "Epic"
 		},
 		"set":
 		{
@@ -9940,46 +10520,6 @@
 		}
 	},
 	{
-		"id": "EID_Harmony_Retrac",
-		"name": "Feel It",
-		"description": "The sensation strikes.",
-		"type":
-		{
-			"backendValue": "AthenaDance",
-			"displayValue": ""
-		},
-		"rarity":
-		{
-			"backendValue": "EFortRarity::Transcendent",
-			"displayValue": "Transcendent"
-		},
-		"set":
-		{
-			"backendValue": "",
-			"displayValue": ""
-		}
-	},
-	{
-		"id": "EID_Reverie_Retrac",
-		"name": "Groove Destroyer",
-		"description": "You'll never get away with this!!",
-		"type":
-		{
-			"backendValue": "AthenaDance",
-			"displayValue": ""
-		},
-		"rarity":
-		{
-			"backendValue": "EFortRarity::Transcendent",
-			"displayValue": "Transcendent"
-		},
-		"set":
-		{
-			"backendValue": "",
-			"displayValue": ""
-		}
-	},
-	{
 		"id": "FortniteBalls",
 		"name": "Fortnite Balls",
 		"description": "Seek victory in every drop.",
@@ -10160,6 +10700,26 @@
 		}
 	},
 	{
+		"id": "Pickaxe_CrystalAvenger_Retrac",
+		"name": "Crystallized Avenger",
+		"description": "Strike back with the cold light of vengeance.",
+		"type":
+		{
+			"backendValue": "AthenaPickaxe",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Pickaxe_DrapeUltra_Retrac",
 		"name": "Magik's Soulsword",
 		"description": "A magical sword constructed of the life force of Magik, forged in Limbo.",
@@ -10202,6 +10762,26 @@
 	{
 		"id": "Pickaxe_FNCS_03",
 		"name": "The Axe of Champions 4.0",
+		"description": "Seek victory in every drop.",
+		"type":
+		{
+			"backendValue": "AthenaPickaxe",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Pickaxe_FNCS_03_Gold",
+		"name": "The Golden Axe of Champions",
 		"description": "Seek victory in every drop.",
 		"type":
 		{
@@ -10700,6 +11280,26 @@
 		}
 	},
 	{
+		"id": "Hat_Retrac_PartyHat",
+		"name": "Party Hat",
+		"description": "Test hat. Every day is a party.",
+		"type":
+		{
+			"backendValue": "AthenaHat",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Rare",
+			"displayValue": "Rare"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "BID_702_SkirmishFemale_Retrac",
 		"name": "Super Cab-Masher",
 		"description": "I've got next.",
@@ -10820,6 +11420,26 @@
 		}
 	},
 	{
+		"id": "Character_AgarBelly_Retrac",
+		"name": "Pomni",
+		"description": "Eww, its everyone's favorite sad long-limbed Jester!",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_AgedChasm_Retrac",
 		"name": "Scorpius Operative",
 		"description": "Flawless and venomous.",
@@ -10843,6 +11463,26 @@
 		"id": "Character_Akuma_Retrac",
 		"name": "SpookyFLS",
 		"description": "There is no good or evil, only Akuma",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_AlderOptic_Retrac",
+		"name": "Triple Threat Sommerset",
+		"description": "She'll see you in the endgame.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -10960,9 +11600,49 @@
 		}
 	},
 	{
+		"id": "Character_BalletAssassin_Retrac",
+		"name": "Clara",
+		"description": "Elegant and deadly.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_BandageNinjaFNCS_Retrac",
 		"name": "Champion Kuno",
 		"description": "Master the competition.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_BentBaton_Retrac",
+		"name": "Haylee Skye",
+		"description": "Make the crowd roar.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -11040,6 +11720,26 @@
 		}
 	},
 	{
+		"id": "Character_BlueMonday_Retrac",
+		"name": "Rain",
+		"description": "Find yourself in the darkness.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_BluntWhimsy_Retrac",
 		"name": "Ayla Winn",
 		"description": "Dangerously sweet.",
@@ -11083,6 +11783,26 @@
 		"id": "Character_BoldTouch_Retrac",
 		"name": "Catrin Glitch",
 		"description": "Searching for the legendary ninth life",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_BrassSpar_Retrac",
+		"name": "Miasma",
+		"description": "Breathe it in.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -11180,9 +11900,89 @@
 		}
 	},
 	{
+		"id": "Character_CameraShake_Retrac",
+		"name": "Elite Striker Sephira",
+		"description": "Go for the shutout.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_CampWrench_Retrac",
+		"name": "Susan Storm",
+		"description": "Invisibly powerful matriarch of the Fantastic Four aka the Invisible Woman.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_CarbonSkeleton_Retrac",
 		"name": "Carbon Skeleton",
-		"description": ":skull: Skin by Dreddsy, retexutred by zylox.",
+		"description": "Lightweight. Unbreakable. All carbon.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_CargoLying_Retrac",
+		"name": "Nikki",
+		"description": "Be careful who you wish for...",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_CarryMazeFlap_Retrac",
+		"name": "Lady Liberty",
+		"description": "A truly patriotic Purge participant.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -11360,6 +12160,46 @@
 		}
 	},
 	{
+		"id": "Character_ClinchMetal_Retrac",
+		"name": "Hairpin",
+		"description": "Wear out your slicks. ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_CloakedFaith_Retrac",
+		"name": "Sakura Red Jade",
+		"description": "Summon the spring.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_CometDeer_Retrac",
 		"name": "Sled Ready Guff",
 		"description": "The forecast calls for Guff.",
@@ -11403,6 +12243,26 @@
 		"id": "Character_CometWinter_Retrac",
 		"name": "Guff Gringle",
 		"description": "Don't jingle with Gringle.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_CommandoSpy_Retrac",
+		"name": "Whisper",
+		"description": "Slip through the silence.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -11560,6 +12420,26 @@
 		}
 	},
 	{
+		"id": "Character_CubeCoast_Retrac",
+		"name": "Breezabelle",
+		"description": "Voted \"Most Relaxed on the Beach\", in a very competitive season.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_CyberDelivery_Retrac",
 		"name": "Nyangelica",
 		"description": "The Island's first competitive hacker.",
@@ -11623,6 +12503,66 @@
 		"id": "Character_DangerIndex_Retrac",
 		"name": "Bikini Bottom Ice Spice",
 		"description": "Who raps in a pineapple under the sea?",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_DangerMojo_Retrac",
+		"name": "Serpentbreaker Charlotte",
+		"description": "Have cursed sword, will slay giant magical reptiles.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_DarkAzalea_Retrac",
+		"name": "X-23",
+		"description": "Weapon X clone and successor to the mantle of the Wolverine.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_DarkNinjaWhite_Retrac",
+		"name": "Mysterious Fate",
+		"description": "Face your unknowable Fate.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -11760,6 +12700,26 @@
 		}
 	},
 	{
+		"id": "Character_DenimEquip_Stock_Retrac",
+		"name": "Undercover Skye",
+		"description": "She's got the Guff stuff.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_DimeBlanketGrace_Retrac",
 		"name": "Tour-Ready Sabrina Carpenter",
 		"description": "Make a short, sweet impression.",
@@ -11783,6 +12743,26 @@
 		"id": "Character_DimeBlanketKnot_Retrac",
 		"name": "Sabrina Carpenter",
 		"description": "That's that her, Sabrina.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_DonkeyCrib_Retrac",
+		"name": "Reed Richards",
+		"description": "Brilliant and super stretchy patriarch of the Fantastic Four aka Mister Fantastic.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -11832,6 +12812,106 @@
 		{
 			"backendValue": "EFortRarity::Mythic",
 			"displayValue": "Mythic"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_DroveRay_B_Retrac",
+		"name": "Audacious Adventurer",
+		"description": "Always takes the road less traveled.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_DroveRay_C_Retrac",
+		"name": "Radiant Rebel",
+		"description": "Goes against the status quo.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_DroveRay_D_Retrac",
+		"name": "Prank Prodigy",
+		"description": "Always has a joke up their sleeve.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_DroveRay_E_Retrac",
+		"name": "Story Seeker",
+		"description": "Tells a great tale.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_DroveRay_Retrac",
+		"name": "Dynamic Dreamer",
+		"description": "Dream big.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
 		},
 		"set":
 		{
@@ -11920,6 +13000,26 @@
 		}
 	},
 	{
+		"id": "Character_EagerUnify_Retrac",
+		"name": "Triple Threat Reddysh",
+		"description": "Red Squad leader's ready to rumble.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_EarPsych_Retrac",
 		"name": "Nightburn Highwire",
 		"description": "Manipulate the chaos.",
@@ -11983,6 +13083,26 @@
 		"id": "Character_ElegantHeist_Retrac",
 		"name": "Venus Hart",
 		"description": "Sing your heart out.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_EmberYearn_Retrac",
+		"name": "Triple Threat Moxie",
+		"description": "Competing to beat her personal best.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -12100,6 +13220,46 @@
 		}
 	},
 	{
+		"id": "Character_FacetBlom_Retrac",
+		"name": "Genji",
+		"description": "Cyborg ninja of legend.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_FairyFlex_Retrac",
+		"name": "Persephone",
+		"description": "The dreaded queen of the Underworld.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_FaithPerch_Retrac",
 		"name": "Lucyna Kushinada",
 		"description": "A Netrunner with a dream to go to the Moon.",
@@ -12143,6 +13303,26 @@
 		"id": "Character_FallValleyCharge_Retrac",
 		"name": "Claire Redfield",
 		"description": "A tough young woman on a search for her brother.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_FauxVenom_Retrac",
+		"name": "Designer Tsuki",
+		"description": "She's escaped Kata Tech to build a life of her own.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -12260,6 +13440,26 @@
 		}
 	},
 	{
+		"id": "Character_FineCheek_Retrac",
+		"name": "Neytiri",
+		"description": "Warrior. Mother. Na'vi.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_FlameBride_Retrac",
 		"name": "The Widow",
 		"description": "Her heart burns for you.",
@@ -12300,6 +13500,26 @@
 		}
 	},
 	{
+		"id": "Character_FloodPlain_Retrac",
+		"name": "Satoru Gojo",
+		"description": "Widely known as the strongest Sorcerer of modern times.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_FloraBrisk_Retrac",
 		"name": "Santa 'Brina",
 		"description": "Santa doesn't know you like she does.",
@@ -12323,6 +13543,26 @@
 		"id": "Character_FlossYawn_Retrac",
 		"name": "Snow Miku",
 		"description": "She enlivens a wintery Hokkaido.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_FluidWedge_Retrac",
+		"name": "The Punisher",
+		"description": "No half-measures.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -12383,6 +13623,26 @@
 		"id": "Character_FondBreak_Retrac",
 		"name": "Ennui",
 		"description": "The echo of something lost.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_FonduePaper_Retrac",
+		"name": "The Slender Man",
+		"description": "Be careful in the forest.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -12463,6 +13723,26 @@
 		"id": "Character_FrigidPoppet_Retrac",
 		"name": "Alpine Lexa",
 		"description": "Hunting for some snowbound relaxation.\r\n",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_FrostIron_Retrac",
+		"name": "Glacial Dummy",
+		"description": "Look out! Iceberg!",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -12680,6 +13960,26 @@
 		}
 	},
 	{
+		"id": "Character_GnatGala_Retrac",
+		"name": "Jason ",
+		"description": "There's nowhere to hide from this ultimate slasher. ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_GnocchiTea_Retrac",
 		"name": "Lara Croft (2000s)",
 		"description": "A globetrotting archaeologist with a penchant for dangerous adventures.",
@@ -12780,9 +14080,49 @@
 		}
 	},
 	{
+		"id": "Character_GraffitiTon_Retrac",
+		"name": "Street Wave Teknique",
+		"description": "Hit the streets and tag something new.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_GraphShook_Retrac",
 		"name": "Perlica",
 		"description": "Supervisor of Endfield Industries.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_GreenJacketFNCS_Retrac",
+		"name": "Champion Kyra",
+		"description": "Never afraid to secure the crown.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -12823,6 +14163,26 @@
 		"id": "Character_GroovyReader_Retrac",
 		"name": "Eleven",
 		"description": "elekinetic teen who escaped Dr. Brenner and Hawkins National Laboratory.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_GuardHence_Retrac",
+		"name": "Freddy Fazbear",
+		"description": "Aww, you look down. Would you like a hug?",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -12940,6 +14300,86 @@
 		}
 	},
 	{
+		"id": "Character_HeadhunterStar_Retrac",
+		"name": "Renegade Runner",
+		"description": "Rebuilt and ready to compete.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_HeistFNCS_Retrac",
+		"name": "Aces Wild Card",
+		"description": "In it to win it.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_HeistSleek_NPC_Retrac",
+		"name": "",
+		"description": "TBD",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_HeistSleek_Retrac",
+		"name": "Gold Blooded Ace",
+		"description": "Protect the vaults.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_HerbalFist_Retrac",
 		"name": "Spider-Man (Brand New Day)",
 		"description": "Your friendly, forgotten Spider-Man.",
@@ -13003,6 +14443,26 @@
 		"id": "Character_Hitman_Dark_Retrac",
 		"name": "Spycatcher Siren",
 		"description": "Every operation needs a mastermind.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_HollyDessert_Retrac",
+		"name": "Dupli-Kate",
+		"description": "She's a one-woman army.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -13143,6 +14603,186 @@
 		"id": "Character_IchorIncisor_Retrac",
 		"name": "Countess Daraku",
 		"description": "Embrace your thirst for fame.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_ImpulseSpring_B_Retrac",
+		"name": "Free Kick Maverick",
+		"description": "Always ahead of the game.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_ImpulseSpring_C_Retrac",
+		"name": "Penalty Patroller",
+		"description": "Run the field!",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_ImpulseSpring_D_Retrac",
+		"name": "Net Protector",
+		"description": "Nothing gets past her.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_ImpulseSpring_E_Retrac",
+		"name": "Field Favorite",
+		"description": "She's got perfect pitch.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_ImpulseSpring_Retrac",
+		"name": "Mighty Midfielder",
+		"description": "They'll never beat her.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_IndoorLaceBeat_Retrac",
+		"name": "Laufey",
+		"description": "You loved her from the start.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_IndoorLaceScore_Retrac",
+		"name": "Lover Girl Laufey",
+		"description": "Lovestruck in a reckless fever.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_InstantGravelNoble_Retrac",
+		"name": "Launch Day Lewis Hamilton",
+		"description": "From the speedway to the stars.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_InstantGravel_Retrac",
+		"name": "Lewis Hamilton",
+		"description": "Record-breaking champion racer.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -13440,6 +15080,26 @@
 		}
 	},
 	{
+		"id": "Character_KneeLens_Retrac",
+		"name": "Faye Valentine",
+		"description": "A bounty hunter with a forgotten past, who loves games of chance.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_LabGeek_Retrac",
 		"name": "Dexter Morgan",
 		"description": "Tonight’s the Night, and it’s going to happen",
@@ -13463,6 +15123,26 @@
 		"id": "Character_LacedCrimp_Retrac",
 		"name": "Juliet",
 		"description": "She's gonna make it on her own.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_LadderDoor_Retrac",
+		"name": "Megara",
+		"description": "She's a damsel. She's in distress. She can handle this.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -13572,6 +15252,26 @@
 		{
 			"backendValue": "EFortRarity::Mythic",
 			"displayValue": "Mythic"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_LexaEarlGrey_Retrac",
+		"name": "Princess Lexa",
+		"description": "No sword nor crown will keep her from her destiny.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
 		},
 		"set":
 		{
@@ -13740,26 +15440,6 @@
 		}
 	},
 	{
-		"id": "Character_Luna_Retrac",
-		"name": "Luna Snow",
-		"description": "",
-		"type":
-		{
-			"backendValue": "AthenaCharacter",
-			"displayValue": ""
-		},
-		"rarity":
-		{
-			"backendValue": "EFortRarity::Transcendent",
-			"displayValue": "Transcendent"
-		},
-		"set":
-		{
-			"backendValue": "",
-			"displayValue": ""
-		}
-	},
-	{
 		"id": "Character_MarchTreatCup_Retrac",
 		"name": "KizunaAI",
 		"description": "Pioneering VTuber.",
@@ -13780,9 +15460,69 @@
 		}
 	},
 	{
+		"id": "Character_MarineCarve_Retrac",
+		"name": "Carina",
+		"description": "Everything's a mystery.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_MasalaRail_Retrac",
+		"name": "Ahsoka Tano (Clone Wars)",
+		"description": "A strong-willed Padawan fighting for the Republic.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_MeekCrow_Retrac",
 		"name": "Moon Punk Ione",
 		"description": "Rebel under the full moon.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_MelodicPull_Retrac",
+		"name": "Monarcha",
+		"description": "Dark wings for a dark queen.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -14060,6 +15800,46 @@
 		}
 	},
 	{
+		"id": "Character_MutedMaroon_Retrac",
+		"name": "Red Ruin Joni",
+		"description": "A nightmare in crimson.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_MysticFang_Retrac",
+		"name": "Helsie Midnight",
+		"description": "She'll put a hex on you.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_NoonDoctor_Retrac",
 		"name": "Dylan Faden",
 		"description": "A powerful parautilitarian working with the Federal Bureau of Control, trying to make amends for the past.",
@@ -14260,6 +16040,26 @@
 		}
 	},
 	{
+		"id": "Character_PalmTree_Retrac",
+		"name": "April O'Neil",
+		"description": "Channel 6 News' investigative reporter in the field.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_PartyConstructor",
 		"name": "Party Constructor",
 		"description": "Save the world test import",
@@ -14380,6 +16180,26 @@
 		}
 	},
 	{
+		"id": "Character_Photographer_Holiday_Retrac",
+		"name": "Winter Wonder Skye",
+		"description": "Ready for any adventure!",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_PigeonChart_Retrac",
 		"name": "Ryomen Sukuna",
 		"description": "The King of Curses, who reigns over the world of Cursed Spirits and Curse Users.",
@@ -14420,9 +16240,69 @@
 		}
 	},
 	{
+		"id": "Character_PineTrimSurge_Retrac",
+		"name": "Savage Siren",
+		"description": "Unforgettably savage. ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_PinkTrooperDark_Retrac",
 		"name": "Shady Zadie",
 		"description": "She's only seen when she wants to be.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_PiperShelf_Pearl_Retrac",
+		"name": "Emma Frost",
+		"description": "A devious and brilliant psychic with an unbreakable will.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_PlaidCarbon_Retrac",
+		"name": "Zenia",
+		"description": "The road runs wild and free.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -14600,6 +16480,26 @@
 		}
 	},
 	{
+		"id": "Character_ProdigySage_Retrac",
+		"name": "Huntress Helsie",
+		"description": "Adventure seeker. Vampire staker. Dance master.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_PunkDevilSummerFNCS_Retrac",
 		"name": "Champion Surf Witch",
 		"description": "The best at the beach.",
@@ -14660,6 +16560,26 @@
 		}
 	},
 	{
+		"id": "Character_QuarterClaspJoin_Retrac",
+		"name": "Redway Ruby",
+		"description": "Forever duo.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_QuicheLorraineLime_Retrac",
 		"name": "Iconic Kim Kardashian",
 		"description": "Mogul. Mom. Icon.",
@@ -14683,6 +16603,66 @@
 		"id": "Character_QuirkLuster_Retrac",
 		"name": "Cha Hae-In",
 		"description": "Absolutely radiant.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_RadarDigitGloom_Retrac",
+		"name": "Twizz",
+		"description": "My twizzy.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_RadarDigitOrtho_Retrac",
+		"name": "Yeat",
+		"description": "I'm Yeat.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_RainbowStraps_Retrac",
+		"name": "Lana Llane",
+		"description": "The Island's Weapon-O-Matic mastermind.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -14760,6 +16740,26 @@
 		}
 	},
 	{
+		"id": "Character_RebelClaw_Aviator_Retrac",
+		"name": "Renegade Lynx",
+		"description": "A raider on her ninth life. ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_RecipeWhole_Retrac",
 		"name": "Jax",
 		"description": "Who invited this guy?",
@@ -14800,6 +16800,26 @@
 		}
 	},
 	{
+		"id": "Character_RedOasisApricot_Retrac",
+		"name": "FFC Chloe Kim",
+		"description": "Already a master of fancy footwork.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_RedOasisPomegranate_Retrac",
 		"name": "FFC Sparkplug",
 		"description": "Charge up.",
@@ -14820,9 +16840,49 @@
 		}
 	},
 	{
+		"id": "Character_RevoltCrush_Retrac",
+		"name": "The Grabber",
+		"description": "Revenge never dies. ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_RockerPunkAlt_Retrac",
 		"name": "Drop Dee",
 		"description": "Let's open up this pit.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_RoosterMelt_Retrac",
+		"name": "Nobara Kugisaki",
+		"description": "A determined Sorcerer who came to the city from the countryside.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -14980,6 +17040,26 @@
 		}
 	},
 	{
+		"id": "Character_RustedBlade_Retrac",
+		"name": "Oxide",
+		"description": "Take them apart.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_SableHorizon_Retrac",
 		"name": "Aaliyah",
 		"description": "Let the night guide you.",
@@ -15080,6 +17160,26 @@
 		}
 	},
 	{
+		"id": "Character_SharpFang_Retrac",
+		"name": "Helsie",
+		"description": "Adventure-seeker. Vampire staker. Boba master.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_ShovelCrop_Retrac",
 		"name": "Yoruichi Shihoin",
 		"description": "Former head of the Shihoin Clan, one of the Four Great Noble Clans.",
@@ -15112,6 +17212,26 @@
 		{
 			"backendValue": "EFortRarity::Mythic",
 			"displayValue": "Mythic"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_Silencer_Retrac",
+		"name": "Joni the Red",
+		"description": "Tactician. Survivor. Defender of the innocent.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
 		},
 		"set":
 		{
@@ -15240,6 +17360,26 @@
 		}
 	},
 	{
+		"id": "Character_SleepyCloud_Retrac",
+		"name": "Selbi",
+		"description": "Time for some restful reconnaissance.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_SlickIntel_Swipe_Retrac",
 		"name": "Grace Crowne",
 		"description": "They'll never know you were here.",
@@ -15303,6 +17443,26 @@
 		"id": "Character_Smonk_Retrac",
 		"name": "Clove",
 		"description": "It's fun being a secret agent and all, but I really hope that there's an alternate universe out there where I'm just growing old with a bunch of cats.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_SmoothGriffin_Retrac",
+		"name": "Princess Charlie Morningstar",
+		"description": "Princess of Hell. Founder of Hazbin Hotel.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -15540,9 +17700,49 @@
 		}
 	},
 	{
+		"id": "Character_StudyBench_Retrac",
+		"name": "Spike Spiegel",
+		"description": "A bounty hunter aboard the Bebop and a practitioner of Jeet Kune Do.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_StuffRasp_Retrac",
 		"name": "EsDeeKid",
 		"description": "Young, lit and handsome.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_SugarBrain_Retrac",
+		"name": "Sugar",
+		"description": "She's no scaredy cat.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -15603,6 +17803,46 @@
 		"id": "Character_SunbeamQuest_Retrac",
 		"name": "KIMIKO FIVE-TAILS",
 		"description": "An ancient fox spirit who watches over the Fox Clan.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_Sunlit_Retrac",
+		"name": "Selene",
+		"description": "Her destiny lies in the stars.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_SurgeRaven_Pack_Retrac",
+		"name": "The Bride",
+		"description": "Here comes the bride.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -15700,9 +17940,169 @@
 		}
 	},
 	{
+		"id": "Character_TacticalOnyx_Retrac",
+		"name": "Control",
+		"description": "The road is yours.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_TacticMushroom_B_Retrac",
+		"name": "Breacher",
+		"description": "Recon and rumble.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_TacticMushroom_C_Retrac",
+		"name": "Warfare",
+		"description": "Strategize and strike.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_TacticMushroom_D_Retrac",
+		"name": "Hangfire",
+		"description": "Do what it takes to win.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_TacticMushroom_E_Retrac",
+		"name": "Firelock",
+		"description": "Outmaneuver your opponents.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_TacticMushroom_Retrac",
+		"name": "Impact",
+		"description": "Storm the enemy.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_TameEagle_Retrac",
 		"name": "Orihime Inoue",
 		"description": "",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_TangyRadishFlame_Retrac",
+		"name": "Doja Cat",
+		"description": "Rapper. Artist. Queen.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_TangyRadishMagma_Retrac",
+		"name": "Mother of Thorns Doja",
+		"description": "The Queen of Fortnitemares has arrived.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -15743,6 +18143,26 @@
 		"id": "Character_TealMink_Pelt_Retrac",
 		"name": "Keisha Cross",
 		"description": "She rules the road.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_TearErrand_Retrac",
+		"name": "Bonnie the Rabbit",
+		"description": "This rabbit's hare-raisin'.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -15803,6 +18223,26 @@
 		"id": "Character_ThirtySeven_Retrac",
 		"name": "March 7th",
 		"description": "The first sound of the future.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_ThornyPoint_Retrac",
+		"name": "Aranza",
+		"description": "The delicate thorn of The Garden.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -15940,6 +18380,26 @@
 		}
 	},
 	{
+		"id": "Character_TimeSquare_Retrac",
+		"name": "Red Roots Billie",
+		"description": "Battle in red.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_TimeTrotter_Retrac",
 		"name": "Prisma",
 		"description": "Speed is a spectrum.",
@@ -15960,9 +18420,9 @@
 		}
 	},
 	{
-		"id": "Character_TollBridge_Retrac",
-		"name": "The Employee",
-		"description": "Fulfill your quota or else.",
+		"id": "Character_ToadCycle_B_Retrac",
+		"name": "Hallway Hero",
+		"description": "Someone you can always count on.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -15980,9 +18440,109 @@
 		}
 	},
 	{
-		"id": "Character_TommyBoy_Retrac",
-		"name": "Tommy Boy",
-		"description": "Tommy Boy",
+		"id": "Character_ToadCycle_C_Retrac",
+		"name": "Knowledge Keeper",
+		"description": "Details, details, details…",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_ToadCycle_D_Retrac",
+		"name": "Mischief Maker",
+		"description": "What's wrong with a little mischief?",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_ToadCycle_E_Retrac",
+		"name": "Creature Caretaker",
+		"description": "Creatures always welcomed with a heart of gold.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_ToadCycle_Retrac",
+		"name": "Fearless Friend",
+		"description": "Always finds the best in others.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_TofuResort_Retrac",
+		"name": "Platinum The Weeknd",
+		"description": "Now platinum.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_TollBridge_Retrac",
+		"name": "The Employee",
+		"description": "Fulfill your quota or else.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -16023,6 +18583,26 @@
 		"id": "Character_Tracer_Retrac",
 		"name": "Tracer",
 		"description": "Cheers, love! It's time to save the world!",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_TrackWaver_Retrac",
+		"name": "Mercy",
+		"description": "Overwatch's guardian angel in the field.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -16180,6 +18760,26 @@
 		}
 	},
 	{
+		"id": "Character_TwilightSpotSpell_Retrac",
+		"name": "Clix",
+		"description": "Make it look easy. ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_UniqueBeetle_Retrac",
 		"name": "Cosmic Armor Singularity",
 		"description": "From the beginning to the end.",
@@ -16283,6 +18883,26 @@
 		"id": "Character_UpbeatIguana_Retrac",
 		"name": "Chill Challenger",
 		"description": "Shining with street style.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_UskThump_Retrac",
+		"name": "Michael Scott",
+		"description": "Regional Manager of Dunder Mifflin Paper Company, Scranton branch.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -16420,6 +19040,26 @@
 		}
 	},
 	{
+		"id": "Character_VigorKnackGolf_Retrac",
+		"name": "Elite Mongraal",
+		"description": "From Sidcup to the Shadows.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_VitalPsych_Retrac",
 		"name": "Highwire",
 		"description": "Chaos is a game, and she always wins.",
@@ -16483,6 +19123,26 @@
 		"id": "Character_VonLycaon_Retrac",
 		"name": "Von Lycaon",
 		"description": "At your service.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Character_VowelSleep_Retrac",
+		"name": "Supergirl",
+		"description": "A Kryptonian on a mission.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -16620,6 +19280,26 @@
 		}
 	},
 	{
+		"id": "Character_WoodsPrice_Retrac",
+		"name": "Goal Getter",
+		"description": "Skill decides everything.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Character_WormChalk_Retrac",
 		"name": "Mahito",
 		"description": "A cursed spirit of human origin.",
@@ -16740,6 +19420,26 @@
 		}
 	},
 	{
+		"id": "CID_963_Athena_Commando_F_Lexa_Retrac",
+		"name": "Lexa",
+		"description": "Don't let the smile fool you.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "CID_964_Athena_Commando_M_Historian_869BC_Retrac",
 		"name": "Kratos",
 		"description": "I am what the gods made me.",
@@ -16752,6 +19452,46 @@
 		{
 			"backendValue": "EFortRarity::Mythic",
 			"displayValue": "Mythic"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_976_Athena_Commando_F_Wombat_0GRTQ_Retrac",
+		"name": "Michonne",
+		"description": "Facing evil brings good people together.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_980_Athena_Commando_F_Elf_Retrac",
+		"name": "Snowbell",
+		"description": "Ring in the season by wrapping up a win. ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
 		},
 		"set":
 		{
@@ -16803,6 +19543,206 @@
 		"id": "CID_Ayren_Retrac",
 		"name": "Camo Commander",
 		"description": "Assasinating in silence",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_001_Athena_Commando_F_GlobalFB_HDL2W_Retrac",
+		"name": "Striker Specialist",
+		"description": "Bring it home.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_002_Athena_Commando_F_GlobalFB_B_0CH64_Retrac",
+		"name": "Shot Stopper",
+		"description": "Nothing gets by you.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_003_Athena_Commando_F_GlobalFB_C_J4H5J_Retrac",
+		"name": "Derby Dominator",
+		"description": "Leave your rivals in the dust.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_004_Athena_Commando_F_GlobalFB_D_62OZ5_Retrac",
+		"name": "Tiki Tackler",
+		"description": "Teamwork works.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_005_Athena_Commando_F_GlobalFB_E_GTH5I_Retrac",
+		"name": "Pitch Patroller",
+		"description": "When you're the best, it shows.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_017_Athena_Commando_F_Mainframe_CYL17_Retrac",
+		"name": "Bitstream",
+		"description": "She fights for the Users.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_018_Athena_Commando_F_Mainframe_B_T6GY4_Retrac",
+		"name": "Commandline",
+		"description": "Born to explore the 'net.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_019_Athena_Commando_F_Mainframe_C_U5RI4_Retrac",
+		"name": "Upload",
+		"description": "Perfect delivery, every time.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_020_Athena_Commando_F_Mainframe_D_ZHVEM_Retrac",
+		"name": "Io",
+		"description": "Lightning-fast APM.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_021_Athena_Commando_F_Mainframe_E_L34E4_Retrac",
+		"name": "Bandwidth",
+		"description": "Firewalls? What firewalls?",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -16900,6 +19840,26 @@
 		}
 	},
 	{
+		"id": "CID_A_042_Athena_Commando_F_Scholar_Retrac",
+		"name": "Isabelle",
+		"description": "Voted \"Most Likely To Succeed... Or Burn the Place Down.\"",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "CID_A_047_Athena_Commando_F_Windwalker_Retrac",
 		"name": "Windwalker Echo",
 		"description": "May the winds lead you home.",
@@ -16923,6 +19883,86 @@
 		"id": "CID_A_076_Athena_Commando_F_DinoCollector_Retrac",
 		"name": "Gia",
 		"description": "As far as she's concerned, she's the rightful leader of the Clan.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_085_Athena_Commando_F_Hardwood_K7ZZ1_Retrac",
+		"name": "Rain Maker",
+		"description": "Take it to the hoop.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_087_Athena_Commando_F_Hardwood_C_AOU16_Retrac",
+		"name": "Crossover Champion",
+		"description": "Defenders don't stand a chance.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_088_Athena_Commando_F_Hardwood_D_WPHX2_Retrac",
+		"name": "Rebound Raider",
+		"description": "It's all in the reflexes.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_089_Athena_Commando_F_Hardwood_E_4TDWH_Retrac",
+		"name": "Splash Specialist",
+		"description": "Take the shot.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -17000,6 +20040,26 @@
 		}
 	},
 	{
+		"id": "CID_A_117_Athena_Commando_F_Rockstar_Retrac",
+		"name": "Celeste",
+		"description": "Serving cosmic justice on the battlefield.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "CID_A_127_Athena_Commando_F_MechanicalEngineerSummer_Retrac",
 		"name": "Beach Jules",
 		"description": "Get some R&R to go with your R&D.",
@@ -17043,6 +20103,106 @@
 		"id": "CID_A_162_Athena_Commando_F_Quarrel_E5D63_Retrac",
 		"name": "Cammy",
 		"description": "For those who I wish to protect...I will fight you!",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_168_Athena_Commando_F_Stands_Retrac",
+		"name": "Melody Maverick",
+		"description": "Stay in key, no matter what.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_169_Athena_Commando_F_Stands_B_Retrac",
+		"name": "Band Pass",
+		"description": "Pitch perfect on the battlefield.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_170_Athena_Commando_F_Stands_C_Retrac",
+		"name": "Amplitude",
+		"description": "Ride the waveforms.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_171_Athena_Commando_F_Stands_D_Retrac",
+		"name": "Harmonizer",
+		"description": "Put on a showstopping performance.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_172_Athena_Commando_F_Stands_E_Retrac",
+		"name": "Pop Prodigy",
+		"description": "The songstress of the summer.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -17120,6 +20280,26 @@
 		}
 	},
 	{
+		"id": "CID_A_207_Athena_Commando_M_TextileKnight_9TE8L_Retrac",
+		"name": "Game Knight",
+		"description": "So retro you can call it a renaissance.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "CID_A_215_Athena_Commando_F_SunriseCastle_48TIZ_Retrac",
 		"name": "Chani",
 		"description": "A powerful Fremen warrior and skilled survivalist.",
@@ -17140,9 +20320,69 @@
 		}
 	},
 	{
+		"id": "CID_A_221_Athena_Commando_M_Relish_8364H_Retrac",
+		"name": "Chris Redfield",
+		"description": "Mansion incident survivor and boulder enthusiast.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "CID_A_222_Athena_Commando_F_Relish_G6S5T_Retrac",
 		"name": "Jill Valentine",
 		"description": "The Umbrella Corporation doesn't stand a chance.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_224_Athena_Commando_F_ScholarGhoul_Retrac",
+		"name": "Grisabelle",
+		"description": "Voted \"Most Likely to Crave Brains... or Haunt the Place Forever.\" ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_229_Athena_Commando_F_DisguiseBlack_Retrac",
+		"name": "Tricksy",
+		"description": "Treat the competition to a trick.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -17260,6 +20500,146 @@
 		}
 	},
 	{
+		"id": "CID_A_303_Athena_Commando_F_Slither_D0YX9_Retrac",
+		"name": "Kata Captain",
+		"description": "This is what she's trained for.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_304_Athena_Commando_F_Slither_B_MO4VZ_Retrac",
+		"name": "Mat Master",
+		"description": "Step up to the mat and see what happens.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_305_Athena_Commando_F_Slither_C_UE2Q9_Retrac",
+		"name": "Shuto Striker",
+		"description": "Chop it up.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_306_Athena_Commando_F_Slither_D_I6D2O_Retrac",
+		"name": "Keri Commander",
+		"description": "Never skipped leg day even once.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_307_Athena_Commando_F_Slither_E_CSPZ8_Retrac",
+		"name": "Heron Stance Hero",
+		"description": "Strike with speed. Fight with honor.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_310_Athena_Commando_F_ScholarFestive_Retrac",
+		"name": "Krisabelle",
+		"description": "Voted \"Most Festive Holiday Witch\" 3 years in a row.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_311_Athena_Commando_F_ScholarFestiveWinter_Retrac",
+		"name": "Blizzabelle",
+		"description": "Voted Teen Queen of Winterfest by a jury of her witchy peers.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "CID_A_329_Athena_Commando_F_Uproar_I5N5Z_Retrac",
 		"name": "Arcane Vi",
 		"description": "The Piltover enforcer.",
@@ -17320,9 +20700,169 @@
 		}
 	},
 	{
+		"id": "CID_A_341_Athena_Commando_F_Gimmick_RB41V_Retrac",
+		"name": "Rogue",
+		"description": "The southern belle of the X-Men.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_349_Athena_Commando_F_TreyCozy_Y4D2W_Retrac",
+		"name": "NBA 75 Flex",
+		"description": "Hustle and style.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_350_Athena_Commando_F_TreyCozy_B_8TH8C_Retrac",
+		"name": "NBA 75 Clutch",
+		"description": "This is your arena.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_351_Athena_Commando_F_TreyCozy_C_A9Q45_Retrac",
+		"name": "NBA 75 Swish",
+		"description": "Be like a knife through butter.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_352_Athena_Commando_F_TreyCozy_D_2CLR3_Retrac",
+		"name": "NBA 75 Slam",
+		"description": "Make them fight for every point.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_353_Athena_Commando_F_TreyCozy_E_JRL60_Retrac",
+		"name": "NBA 75 High-Flyer",
+		"description": "Gravity is just a suggestion.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_365_Athena_Commando_F_FNCS_Blue_Retrac",
+		"name": "FNCS 3:1 Champion",
+		"description": "The real MVP.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "CID_A_381_Athena_Commando_F_CactusRocker_3HTBV_Retrac",
 		"name": "Lyric",
 		"description": "Happy Coachella.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_383_Athena_Commando_F_CactusDancer_Retrac",
+		"name": "Poet",
+		"description": "Show 'em how to do it.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -17400,6 +20940,126 @@
 		}
 	},
 	{
+		"id": "CID_A_441_Athena_Commando_F_PennantSeasOne_Retrac",
+		"name": "Tilted Trooper",
+		"description": "The true hero of Tilted Towers. ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_442_Athena_Commando_F_PennantSeasOne_B_Retrac",
+		"name": "Dusty Daredevil",
+		"description": "The dutiful defender of Dusty Depot. ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_443_Athena_Commando_F_PennantSeasOne_C_Retrac",
+		"name": "Risky Raider",
+		"description": "The rightful ruler of Risky Reels. ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_444_Athena_Commando_F_PennantSeasOne_D_Retrac",
+		"name": "Salty Striker",
+		"description": "The savory savior of Salty Springs. ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_445_Athena_Commando_F_PennantSeasOne_E_Retrac",
+		"name": "Lucky Leader",
+		"description": "The legend of Lucky Landing. ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_452_Athena_Commando_F_Barium_Retrac",
+		"name": "Hana",
+		"description": "The greatest speedboarder in her Reality. ",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "CID_A_453_Athena_Commando_F_FuzzyBearSummer_Retrac",
 		"name": "Syd",
 		"description": "Approach with clawtion.",
@@ -17420,9 +21080,109 @@
 		}
 	},
 	{
+		"id": "CID_A_457_Athena_Commando_F_PunkKoiSummer_Retrac",
+		"name": "Slayer Charlotte",
+		"description": "Same Charlotte. Same cursed sword. Now 30% more possessed!",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "CID_A_460_Athena_Commando_F_SunBeam_Retrac",
 		"name": "Undercover Kor",
 		"description": "This next mission requires blending in with the beach party.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_472_Athena_Commando_M_FutureSamuraiSummer_Retrac",
+		"name": "Phantasm",
+		"description": "A spectral echo in search of his next physical form.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_473_Athena_Commando_F_Fog_Retrac",
+		"name": "Nia",
+		"description": "A self-taught expert in stealth and style.",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_475_Athena_Commando_F_PlatinumBlue_Retrac",
+		"name": "Dreamer",
+		"description": "Nia Nal sees the future through dreams and protects the world from nightmarish threats",
+		"type":
+		{
+			"backendValue": "AthenaCharacter",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "CID_A_476_Athena_Commando_F_NeonJam_Retrac",
+		"name": "Mazy",
+		"description": "A legend in the making.",
 		"type":
 		{
 			"backendValue": "AthenaCharacter",
@@ -17720,6 +21480,46 @@
 		}
 	},
 	{
+		"id": "EID_Harmony_Retrac",
+		"name": "Feel It",
+		"description": "The sensation strikes.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "EID_Reverie_Retrac",
+		"name": "Groove Destroyer",
+		"description": "You'll never get away with this!!",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "MusicPack_Cousins_Retrac",
 		"name": "Cousins",
 		"description": "Press play and fall..",
@@ -17820,9 +21620,129 @@
 		}
 	},
 	{
+		"id": "Backpack_CargoLying_Retrac",
+		"name": "One Wish Willow",
+		"description": "You only get one wish.",
+		"type":
+		{
+			"backendValue": "AthenaBackpack",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Backpack_CherryKnot_Retrac",
+		"name": "Cooler the Red",
+		"description": "Ice cold justice.",
+		"type":
+		{
+			"backendValue": "AthenaBackpack",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Backpack_CosmicTrellis_Retrac",
+		"name": "Shujin Academy Backpack",
+		"description": "Change the Hearts of Corrupted Adults!",
+		"type":
+		{
+			"backendValue": "AthenaBackpack",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Backpack_DangerIndex_Retrac",
+		"name": "Spicefish",
+		"description": "Swim against the current.",
+		"type":
+		{
+			"backendValue": "AthenaBackpack",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Backpack_DebitScent_Retrac",
+		"name": "Carmen's Heart",
+		"description": "Sounds just lovely.",
+		"type":
+		{
+			"backendValue": "AthenaBackpack",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Backpack_FaithPerch_Retrac",
 		"name": "Rebecca Plushie",
 		"description": "Unpredictable, but fluffy.",
+		"type":
+		{
+			"backendValue": "AthenaBackpack",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Backpack_GuardHence_Retrac",
+		"name": "Freddy-oke Machine",
+		"description": "Sing along to the Fazbear Band!",
 		"type":
 		{
 			"backendValue": "AthenaBackpack",
@@ -17852,6 +21772,26 @@
 		{
 			"backendValue": "EFortRarity::Mythic",
 			"displayValue": "Mythic"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Backpack_JigsawWaste_Retrac",
+		"name": "Foxy's Side Stage",
+		"description": "Sorry, out of order.",
+		"type":
+		{
+			"backendValue": "AthenaBackpack",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
 		},
 		"set":
 		{
@@ -17940,6 +21880,26 @@
 		}
 	},
 	{
+		"id": "Backpack_OceanPearlFNCSShield_Retrac",
+		"name": "FNCS Immortal",
+		"description": "Victory is forever.",
+		"type":
+		{
+			"backendValue": "AthenaBackpack",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Backpack_PageTruffle_Retrac",
 		"name": "Skibidi Toilet",
 		"description": "You know it. Now wear it.",
@@ -17972,6 +21932,26 @@
 		{
 			"backendValue": "EFortRarity::Mythic",
 			"displayValue": "Mythic"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Backpack_RubyWardenFNCSLogo_Retrac",
+		"name": "Teal Knight's Emblem",
+		"description": "Lay siege to the leaderboard.",
+		"type":
+		{
+			"backendValue": "AthenaBackpack",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
 		},
 		"set":
 		{
@@ -18080,6 +22060,86 @@
 		}
 	},
 	{
+		"id": "Backpack_SpireTend_Retrac",
+		"name": "Keyblade",
+		"description": "A unique weapon in the shape of a key.",
+		"type":
+		{
+			"backendValue": "AthenaBackpack",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Backpack_SushiAware_Retrac",
+		"name": "Chica Chicake",
+		"description": "What's got you so wound up?",
+		"type":
+		{
+			"backendValue": "AthenaBackpack",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Backpack_TearErrand_Retrac",
+		"name": "Bonnie's Guitar Case",
+		"description": "Ready to wail.",
+		"type":
+		{
+			"backendValue": "AthenaBackpack",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Backpack_TerryBroke_Retrac",
+		"name": "Old Sack",
+		"description": "A sack full of supplies to help you survive the night.",
+		"type":
+		{
+			"backendValue": "AthenaBackpack",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
 		"id": "Backpack_ThunderBallet_Retrac",
 		"name": "Stormwings",
 		"description": "Dance like lightning.",
@@ -18132,6 +22192,46 @@
 		{
 			"backendValue": "EFortRarity::Mythic",
 			"displayValue": "Mythic"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Emoticon_S36_Ranked1_Retrac",
+		"name": "Emoticon",
+		"description": "Express yourself on the battlefield.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
+		},
+		"set":
+		{
+			"backendValue": "",
+			"displayValue": ""
+		}
+	},
+	{
+		"id": "Emoticon_S36_Ranked2_Retrac",
+		"name": "Emoticon",
+		"description": "Express yourself on the battlefield.",
+		"type":
+		{
+			"backendValue": "AthenaDance",
+			"displayValue": ""
+		},
+		"rarity":
+		{
+			"backendValue": "EFortRarity::Transcendent",
+			"displayValue": "Transcendent"
 		},
 		"set":
 		{
